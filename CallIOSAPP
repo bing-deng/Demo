@@ -1,0 +1,9 @@
+<html>
+setTimeout(function () {
+    var timeOutDateTime = new Date();
+    if (!loadDateTime || timeOutDateTime - loadDateTime < 1010) {
+       window.location = self.dataset.href;
+    }        
+},1000);
+window.location = 'diaodiao://';
+</html>
