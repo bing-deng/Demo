@@ -1,0 +1,47 @@
+[
+    {
+        "result": "1",
+        "data": [
+            {
+                "curriculum": "高一函数讲解",
+                "curriculumImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "curriculumId": "666661",
+                "teacherName": "张三丰",
+                "subject": "语文",
+                "grade": "高三"
+            },
+            {
+                "curriculum": "高一函数讲解",
+                "curriculumImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "curriculumId": "666662",
+                "teacherName": "张三丰",
+                "subject": "语文",
+                "grade": "高三"
+            },
+            {
+                "curriculum": "高一函数讲解",
+                "curriculumImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "curriculumId": "666663",
+                "teacherName": "张三丰",
+                "subject": "语文",
+                "grade": "高三"
+            },
+            {
+                "curriculum": "高一函数讲解",
+                "curriculumImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "curriculumId": "666664",
+                "teacherName": "张三丰",
+                "subject": "语文",
+                "grade": "高三"
+            },
+            {
+                "curriculum": "高一函数讲解",
+                "curriculumImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "curriculumId": "666665",
+                "teacherName": "张三丰",
+                "subject": "语文",
+                "grade": "高三"
+            }
+        ]
+    }
+]

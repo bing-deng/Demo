@@ -1,0 +1,23 @@
+[
+    {
+        "result": "1",
+        "data": [
+            {
+                "userId": "111111",
+                "token": "sdkflskjdflskjflsjflskdjflsjkdflsjf",
+                "userName": "gggggg",
+                "schoolId": "222222",
+                "classId": "333333",
+                "telephone": "13333333333",
+                "userAdress": "辽宁省大连市",
+                "userImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "sex": "1",
+                "age": "44",
+                "studySectionId":"1",
+                "gradeId":"321",
+                "schoolName":"附中小学",
+                "className":"三年2班"
+            }
+        ]
+    }
+]
