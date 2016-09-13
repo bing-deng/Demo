@@ -1,0 +1,42 @@
+[
+    {
+        "result": "1",
+        "data": [
+            {
+                "briefingTitle": "英语口语改革",
+                "briefingImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "briefingAuthor": "张三丰",
+                "briefingId": "555551",
+                "briefingTime": "2016-09-15"
+            },
+            {
+                "briefingTitle": "英语口语改革",
+                "briefingImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "briefingAuthor": "张三丰",
+                "briefingId": "555552",
+                "briefingTime": "2016-09-15"
+            },
+            {
+                "briefingTitle": "英语口语改革",
+                "briefingImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "briefingAuthor": "张三丰",
+                "briefingId": "555553",
+                "briefingTime": "2016-09-15"
+            },
+            {
+                "briefingTitle": "英语口语改革",
+                "briefingImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "briefingAuthor": "张三丰",
+                "briefingId": "555554",
+                "briefingTime": "2016-09-15"
+            },
+            {
+                "briefingTitle": "英语口语改革",
+                "briefingImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "briefingAuthor": "张三丰",
+                "briefingId": "555555",
+                "briefingTime": "2016-09-15"
+            }
+        ]
+    }
+]

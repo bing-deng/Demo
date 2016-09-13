@@ -1,0 +1,42 @@
+[
+    {
+        "result": "1",
+        "data": [
+            {
+                "highName": "哈工大附属高中",
+                "highImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "411111",
+                "highLookNum": "33",
+                "highVKNum": "44"
+            },
+            {
+                "highName": "哈工大附属高中",
+                "highImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "411112",
+                "highLookNum": "33",
+                "highVKNum": "44"
+            },
+            {
+                "highName": "哈工大附属高中",
+                "highImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "411113",
+                "highLookNum": "33",
+                "highVKNum": "44"
+            },
+            {
+                "highName": "哈工大附属高中",
+                "highImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "411114",
+                "highLookNum": "33",
+                "highVKNum": "44"
+            },
+            {
+                "highName": "哈工大附属高中",
+                "highImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "411115",
+                "highLookNum": "33",
+                "highVKNum": "44"
+            }
+        ]
+    }
+]

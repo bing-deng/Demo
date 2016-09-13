@@ -1,0 +1,42 @@
+[
+    {
+        "result": "1",
+        "data": [
+            {
+                "middleName": "哈工大附属中学",
+                "middleImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "311111",
+                "middleLookNum": "33",
+                "middleVKNum": "44"
+            },
+            {
+                "middleName": "哈工大附属中学",
+                "middleImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "311112",
+                "middleLookNum": "33",
+                "middleVKNum": "44"
+            },
+            {
+                "middleName": "哈工大附属中学",
+                "middleImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "311113",
+                "middleLookNum": "33",
+                "middleVKNum": "44"
+            },
+            {
+                "middleName": "哈工大附属中学",
+                "middleImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "311114",
+                "middleLookNum": "33",
+                "middleVKNum": "44"
+            },
+            {
+                "middleName": "哈工大附属中学",
+                "middleImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "3111115",
+                "middleLookNum": "33",
+                "middleVKNum": "44"
+            }
+        ]
+    }
+]

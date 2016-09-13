@@ -1,0 +1,42 @@
+[
+    {
+        "result": "1",
+        "data": [
+            {
+                "primaryName": "哈工大附属小学",
+                "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "211111",
+                "primaryLookNum": "33",
+                "primaryVKNum": "44"
+            },
+            {
+                "primaryName": "哈工大附属小学",
+                "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "211112",
+                "primaryLookNum": "33",
+                "primaryVKNum": "44"
+            },
+            {
+                "primaryName": "哈工大附属小学",
+                "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "211113",
+                "primaryLookNum": "33",
+                "primaryVKNum": "44"
+            },
+            {
+                "primaryName": "哈工大附属小学",
+                "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "211114",
+                "primaryLookNum": "33",
+                "primaryVKNum": "44"
+            },
+            {
+                "primaryName": "哈工大附属小学",
+                "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+                "schoolId": "211115",
+                "primaryLookNum": "33",
+                "primaryVKNum": "44"
+            }
+        ]
+    }
+]

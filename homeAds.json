@@ -1,19 +1,14 @@
-[
-    {
-        "result": "1",
-        "data": [
-            {
-                "title": "撒切尔夫人",
-                "img": "http://img.jpg"
-            },
-            {
-                "title": "撒切尔夫人",
-                "img": "http://img.jpg"
-            },
-            {
-                "title": "撒切尔夫人",
-                "img": "http://img.jpg"
-            }
-        ]
-    }
-]
+[{
+    "result": "1",
+    "data": [{
+        "title": "撒切尔夫人",
+        "img": "http://img.jpg"
+    }, {
+        "title": "撒切尔夫人",
+        "img": "http://img.jpg"
+    }, {
+        // title 主题
+        "title": "撒切尔夫人",
+        "img": "http://img.jpg"
+    }]
+}]
