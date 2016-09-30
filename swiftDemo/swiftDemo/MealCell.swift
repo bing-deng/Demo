@@ -7,3 +7,15 @@
 //
 
 import Foundation
+import UIKit
+class MealCell:UITableViewCell{
+    
+    @IBOutlet var mealLabel: UILabel!
+    @IBOutlet var mealImageView: UIImageView!
+
+    override func awakeFromNib() {
+        
+    }
+    
+  
+}

@@ -14,6 +14,8 @@
 		A64BB1CF1D98C34A007C2947 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A64BB1CD1D98C34A007C2947 /* LaunchScreen.storyboard */; };
 		A64BB1DA1D98C34A007C2947 /* swiftDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64BB1D91D98C34A007C2947 /* swiftDemoTests.swift */; };
 		A64BB1E51D98C34A007C2947 /* swiftDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64BB1E41D98C34A007C2947 /* swiftDemoUITests.swift */; };
+		A64BB1F51D98C693007C2947 /* MealCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64BB1F41D98C693007C2947 /* MealCell.swift */; };
+		A64BB1F71D98C7AA007C2947 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64BB1F61D98C7AA007C2947 /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,9 @@
 		A64BB1E01D98C34A007C2947 /* swiftDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A64BB1E41D98C34A007C2947 /* swiftDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftDemoUITests.swift; sourceTree = "<group>"; };
 		A64BB1E61D98C34A007C2947 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A64BB1F41D98C693007C2947 /* MealCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MealCell.swift; sourceTree = "<group>"; };
+		A64BB1F61D98C7AA007C2947 /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		A64BB1F81D98E809007C2947 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,11 +103,14 @@
 			isa = PBXGroup;
 			children = (
 				A64BB1C41D98C34A007C2947 /* AppDelegate.swift */,
+				A64BB1F81D98E809007C2947 /* MyPlayground.playground */,
 				A64BB1C61D98C34A007C2947 /* ViewController.swift */,
 				A64BB1C81D98C34A007C2947 /* Main.storyboard */,
 				A64BB1CB1D98C34A007C2947 /* Assets.xcassets */,
 				A64BB1CD1D98C34A007C2947 /* LaunchScreen.storyboard */,
 				A64BB1D01D98C34A007C2947 /* Info.plist */,
+				A64BB1F41D98C693007C2947 /* MealCell.swift */,
+				A64BB1F61D98C7AA007C2947 /* Meal.swift */,
 			);
 			path = swiftDemo;
 			sourceTree = "<group>";
@@ -259,6 +267,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A64BB1F71D98C7AA007C2947 /* Meal.swift in Sources */,
+				A64BB1F51D98C693007C2947 /* MealCell.swift in Sources */,
 				A64BB1C71D98C34A007C2947 /* ViewController.swift in Sources */,
 				A64BB1C51D98C34A007C2947 /* AppDelegate.swift in Sources */,
 			);
@@ -503,6 +513,7 @@
 				A64BB1EB1D98C34A007C2947 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A64BB1EC1D98C34A007C2947 /* Build configuration list for PBXNativeTarget "swiftDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +522,7 @@
 				A64BB1EE1D98C34A007C2947 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A64BB1EF1D98C34A007C2947 /* Build configuration list for PBXNativeTarget "swiftDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +531,7 @@
 				A64BB1F11D98C34A007C2947 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
