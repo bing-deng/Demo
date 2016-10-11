@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="springDemo/src/main/java"/>
+	<classpathentry kind="src" path="springDemo/src/test/java"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/ant-1.9.6.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/ant-launcher-1.9.6.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/cglib-3.2.2.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/log4j-api-2.3.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/log4j-core-2.3.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/ognl-3.1.8.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/lib/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="mybatis-3.4.1/mybatis-3.4.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="springDemo/target/classes"/>
+</classpath>
