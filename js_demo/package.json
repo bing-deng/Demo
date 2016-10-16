@@ -1,0 +1,14 @@
+{
+  "name": "js_demo",
+  "version": "1.0.0",
+  "description": "使用node npm 写一个简单的js 项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jhon",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
