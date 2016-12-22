@@ -30,8 +30,22 @@ class ViewController: NSViewController {
   @IBOutlet var searchResultsController:NSArrayController!
   override func viewDidLoad() {
     super.viewDidLoad()
+    
+    let itemPrototype = self.storyboard?.instantiateController(withIdentifier:
+      "collectionViewItem") as! NSCollectionViewItem
+    collectionView.itemPrototype = itemPrototype
   }
  
+  //1
+  func tableViewSelectionDidChange(_ notification: NSNotification) {
+    //2
+    guard let result = searchResultsController.selectedObjects.first as? Result else { return }
+    //3
+    result.loadIcon()
+    result.loadScreenShots()
+
+  }
+  
   @IBAction func click(_ sender: AnyObject){
     //1
     if (searchTextField.stringValue == "") {

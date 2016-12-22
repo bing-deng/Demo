@@ -752,7 +752,7 @@
                                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                         </textFieldCell>
                                         <connections>
-                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.trackName" id="PLf-te-6Kp"/>
+                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.trackName" id="2h9-7m-rCq"/>
                                         </connections>
                                     </textField>
                                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="rzb-MG-oLb" userLabel="Artist Label (Bind)">
@@ -765,6 +765,9 @@
                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                         </textFieldCell>
+                                        <connections>
+                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.artistName" id="x9J-zF-5zT"/>
+                                        </connections>
                                     </textField>
                                     <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="YYS-RB-ZAH" userLabel="Icon Image View (Bind)">
                                         <rect key="frame" x="22" y="528" width="100" height="100"/>
@@ -773,6 +776,9 @@
                                             <constraint firstAttribute="height" constant="100" id="8EB-q5-3VK"/>
                                         </constraints>
                                         <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyUpOrDown" id="bpA-z2-Vmp"/>
+                                        <connections>
+                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.artworkImage" id="1Nv-A3-POE"/>
+                                        </connections>
                                     </imageView>
                                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="zmf-KR-vR3" userLabel="Price Label (Bind)">
                                         <rect key="frame" x="596" y="663" width="46" height="17"/>
@@ -781,10 +787,14 @@
                                             <constraint firstAttribute="height" constant="17" id="MAd-vR-mZm"/>
                                         </constraints>
                                         <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Label" id="x3k-Bs-tYI">
+                                            <numberFormatter key="formatter" formatterBehavior="default10_4" numberStyle="currency" minimumIntegerDigits="1" maximumIntegerDigits="2000000000" minimumFractionDigits="2" maximumFractionDigits="2" id="fwx-5Z-GEJ"/>
                                             <font key="font" metaFont="system"/>
                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                         </textFieldCell>
+                                        <connections>
+                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.price" id="iv3-QR-IKT"/>
+                                        </connections>
                                     </textField>
                                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="Icl-TS-3UY">
                                         <rect key="frame" x="550" y="663" width="39" height="17"/>
@@ -810,6 +820,9 @@
                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                         </textFieldCell>
+                                        <connections>
+                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.primaryGenre" id="ehX-eN-Wl3"/>
+                                        </connections>
                                     </textField>
                                     <scrollView horizontalLineScroll="10" horizontalPageScroll="10" verticalLineScroll="10" verticalPageScroll="10" hasHorizontalScroller="NO" usesPredominantAxisScrolling="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LYj-sy-9sv" userLabel="Description Text View">
                                         <rect key="frame" x="20" y="378" width="643" height="135"/>
@@ -824,6 +837,9 @@
                                                     <size key="minSize" width="641" height="133"/>
                                                     <size key="maxSize" width="783" height="10000000"/>
                                                     <color key="insertionPointColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                                                    <connections>
+                                                        <binding destination="ott-1H-Tfl" name="attributedString" keyPath="selection.itemDescription" id="eCP-re-mUh"/>
+                                                    </connections>
                                                 </textView>
                                             </subviews>
                                             <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -859,10 +875,14 @@
                                             <constraint firstAttribute="width" constant="80" id="j4x-0f-vVF"/>
                                         </constraints>
                                         <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Label" id="w41-N9-uz6">
+                                            <byteCountFormatter key="formatter" id="DEM-8f-OBr"/>
                                             <font key="font" metaFont="system"/>
                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                         </textFieldCell>
+                                        <connections>
+                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.fileSizeInBytes" id="y6h-Zw-dKp"/>
+                                        </connections>
                                     </textField>
                                     <scrollView autohidesScrollers="YES" horizontalLineScroll="10" horizontalPageScroll="10" verticalLineScroll="10" verticalPageScroll="10" usesPredominantAxisScrolling="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xoy-bX-D9V">
                                         <rect key="frame" x="20" y="20" width="643" height="350"/>
@@ -874,6 +894,9 @@
                                                     <rect key="frame" x="0.0" y="0.0" width="641" height="348"/>
                                                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                     <color key="primaryBackgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
+                                                    <connections>
+                                                        <binding destination="ott-1H-Tfl" name="content" keyPath="selection.screenShots" id="b3X-Qp-9P2"/>
+                                                    </connections>
                                                 </collectionView>
                                             </subviews>
                                         </clipView>
@@ -897,6 +920,9 @@
                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                         </textFieldCell>
+                                        <connections>
+                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.releaseDate" id="td1-Ab-jLy"/>
+                                        </connections>
                                     </textField>
                                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="ELI-dy-TsR">
                                         <rect key="frame" x="482" y="638" width="107" height="17"/>
@@ -921,6 +947,9 @@
                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                         </textFieldCell>
+                                        <connections>
+                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.userRatingCount" id="55c-xy-jen"/>
+                                        </connections>
                                     </textField>
                                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="HiS-nX-eOn">
                                         <rect key="frame" x="477" y="613" width="112" height="17"/>
@@ -945,6 +974,9 @@
                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                         </textFieldCell>
+                                        <connections>
+                                            <binding destination="ott-1H-Tfl" name="value" keyPath="selection.averageUserRating" id="69f-3A-PSq"/>
+                                        </connections>
                                     </textField>
                                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="zgz-rq-Xt6">
                                         <rect key="frame" x="517" y="588" width="72" height="17"/>
@@ -1216,6 +1248,9 @@
                             <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="60f-fe-5rR" userLabel="Screen Shot Image View (Bind)">
                                 <rect key="frame" x="0.0" y="0.0" width="260" height="460"/>
                                 <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyDown" id="FmS-nC-FS9"/>
+                                <connections>
+                                    <binding destination="Y8Z-p4-zBF" name="value" keyPath="values.representedObject" id="dJ1-Dh-Qkb"/>
+                                </connections>
                             </imageView>
                         </subviews>
                         <constraints>
