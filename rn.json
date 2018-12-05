@@ -1,6 +1,6 @@
 {
 	"status": true,
 	"data": {
-		"name": "john"
+		"user": "john"
 	}
 }
