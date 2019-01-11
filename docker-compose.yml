@@ -2,7 +2,7 @@ version: "3"
 
 services:
   nodeosd:
-    image: dengbb/eos:v1.5.3
+    image: dengbb/eosio:v1.5.3
     command: /opt/eosio/bin/nodeos --data-dir=/data --config-dir=/etc/nodeos
     hostname: nodeosd
     ports:
