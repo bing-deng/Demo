@@ -1,15 +1,29 @@
-version: "3"
+version: "3.3"
 
 services:
-  nodeosd:
-    image: dengbb/eosio:1.5.3
-    command: /opt/eosio/bin/nodeos --data-dir=/data --config-dir=/etc/nodeos
-    hostname: nodeosd
-    ports:
-      - 8890:8888
-      - 9878:9876
-    expose:
-      - "8888"
+  db:
+    image: mysql:5.7
     volumes:
-      - /data/eos/nodeos-data-volume/nodeos-data-kylin/config:/etc/nodeos
-      - /data/eos/nodeos-data-volume/nodeos-data-kylin/data:/data
+      - db_data:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: somewordpress
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: wordpress
+
+  wordpress:
+    depends_on:
+      - db
+    image: wordpress:latest
+    ports:
+      - "8000:80"
+    restart: always
+    volumes:
+      - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: wordpress
+volumes:
+  db_data: {}
