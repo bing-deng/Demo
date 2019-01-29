@@ -1,0 +1,48 @@
+version: '3'
+services:
+  wordpress:
+    depends_on:
+       - mysql
+    image: wordpress:latest
+    links:
+        - mysql:mysql
+    ports:
+      - 80:80    
+    environment:
+      WORDPRESS_DB_HOST: mysql      
+      WORDPRESS_DB_USER: root
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_DB_PASSWORD: root      
+      MYSQL_PORT_3306_TCP: 3306
+    restart: unless-stopped
+    networks:
+      - my-bridge
+    
+
+  mysql:
+    image: mysql:8
+    command: '--default-authentication-plugin=mysql_native_password'
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: wordpress   
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
+    volumes:
+      - mysql-data:/var/lib/mysql
+    restart: unless-stopped
+    networks:
+      - my-bridge
+    ports:
+     - "3306:3306"
+
+volumes:
+  mysql-data:
+
+networks:
+  my-bridge:
+    driver: bridge
+--------------------- 
+作者：zsy135220 
+来源：CSDN 
+原文：https://blog.csdn.net/zsy135220/article/details/84364429 
+版权声明：本文为博主原创文章，转载请附上博文链接！
