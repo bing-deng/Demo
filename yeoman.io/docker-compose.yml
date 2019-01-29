@@ -14,7 +14,8 @@ services:
        WORDPRESS_DB_HOST: db:3306
        WORDPRESS_DB_USER: wordpress
        WORDPRESS_DB_PASSWORD: my_wordpress_db_password
-
+     networks:
+      - my-bridge
    db:
      image: mysql:5.7
      volumes:
@@ -25,6 +26,12 @@ services:
        MYSQL_DATABASE: wordpress
        MYSQL_USER: wordpress
        MYSQL_PASSWORD: my_wordpress_db_password
+     networks:
+      - my-bridge
 volumes:
     wordpress_files:
     db_data:
+    
+networks:
+  my-bridge:
+    driver: bridge
