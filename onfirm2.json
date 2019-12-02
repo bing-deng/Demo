@@ -18,28 +18,28 @@
 			"title": "",
 			"msg": "eth out stop",
 			"needConfirm": 1,
-			"showType": 1,
+			"showType": 9,
 			"coin ": "eth"
 		},
 		"ethTransferIn": {
 			"title": "",
 			"msg": "eth in stop",
 			"needConfirm": 1,
-			"showType": 1,
+			"showType": 0,
 			"coin ": "eth"
 		},
 		"btcTransferOut": {
 			"title": "",
 			"msg": "btc out stop",
 			"needConfirm": 1,
-			"showType": 1,
+			"showType": 0,
 			"coin ": "btc"
 		},
 		"btcTransferIn": {
 			"title": "",
 			"msg": "btc in stop",
 			"needConfirm": 1,
-			"showType": 1,
+			"showType": 0,
 			"coin ": "btc"
 		},
 		"ltcTransferOut": {
