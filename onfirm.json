@@ -16,56 +16,56 @@
 		},
 		"ethTransferOut": {
 			"title": "",
-			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u51fa\u91d1\u4e00\u6642\u505c\u6b62",
+			"msg": "eth out stop",
 			"needConfirm": 1,
 			"showType": 1,
 			"coin ": "eth"
 		},
 		"ethTransferIn": {
 			"title": "",
-			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u5165\u91d1\u4e00\u6642\u505c\u6b62",
+			"msg": "eth in stop",
 			"needConfirm": 1,
 			"showType": 1,
 			"coin ": "eth"
 		},
 		"btcTransferOut": {
 			"title": "",
-			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u51fa\u91d1\u4e00\u6642\u505c\u6b62",
+			"msg": "btc out stop",
 			"needConfirm": 1,
 			"showType": 1,
 			"coin ": "btc"
 		},
 		"btcTransferIn": {
 			"title": "",
-			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u5165\u91d1\u4e00\u6642\u505c\u6b62",
+			"msg": "btc in stop",
 			"needConfirm": 1,
 			"showType": 1,
 			"coin ": "btc"
 		},
 		"ltcTransferOut": {
 			"title": "",
-			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u51fa\u91d1\u4e00\u6642\u505c\u6b62",
+			"msg": "ltc out stop",
 			"needConfirm": 1,
 			"showType": 1,
 			"coin ": "ltc"
 		},
 		"ltcTransferIn": {
 			"title": "",
-			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u5165\u91d1\u4e00\u6642\u505c\u6b62",
+			"msg": "ltc in stop",
 			"needConfirm": 1,
 			"showType": 1,
 			"coin ": "ltc"
 		},
 		"bchTransferOut": {
 			"title": "",
-			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u51fa\u91d1\u4e00\u6642\u505c\u6b62",
+			"msg": "bch out stop",
 			"needConfirm": 1,
 			"showType": 1,
 			"coin ": "bch"
 		},
 		"bchTransferIn": {
 			"title": "",
-			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u5165\u91d1\u4e00\u6642\u505c\u6b62",
+			"msg": "bch in stop",
 			"needConfirm": 1,
 			"showType": 1,
 			"coin ": "bch"
