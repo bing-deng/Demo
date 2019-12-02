@@ -1,1 +1,74 @@
-{"status":1,"msg":"<入金方法>\nまずは入金額を申請してください。次の画面で振込先を表示しますので、申請額と同じ金額をお振込ください。口座着金確認後、翌営業日まで（最短10分）に口座反映いたします。","data":""}
+{
+	"status": 1,
+	"msg": "",
+	"data": {
+		"transferOut": {
+			"title": "",
+			"msg": "",
+			"needConfirm": 1,
+			"showType": 0
+		},
+		"transferIn": {
+			"title": "",
+			"msg": "",
+			"needConfirm": 1,
+			"showType": 0
+		},
+		"ethTransferOut": {
+			"title": "",
+			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u51fa\u91d1\u4e00\u6642\u505c\u6b62",
+			"needConfirm": 1,
+			"showType": 1,
+			"coin ": "eth"
+		},
+		"ethTransferIn": {
+			"title": "",
+			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u5165\u91d1\u4e00\u6642\u505c\u6b62",
+			"needConfirm": 1,
+			"showType": 1,
+			"coin ": "eth"
+		},
+		"btcTransferOut": {
+			"title": "",
+			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u51fa\u91d1\u4e00\u6642\u505c\u6b62",
+			"needConfirm": 1,
+			"showType": 1,
+			"coin ": "btc"
+		},
+		"btcTransferIn": {
+			"title": "",
+			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u5165\u91d1\u4e00\u6642\u505c\u6b62",
+			"needConfirm": 1,
+			"showType": 1,
+			"coin ": "btc"
+		},
+		"ltcTransferOut": {
+			"title": "",
+			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u51fa\u91d1\u4e00\u6642\u505c\u6b62",
+			"needConfirm": 1,
+			"showType": 1,
+			"coin ": "ltc"
+		},
+		"ltcTransferIn": {
+			"title": "",
+			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u5165\u91d1\u4e00\u6642\u505c\u6b62",
+			"needConfirm": 1,
+			"showType": 1,
+			"coin ": "ltc"
+		},
+		"bchTransferOut": {
+			"title": "",
+			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u51fa\u91d1\u4e00\u6642\u505c\u6b62",
+			"needConfirm": 1,
+			"showType": 1,
+			"coin ": "bch"
+		},
+		"bchTransferIn": {
+			"title": "",
+			"msg": "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u671f\u9593\u4e2d\u5165\u91d1\u4e00\u6642\u505c\u6b62",
+			"needConfirm": 1,
+			"showType": 1,
+			"coin ": "bch"
+		}
+	}
+}
