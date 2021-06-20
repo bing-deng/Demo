@@ -1,7 +1,19 @@
 {
-  "errorCode":0,
-  "data":{
-    "nickname":"dengbb"
-  }
-
+	"data": {
+		"admin": false,
+		"chapterTops": [],
+		"coinCount": 0,
+		"collectIds": [],
+		"email": "",
+		"icon": "",
+		"id": 101516,
+		"nickname": "ddd123321",
+		"password": "",
+		"publicName": "ddd123321",
+		"token": "",
+		"type": 0,
+		"username": "ddd123321"
+	},
+	"errorCode": 0,
+	"errorMsg": ""
 }
