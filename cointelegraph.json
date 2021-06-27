@@ -1,0 +1,1869 @@
+{
+  "rss": {
+    "-xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+    "-xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+    "-xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "-xmlns:atom": "http://www.w3.org/2005/Atom",
+    "-xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+    "-xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+    "-xmlns:media": "http://search.yahoo.com/mrss/",
+    "-version": "2.0",
+    "link": [
+      {
+        "-type": "text/css",
+        "-rel": "stylesheet",
+        "-id": "dark-mode-custom-link",
+        "-self-closing": "true"
+      },
+      {
+        "-type": "text/css",
+        "-rel": "stylesheet",
+        "-id": "dark-mode-general-link",
+        "-self-closing": "true"
+      }
+    ],
+    "style": [
+      {
+        "-lang": "en",
+        "-type": "text/css",
+        "-id": "dark-mode-custom-style",
+        "-self-closing": "true"
+      },
+      {
+        "-lang": "en",
+        "-type": "text/css",
+        "-id": "dark-mode-native-style",
+        "-self-closing": "true"
+      }
+    ],
+    "channel": {
+      "title": "仮想通貨・ビットコインのニュースサイト｜コインテレグラフ ジャパン",
+      "atom:link": {
+        "-href": "https://jp.cointelegraph.com/feed",
+        "-rel": "self",
+        "-type": "application/rss+xml",
+        "-self-closing": "true"
+      },
+      "link": "https://jp.cointelegraph.com",
+      "description": "コインテレグラフは、FINTECH、ブロックチェーン、ビットコインにまつわる、最新の仮想通貨ニュースや価格情報、業界動向の発信を通じてお金の未来を考えるメディアです。",
+      "generator": "jp.cointelegraph.com",
+      "lastBuildDate": "Mon, 28 Jun 2021 07:17:31 +0900",
+      "language": "ja",
+      "sy:updatePeriod": "hourly",
+      "sy:updateFrequency": "1",
+      "image": {
+        "title": "仮想通貨・ビットコインのニュースサイト｜コインテレグラフ ジャパン",
+        "link": "https://jp.cointelegraph.com",
+        "url": "https://jp.cointelegraph.com/assets/img/CT_Logo_YG_tag.png",
+        "description": "コインテレグラフは、FINTECH、ブロックチェーン、ビットコインにまつわる、最新の仮想通貨ニュースや価格情報、業界動向の発信を通じてお金の未来を考えるメディアです。"
+      },
+      "item": [
+        {
+          "title": {
+            "#cdata-section": " マーベルの公式NFT、VeVeのマーケットプレイスで22年までに登場と発表 "
+          },
+          "link": "https://jp.cointelegraph.com/news/marvel-reveals-official-nfts-will-be-available-on-veve-marketplace-by-2022",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMmM5MTExYjktMmE2Yy00ZWI0LWFlY2QtOTBmNDllYWY4NDU4LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMmM5MTExYjktMmE2Yy00ZWI0LWFlY2QtOTBmNDllYWY4NDU4LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sun, 27 Jun 2021 10:00:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Turner Wright "
+          },
+          "category": [
+            {
+              "#cdata-section": " business "
+            },
+            {
+              "#cdata-section": " marvel "
+            },
+            {
+              "#cdata-section": " spiderman "
+            },
+            {
+              "#cdata-section": " nft "
+            },
+            {
+              "#cdata-section": " marketplace "
+            },
+            {
+              "#cdata-section": " veve "
+            },
+            {
+              "#cdata-section": " online marketplace "
+            },
+            {
+              "#cdata-section": " movie "
+            },
+            {
+              "#cdata-section": " television "
+            },
+            {
+              "#cdata-section": " 非代替性トークン "
+            },
+            {
+              "#cdata-section": " ノンファンジブルトークン "
+            },
+            {
+              "#cdata-section": " マーベル "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/marvel-reveals-official-nfts-will-be-available-on-veve-marketplace-by-2022"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMmM5MTExYjktMmE2Yy00ZWI0LWFlY2QtOTBmNDllYWY4NDU4LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>VeVeのバーチャルマーケットプレイスにて間もなくマーベルによる公式の非代替性トークン（NFT）とデジタルのコミック本が購入可能となる。</p> <p> <p>VeVeのバーチャルマーケットプレイスにて間もなくマーベルによる公式の非代替性トークン（NFT）とデジタルのコミック本が購入可能となる。</p> <p>マーベル・エンターテインメントが24日、Orbis Blockchain Technologiesと提携して、今年中にVeVeのマーケットプレイスアプリ上で非代替性トークン（NFT）およびデジタルなコレクターズアイテムを販売することを<a data-amp=\"https://www-marvel-com.cdn.ampproject.org/c/s/www.marvel.com/amp/articles/gear/marvel-and-veve-collaborate-to-offer-digital-collectibles-experience-for-marvel-fans-worldwide\" href=\"http://www.marvel.com/articles/gear/marvel-and-veve-collaborate-to-offer-digital-collectibles-experience-for-marvel-fans-worldwide\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">発表した</a>。マーベルによれば、販売されるNFTはデジタルなコレクターアイテムやコミック本などで、マーベルのファンが交換したり自身のバーチャルなショールームに飾ったりすることができるという。</p> <p>「私たちはマーベルファンの世界の限界を押し広げたいと考えている。その手始めとなるのが、NFTによってこれまでは出来なかったような方法でファンたちが本当に集めたり、共有したり、楽しんだりできる、パーソナルでインタラクティブなデジタルコレクターズアイテムだ」と、マーベルの事業開発・戦略部の副部長であるダニエル・フィンク氏は述べている。</p> <p>マーベルによるデジタルコレクターズアイテムはすべてブロックチェーン上で鋳造され、VeVeのアプリ内トークンであるGems（GEM）を利用してユーザーが購入したり、VeVeの第二のマーケットプレイス上で他の人に売却したりできるようになる。VeVeのアプリではトークンの購入にクレジットカードによる支払いを利用できるようになっていて、すでにDCコミックスやスタートレックなどのシリーズのキャラクターたちをフィーチャーしたデジタルコレクターズアイテムを販売している。マーベルの有名キャラクターには、ウルバリン、スパイダーマン、アイアンマン、キャプテン・アメリカなどがいる。</p> <p>マーベルはまだ直接的にクリプトの分野に深く関わっているわけではないが、それでも個人のアーティストは有名キャラクターをフィーチャーした作品を販売することができる。2月には、アダム・クーバート氏によるスパイダーマンをフィーチャーした絵のNFTが25000ドルを超える価格で、ユーザーが貴重なアートを作成してオークションにかけることのできるプラットフォームであるPortion.ioにて<a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/spiderman-nft-sells-for-12-75-eth-as-marvel-comic-artists-land-on-ethereum/amp\" href=\"https://jp.cointelegraph.com/news/spiderman-nft-sells-for-12-75-eth-as-marvel-comic-artists-land-on-ethereum\">売却されている</a>。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " スイス国立銀行のエコノミスト、ブロックチェーンはCBDCに不適切と発言 "
+          },
+          "link": "https://jp.cointelegraph.com/news/blockchain-not-suitable-for-cbdc-says-swiss-national-bank-economist",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZDIyYWVmZGItYjI3MC00NzNmLWJkMmYtYjg4YjQ0NWVmZWFhLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZDIyYWVmZGItYjI3MC00NzNmLWJkMmYtYjg4YjQ0NWVmZWFhLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sun, 27 Jun 2021 09:00:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Helen Partz "
+          },
+          "category": [
+            {
+              "#cdata-section": " Swiss National Bank "
+            },
+            {
+              "#cdata-section": " Switzerland "
+            },
+            {
+              "#cdata-section": " Government "
+            },
+            {
+              "#cdata-section": " Central Bank "
+            },
+            {
+              "#cdata-section": " Digital Currency "
+            },
+            {
+              "#cdata-section": " CBDC "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " スイス "
+            },
+            {
+              "#cdata-section": " ブロックチェーン "
+            },
+            {
+              "#cdata-section": " デジタル通貨 "
+            },
+            {
+              "#cdata-section": " 中央銀行 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/blockchain-not-suitable-for-cbdc-says-swiss-national-bank-economist"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZDIyYWVmZGItYjI3MC00NzNmLWJkMmYtYjg4YjQ0NWVmZWFhLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>スイスの中央銀行であるスイス国立銀行（SNB）のエコノミストが、ビットコイン（BTC）などの仮想通貨の基盤となっているブロックチェーン技術は、中央銀行デジタル通貨（CBDC）の最適なソリューションではないとの見解を示した。</p> <p> <p>スイスの中央銀行であるスイス国立銀行（SNB）のエコノミストが、ビットコイン（BTC）などの仮想通貨の基盤となっているブロックチェーン技術は、中央銀行デジタル通貨（CBDC）の最適なソリューションではないとの見解を示した。</p> <p>スイスのドイツ語新聞<a href=\"http://www.handelszeitung.ch/unternehmen/nationalbank-blockchain-ist-ungeeignet-fur-digitales-zentralbankengeld\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">The Handelszeitung紙</a>は、木曜日、SNBのチーフエコノミスト、カルロス・レンツ氏が、ブロックチェーンを基盤とする分散化の機能は、デジタルフランのように国の管理下に置かれるデジタル通貨には効率的ではないと主張したと報じた。</p> <p>同紙によると、レンツ氏は、デジタルフランを構築するための技術的な選択肢は多数存在すると指摘し、「一例として、国立銀行に直接口座を開設するということが考えらる。それが望ましいというわけではないが、それが最もシンプルな形となるであろう」と述べた。また同氏は別の選択肢として、ブロックチェーン技術を利用した中央銀行なしでのデジタル通貨の運用の可能性を挙げたものの、ブロックチェーンは「非常に非効率的」であり、「分散型のソリューションが理想的だとは思わない」と主張している。</p> <p>さらにレンツ氏は、現時点ではSNBはデジタルフランを導入する計画はないと述べ、その理由として「既存の決済システムが順調に機能している」こと、またスイスにはCBDCは必要ないと主張しており、仮にスイスがCBDCの開発から距離を置いたとしても、フランがユーロなどの他の通貨に取って代わられるリスクもないと説明している。</p> <p>国が管理するCBDCにブロックチェーン技術を実装することについては、世界中の多くの金融専門家たちが疑問を投げかけてきている。SNBの代理委員であるトーマス・モーザー氏は、昨年、CBDCへの信頼はすでに中央銀行の中枢部である国によって提供されていることから、個人向けCBDCに関してはブロックチェーンを利用する必要はないと主張したが、その反面、SNBは、CBDCにブロックチェーンを実装することによって得られるメリットを依然模索していたのである。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " サッカー・ポルトガル代表チーム、Sociosでファントークンを発行 "
+          },
+          "link": "https://jp.cointelegraph.com/news/portuguese-national-football-team-launches-fan-token-with-socios",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNGM3NWI2ODItNDY4Yy00NjRlLWJhZGItM2E0NWZiYTQ1ZjA2LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNGM3NWI2ODItNDY4Yy00NjRlLWJhZGItM2E0NWZiYTQ1ZjA2LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sun, 27 Jun 2021 07:00:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Turner Wright "
+          },
+          "category": [
+            {
+              "#cdata-section": " business "
+            },
+            {
+              "#cdata-section": " tokens "
+            },
+            {
+              "#cdata-section": " sport "
+            },
+            {
+              "#cdata-section": " football "
+            },
+            {
+              "#cdata-section": " portugal "
+            },
+            {
+              "#cdata-section": " socios "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " トークン "
+            },
+            {
+              "#cdata-section": " ブロックチェーン "
+            },
+            {
+              "#cdata-section": " スポーツ "
+            },
+            {
+              "#cdata-section": " ポルトガル "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/portuguese-national-football-team-launches-fan-token-with-socios"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNGM3NWI2ODItNDY4Yy00NjRlLWJhZGItM2E0NWZiYTQ1ZjA2LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>ブロックチェーンベースのスポーツプラットフォームであるチリーズ（Chiliz）は、ポルトガルサッカー連盟と提携し、Sociosでファントークンをリリースした。</p> <p> <p>ブロックチェーンベースのスポーツプラットフォームであるチリーズ（Chiliz）は、ポルトガルサッカー連盟と提携し、Sociosでファントークンをリリースした。</p> <p>木曜日に発表されたSociosのアナウンスの中で、チリーズは、数日以内にポルトガルのサッカー代表チーム（「A Seleção」または「ザ・セレクション」とも呼ばれる）のトークンを国内のファンに向けて配布すると発表した。これまでにトークン化されたスポーツ・フランチャイズと同様に、この「デジタル・コレクティブル」はチリーズのブロックチェーン上で鋳造され、トークン保有者は投票やVIP報酬の獲得が可能となる。</p> <p>ポルトガルサッカー連盟のチーフ・マーケティング・オフィサーであるヌノ・モウラ氏はこう語る。</p> <blockquote><p>「$PORファン・トークンの発行により、サポーターの皆様に新しい方法でリーチし、新しく革新的な方法で交流できるようになる。これにより、ファンとポルトガル代表チームとの間にこれまでになかった新たな機会が創出され、トークンならではの特典や体験、報酬を提供できるようになるだろう」</p></blockquote> <p>チリーズがSociosを通じてスポーツ界の主要組織と提携し、ファントークンをリリースしている一方で、仮想通貨企業やブロックチェーン企業はヨーロッパや世界のスポーツフランチャイズとのライセンス契約に躍起になっている。今月初め、フランスサッカー連盟は、ブロックチェーンベースのファンタジーサッカーゲームを提供している「ソラーレ」と共同で、公式選手のノンファンジブル・トークン（NFT）を発売することを発表している。</p> <p>米国では、バスケットボールチームのフィラデルフィア・セブンティシクサーズとナショナルホッケーリーグのニュージャージー・デビルズが、Sociosと同様のパートナーシップを結んでいる。同プラットフォームは、今年のファントークンの総売上高が1億5000万ドル以上に達したと報告している。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 機関投資家によるビットコイン需要は弱い、JPモルガンは弱気な値動きを予想 "
+          },
+          "link": "https://jp.cointelegraph.com/news/institutions-have-no-appetite-for-bitcoin-at-this-price-level-jpmorgan",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYTFiMzdiYTQtNTMyNC00NWRkLWFmNmYtMzM5NTEwYThiMDU2LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYTFiMzdiYTQtNTMyNC00NWRkLWFmNmYtMzM5NTEwYThiMDU2LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sat, 26 Jun 2021 17:36:07 +0900",
+          "dc:creator": {
+            "#cdata-section": " Erhan Kahraman "
+          },
+          "category": [
+            {
+              "#cdata-section": " Bitcoin "
+            },
+            {
+              "#cdata-section": " price "
+            },
+            {
+              "#cdata-section": " jpmorgan "
+            },
+            {
+              "#cdata-section": " prediction "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " 価格 "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/institutions-have-no-appetite-for-bitcoin-at-this-price-level-jpmorgan"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYTFiMzdiYTQtNTMyNC00NWRkLWFmNmYtMzM5NTEwYThiMDU2LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>JPモルガンは、ビットコイン（BTC）と金のボラティリティの比較に基づいて価格の弱気な動きを予想している。</p> <p> <p>JPモルガンは、ビットコイン（BTC）と金のボラティリティの比較に基づいて価格の弱気な動きを予想している。</p> <p>今週<a href=\"https://markets.businessinsider.com/currencies/news/bitcoin-outlook-institutions-not-buying-dip-23000-fair-value-jpmorgan-2021-6-1030551620\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-amp=\"https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bitcoin-outlook-institutions-not-buying-dip-23000-fair-value-jpmorgan-2021-6?amp\">投資家に送られたメモ</a>の中で、JPモルガンはビットコインの公正価値が中期的に23,000～35,000ドルの間になるとみている理由を詳しく説明している。</p> <p>JPモルガンはまた、中国のマイニング事業の取り締りは、「ビットコインのハッシュレートにおける中国の高いシェアからのシフトが加速し、集中化を低下させ、中期的にビットコインにプラスの影響を与えるだろう」と指摘している。</p> <p>マイクロストラテジーのようにビットコインを積極的に押し目買いしている機関投資家の数は多くはない。「5月19日の仮想通貨の暴落から1ヶ月以上経過しても、ビットコインファンドは出血し続けている」と、JPモルガンは付け加えた。</p> <blockquote><p>「これは、上場ビットコインファンドやCMEビットコイン先物などの規制された手段を介して投資する傾向がある機関投資家が、ビットコインを押し目買いする意欲をほとんど示してないことを示唆している」</p></blockquote> <p>JPモルガンによると、強気相場の可能性を妨げるもう1つの要因は、12月と1月に40億ドル近くの資金が流入したグレイスケールビットコイン信託ファンドの6か月のロックアップ期間の終了だ。JPモルガンは「最近のボラティリティを考えると、投資家は信託ファンドの少なくとも一部を売却する可能性がある」と指摘している。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 米投資アプリのロビンフッド、仮想通貨ビジネス関連のSEC調査でIPO計画に遅れ "
+          },
+          "link": "https://jp.cointelegraph.com/news/sec-inquiry-regarding-robinhood-s-crypto-business-reportedly-delays-ipo",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZjIwZTU4N2UtNzFkNS00NWNjLTlmNGMtNGJiNTI0YWQwYzU4LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZjIwZTU4N2UtNzFkNS00NWNjLTlmNGMtNGJiNTI0YWQwYzU4LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sat, 26 Jun 2021 17:13:27 +0900",
+          "dc:creator": {
+            "#cdata-section": " Helen Partz "
+          },
+          "category": [
+            {
+              "#cdata-section": " Cryptocurrencies "
+            },
+            {
+              "#cdata-section": " Robinhood "
+            },
+            {
+              "#cdata-section": " Bitcoin Regulation "
+            },
+            {
+              "#cdata-section": " SEC "
+            },
+            {
+              "#cdata-section": " United States "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " ロビンフッド "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " 証券取引委員会 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/sec-inquiry-regarding-robinhood-s-crypto-business-reportedly-delays-ipo"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZjIwZTU4N2UtNzFkNS00NWNjLTlmNGMtNGJiNTI0YWQwYzU4LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>仮想通貨や株式取引アプリのロビンフッドは、証券規制当局によるレビューによって、新規株式公開（IPO）のプロセスが遅れているという。</p> <p> <p>仮想通貨や株式取引アプリのロビンフッドは、証券規制当局による調査によって、新規株式公開（IPO）のプロセスが遅れているという。</p> <p><a href=\"https://www.bloomberg.com/news/articles/2021-06-24/robinhood-ipo-plans-said-to-be-slowed-by-sec-review\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ブルームバーグ</a>によれば、米証券取引委員会（SEC）はロビンフッドの仮想通貨ビジネスについて調査しており、それによってIPOの計画に影響を与えているという。ロビンフッドは今年3月から仮想通貨関係で従業員を増やし、仮想通貨取引のペアを<a href=\"https://jp.cointelegraph.com/news/robinhood-targets-expanded-cryptocurrency-trading-business\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/robinhood-targets-expanded-cryptocurrency-trading-business/amp\">拡大させている</a>。</p> <p>記事では、この問題の匿名の関係者の声を伝えており、ロビンフッドのIPOが秋まで延期される可能性があると述べている。ロビンフッドは当初、6月にIPOする予定だったが、数週間前にそれを<a href=\"https://www.bloomberg.com/news/articles/2021-06-08/robinhood-markets-is-said-to-now-target-july-for-ipo\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">延期するとしていた</a>。</p> <p>米国で株や仮想通貨を取引するアプリとして人気があるロビンフッドは、3月に米SECに<a href=\"https://jp.cointelegraph.com/news/robinhood-files-sec-paperwork-for-public-offering\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/robinhood-files-sec-paperwork-for-public-offering/amp\">IPOの申請を行っていた</a>。同社は当初、IPOの予定日を指定せず、「SECが市場やその他の条件に応じて、レビュープロセスを検討した後」、公開を考えていくとしていた。</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 弱気派が依然主導権か　仮想通貨チャート分析：ビットコイン・イーサ・XRP（リップル）・ライトコイン・ビットコインキャッシュ "
+          },
+          "link": "https://jp.cointelegraph.com/news/price-analysis-6-25-btc-eth-bnb-ada-doge-xrp-dot-uni-bch-ltc",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMjczOTQ5NzAtNDhiMi00ODU2LTkxY2QtMDBlYmY0NWE2YzE3LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMjczOTQ5NzAtNDhiMi00ODU2LTkxY2QtMDBlYmY0NWE2YzE3LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sat, 26 Jun 2021 11:03:45 +0900",
+          "dc:creator": {
+            "#cdata-section": " Rakesh Upadhyay "
+          },
+          "category": [
+            {
+              "#cdata-section": " Markets "
+            },
+            {
+              "#cdata-section": " Bitcoin "
+            },
+            {
+              "#cdata-section": " Ethereum "
+            },
+            {
+              "#cdata-section": " Binance Coin "
+            },
+            {
+              "#cdata-section": " Cardano "
+            },
+            {
+              "#cdata-section": " Dogecoin "
+            },
+            {
+              "#cdata-section": " Ripple "
+            },
+            {
+              "#cdata-section": " Polkadot "
+            },
+            {
+              "#cdata-section": " Uniswap "
+            },
+            {
+              "#cdata-section": " Bitcoin Cash "
+            },
+            {
+              "#cdata-section": " Litecoin "
+            },
+            {
+              "#cdata-section": " Price analysis "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " イーサリアム "
+            },
+            {
+              "#cdata-section": " イーサ "
+            },
+            {
+              "#cdata-section": " リップル "
+            },
+            {
+              "#cdata-section": " BCT "
+            },
+            {
+              "#cdata-section": " ETH "
+            },
+            {
+              "#cdata-section": " XRP "
+            },
+            {
+              "#cdata-section": " BCH "
+            },
+            {
+              "#cdata-section": " LTC "
+            },
+            {
+              "#cdata-section": " ライトコイン "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号通貨 "
+            },
+            {
+              "#cdata-section": " ブロックチェーン "
+            },
+            {
+              "#cdata-section": " テクニカル "
+            },
+            {
+              "#cdata-section": " 分析 "
+            },
+            {
+              "#cdata-section": " チャート "
+            },
+            {
+              "#cdata-section": " 価格 "
+            },
+            {
+              "#cdata-section": " 価格分析 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/price-analysis-6-25-btc-eth-bnb-ada-doge-xrp-dot-uni-bch-ltc"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMjczOTQ5NzAtNDhiMi00ODU2LTkxY2QtMDBlYmY0NWE2YzE3LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>弱気派はビットコインの価格を再び引き下げようと試みている。アルトコインも売り圧力に直面している。</p> <p> <h2><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">BTC / USDT</font></font></h2> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">31,000ドルから28,000ドルのサポートゾーンからビットコインは反発したが</font></font><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">、今日の20日間指数平滑移動平均線（35,788ドル）から下落してしまった。下落している移動平均線とネガティブな領域にある相対力指数（RSI）は、弱気派が優勢であることを示している。</font></font></p> <figure><img width=\"1376\" height=\"776\" src=\"https://s3.cointelegraph.com/uploads/2021-06/a5c021a6-e824-4aeb-b699-4b290e1eebcf.png\"><figcaption style=\"text-align: center;\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">BTC / USDT日足チャート。</font><font style=\"vertical-align: inherit;\">出典：</font></font></em><a href=\"https://www.tradingview.com/symbols/BTCUSDT/?utm_source=cointelegraph&utm_medium=sponsored&utm_campaign=news&utm_term=btc\" rel=\"dofollow\" target=\"_blank\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">TradingView</font></font></em></a></figcaption></figure><p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">弱気派は、サポートゾーン以下に価格を押し下げようと再び試みるだろう。</font><font style=\"vertical-align: inherit;\">それが成功した場合、BTC / USDTペアは調整の次のフェーズを開始し、20,000ドルまで急落する恐れがある。</font></font></p> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">しかし、強気派は簡単にギブアップしないだろう。</font><font style=\"vertical-align: inherit;\">彼らは積極的にサポートゾーンを防衛することになるだろう。BTC</font><font style=\"vertical-align: inherit;\">価格が再びこのゾーンから反発した場合、強気筋は価格を20日間EMAより上に押し上げようと試みるはずだ。</font></font></p> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">それが成功すれば、BTC / USDTペアは今後数日間28,000ドルから42,451.67ドルの間で保ち合いが続くことにある。</font><font style=\"vertical-align: inherit;\">このレンジを上抜けることができれば、下降トレンドが終了したことを示す最初の兆候となるだろう。</font></font></p> <h2><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">ETH / USDT</font></font></h2> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">イーサリアム（</font></font><a data-amp=\"https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/ethereum-price-index\" href=\"https://cointelegraph.com/ethereum-price-index\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">ETH</font></font></a><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">）は、6月23日に1,728.74ドルのサポートから反発し、2,045ドルで下落した。これは、より高値では買い手が不足していることを示している。</font><font style=\"vertical-align: inherit;\">移動平均線が下落し、RSIは売られ過ぎの領域近くにあり、弱気派が優勢であることを示している。</font></font></p> <figure><img width=\"1376\" height=\"776\" src=\"https://s3.cointelegraph.com/uploads/2021-06/bd221881-41f8-422c-9229-4a50f0d791fc.png\"><figcaption style=\"text-align: center;\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">ETH / USDT日足チャート。</font><font style=\"vertical-align: inherit;\">出典：</font></font></em><a href=\"https://www.tradingview.com/symbols/ETHUSDT/?utm_source=cointelegraph&utm_medium=sponsored&utm_campaign=news&utm_term=btc\" rel=\"dofollow\" target=\"_blank\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">TradingView</font></font></em></a></figcaption></figure><p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">ETH価格が下落し、1,728.74ドルのサポートを下回った場合、ETH / USDTペアは下降トレンドの次のフェーズを開始するだろう。</font><font style=\"vertical-align: inherit;\">そうなれば、ETH</font></font><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">ペアは1,536.92ドルまで下落し、次に1,293.18ドルまで下落してしまうだろう。調整が深くなるほど、強気派が上昇トレンドの次のフェーズを開始するのに時間がかかってしまう恐れがある。</font></font></p> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">逆に、ETH価格が再び1,728.74ドルから\u200B\u200B反発した場合、強気派がこのレベルを積極的に防衛していることを示唆する。</font><font style=\"vertical-align: inherit;\">20日間EMA（2,248ドル）を上抜けることができれば、底が形成された始めたことを示す最初の兆候だ。</font></font></p> <h2><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">XRP / USDT</font></font></h2> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">過去数日間の</font><a href=\"http://xrp\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><font style=\"vertical-align: inherit;\">XRP</font></a><font style=\"vertical-align: inherit;\">の0.50ドルのサポートからの反発は、0.75ドルに達することがでなかった。</font><font style=\"vertical-align: inherit;\">これは、高値では需要が不足していることを示している。</font></font></p> <figure><img width=\"1376\" height=\"776\" src=\"https://s3.cointelegraph.com/uploads/2021-06/85843efc-2d72-4f7a-867c-f4f94730afe6.png\"><figcaption style=\"text-align: center;\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">XRP / USDT日足チャート。</font><font style=\"vertical-align: inherit;\">出典：</font></font></em><a href=\"https://www.tradingview.com/symbols/XRPUSD/?utm_source=cointelegraph&utm_medium=sponsored&utm_campaign=news&utm_term=btc\" rel=\"dofollow\" target=\"_blank\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">TradingView</font></font></em></a></figcaption></figure><p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">弱気派は、0.50ドルの心理的なサポート以下に引き下げようと試みるかもしれない</font></font><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">。そうなった場合、XRP / USDTペアは下降チャネルのサポートラインまで下落する恐れがある。</font></font></p> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">逆に、強気派が0.50ドルのサポートへの次の下落で押し目買い場合、それはより安値で強気派が買い溜めしていることを示唆する。</font><font style=\"vertical-align: inherit;\">強気筋は20日間EMA以上に価格を押し上げようと再び試みるだろう。</font></font></p> <h2><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">BCH / USDT</font></font></h2> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">強気</font><font style=\"vertical-align: inherit;\">筋は</font><font style=\"vertical-align: inherit;\">ビットコインキャッシュ（</font></font><a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/tags/bitcoin-cash/amp\" href=\"https://jp.cointelegraph.com/tags/bitcoin-cash\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">BCH</font></font></a><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">）を538.11ドル以上に押し上げるのに苦戦している。これは、強気筋による買いが不足していることを示唆している。</font></font></p> <figure><img width=\"1376\" height=\"833\" src=\"https://s3.cointelegraph.com/uploads/2021-06/41a58637-d7fa-4d73-8b75-7a11ed1b0cdc.png\"><figcaption style=\"text-align: center;\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">BCH / USDT日足チャート。</font><font style=\"vertical-align: inherit;\">出典：</font></font></em><a href=\"https://www.tradingview.com/symbols/BCHUSDT/?utm_source=cointelegraph&utm_medium=sponsored&utm_campaign=news&utm_term=btc\" rel=\"dofollow\" target=\"_blank\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">TradingView</font></font></em></a></figcaption></figure><p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">2つの移動平均線は下落しており、RSIは売られ過ぎの領域の近くにある。これは弱気派が主導権を握っていることを示唆している。</font><font style=\"vertical-align: inherit;\">弱気派は今、370ドルのサポート以下に引き下げようと試みることになるだろう。</font></font></p> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">それが成功すれば、BCH / USDTペアは300ドルで心理的サポートにまで下落し、さらに270ドルまで引き下ろされる恐れがある。</font><font style=\"vertical-align: inherit;\">逆に、価格が再び370ドルから反発した場合、安値での強い買いを示唆するものだ</font></font><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">。その後、強気派は価格を20日間EMA（565ドル）以上にに押し上げようとするだろう。</font><font style=\"vertical-align: inherit;\">その場合、ペアは50日間SMA（782ドル）にまで上昇する可能性が出てくる。</font></font></p> <h2><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">LTC / USDT</font></font></h2> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">ライトコイン（</font></font><a data-amp=\"https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/ltc-price-index/amp\" href=\"https://cointelegraph.com/ltc-price-index\"><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">LTC</font></font></a><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">）の118ドルのサポートからの反発は勢いに欠けているようだ。</font><font style=\"vertical-align: inherit;\">これは、トレーダーが底が形成されたことを確信していないことを示唆している。</font><font style=\"vertical-align: inherit;\">下降する平均移動平均とネガティブの領域にあるRSIは、弱気派が主導権を執っていることを示唆している。</font></font></p> <figure><img width=\"1376\" height=\"776\" src=\"https://s3.cointelegraph.com/uploads/2021-06/7e340259-2e20-4cf3-9fcf-8fda8134f5f7.png\"><figcaption style=\"text-align: center;\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">LTC / USDT日足チャート。</font><font style=\"vertical-align: inherit;\">出典：</font></font></em><a href=\"https://www.tradingview.com/symbols/LTCUSDT/?utm_source=cointelegraph&utm_medium=sponsored&utm_campaign=news&utm_term=btc\" rel=\"dofollow\" target=\"_blank\"><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">TradingView</font></font></em></a></figcaption></figure><p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">LTC価格が現在のレベルから下落し、118ドルを下回った場合、LTC / USDTペアは下降トレンドを再開してしまうだろう。</font><font style=\"vertical-align: inherit;\">下落時の次のサポートは100ドルであり、この心理的レベルも下抜けてしまった場合、下落は70ドルにまで及ぶ恐れがある。</font></font></p> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">逆に、価格が再び118ドルから反発した場合、強気派は再び価格を下降トレンドラインに押し込もうとするだろう。ここを突破することができれば、弱気派から主導権を奪い返したことになる。</font><font style=\"vertical-align: inherit;\">その後、ペアは50日間SMA（206ドル）まで回復することができるだろう。</font></font></p> <p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">翻訳・編集　コインテレグラフジャパン</font></font><br> </p> <p><em><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">ここに表示された見解および意見は、著者のものであり、必ずしもコインテレグラフの見解を反映するものではありません。すべての投資とトレーディングにはリスクが伴うため、意思決定の際に独自の調査を実施する必要があります。市場データは、HitBTCから提供されています。</font></font></em></p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " イーロン・マスク氏、ビットコインイベントでツイッターCEOと共演か "
+          },
+          "link": "https://jp.cointelegraph.com/news/elon-musk-agrees-to-speak-with-twitter-ceo-jack-dorsey-at-bitcoin-event",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMGFhZDRmZTYtYTE1Ni00ZmY4LWIyYWMtODA1NjgyOTUxNmE4LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMGFhZDRmZTYtYTE1Ni00ZmY4LWIyYWMtODA1NjgyOTUxNmE4LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sat, 26 Jun 2021 10:01:39 +0900",
+          "dc:creator": {
+            "#cdata-section": " Turner Wright "
+          },
+          "category": [
+            {
+              "#cdata-section": " business "
+            },
+            {
+              "#cdata-section": " jack dorsey "
+            },
+            {
+              "#cdata-section": " elon musk "
+            },
+            {
+              "#cdata-section": " twitter "
+            },
+            {
+              "#cdata-section": " tesla "
+            },
+            {
+              "#cdata-section": " bitcoin news "
+            },
+            {
+              "#cdata-section": " education "
+            },
+            {
+              "#cdata-section": " the b word "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " マスク "
+            },
+            {
+              "#cdata-section": " テスラ "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/elon-musk-agrees-to-speak-with-twitter-ceo-jack-dorsey-at-bitcoin-event"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMGFhZDRmZTYtYTE1Ni00ZmY4LWIyYWMtODA1NjgyOTUxNmE4LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>テスラCEOでドージコイン（DOGE）支持者であるイーロン・マスク氏は、ビットコイン（BTC）に関する機関投資家向けイベントに登壇することになりそうだ。</p> <p> <p>テスラCEOでドージコイン（DOGE）支持者であるイーロン・マスク氏は、ビットコイン（BTC）に関する機関投資家向けイベントに登壇することになりそうだ。</p> <p>ツイッターCEOであるジャック・ドーシー氏とのやりとりで、マスク氏は機関投資家を対象とした新しいイベント「The\u20BFWord」で講演することに<a href=\"http://twitter.com/elonmusk/status/1408348996532383744\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">同意した</a>。</p> <p>「より多くの企業や機関投資家が参入するにつれ、私たちは、ビットコインのオープンな開発を完璧にするものを保護し、広める手助けをしたいと思っている」と、ドーシー氏は<a href=\"https://twitter.com/jack/status/1408102135040970759\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">述べている</a>。「このイベントは、まさにそれを行うための教育と行動に焦点を当てている」。</p> <p>このドーシー氏のツイートに対して、マスク氏はドーシー氏をからかうようなツイートで反応していたが、ドーシー氏との会話の中でイベントでビットコインについて語るのを同意することになった。</p> <figure><img width=\"950\" height=\"896\" src=\"https://s3.cointelegraph.com/uploads/2021-06/94f9871b-1ac1-4923-b963-da14c1fca0da.png\"><figcaption style=\"text-align: center;\"><em>Source: <a href=\"https://twitter.com/elonmusk/status/1408244133400023048\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Twitter</a></em></figcaption></figure><p>このイベントに登壇するのはドーシー氏のほか、ARKインベストのキャシー・ウッド氏、ブロックストリームのアダム・バック氏、元CIA副長官のマイケル・モレル氏、ビットコイン開発を専門とする非営利団体Brinkのジョン・ニューベリー氏らが登壇する予定だ。このイベントは「ビットコインに関するメインストリームのナラティブに反論する」ことを目的にしているという。</p> <p>今年3月、テスラは15億ドル相当のビットコインをバランスシートに追加し、電気自動車の支払方法としてビットコイン受入れを発表した時、マスク氏は仮想通貨に光を当て、BTC価格の急騰に貢献したと考えられている。しかし、5月にはるとテスラのCEOは、ビットコインの環境への影響に懸念を示し、ビットコイン支払を撤回すると投稿した。</p> <p>そのマスク氏が、ビットコインをテーマにしたイベントに登場することになる。テスラやマスク氏のビットコインに対するポリシーにどのような影響を与えるかわからないが、マスク氏は今月はじめに「将来のポジティブなトレンドで、マイナーによる合理的なクリーンエネルギー使用が確認されれば」、ビットコイン支払を追加することを再検討すると<a href=\"https://twitter.com/elonmusk/status/1404132183254523905\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">述べている</a>。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " グレイスケールのビットコイン信託（GBTC）、7月の台風の目に？【仮想通貨相場】 "
+          },
+          "link": "https://jp.cointelegraph.com/news/kraken-intelligence-report-2021-0626",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMDU5NjU5ZDQwMzAwMjYzZmQzODAxN2ZlYTZiMTQ0NC5qcGc=.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMDU5NjU5ZDQwMzAwMjYzZmQzODAxN2ZlYTZiMTQ0NC5qcGc=.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sat, 26 Jun 2021 09:41:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Cointelegraph Japan "
+          },
+          "category": [
+            {
+              "#cdata-section": " クラーケン "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " 価格 "
+            },
+            {
+              "#cdata-section": " 分析 "
+            },
+            {
+              "#cdata-section": " 相場 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/kraken-intelligence-report-2021-0626"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMDU5NjU5ZDQwMzAwMjYzZmQzODAxN2ZlYTZiMTQ0NC5qcGc=.jpg\" class=\"type:primaryImage\"></p> <p>ビットコインは3日続伸の後、急落した。時価総額で見た主要25銘柄の過去1ヵ月のリターンは平均でマイナス21%に近い。仮に6月の残りの日数でプラスをさらに積み重ねられるとしても、月単位でプラスに転換することは難しいだろう。</p> <p> <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\"> <p><strong>著者</strong> <a href=\"https://www.kraken.com/subscribe/intelligence/?fbclid=IwAR08u_iWLjzfYxN3k_eVp-YhsAL5h0F-vR9br4mXON360doLwagJWeJgI2s\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">クラーケン・インテリジェンス</a></p> <p>クラーケン・インテリジェンス（Kraken Intelligence）は、クラーケンのリサーチ・チームであり、事実とデータに基づく仮想通貨関連の本質的で実用的なレポートの配信を目指している。伝統的な金融市場と仮想通貨市場の双方での知見を活かし、毎日の相場分析メモであるOTC Dailyや月間レポートなどで、最新の業界動向についてコンテンツを生み出している。</p> </div> <p>ビットコインは3日続伸の後、急落した。時価総額で見た主要25銘柄の過去1ヵ月のリターンは平均でマイナス21%に近い。仮に6月の残りの日数でプラスをさらに積み重ねられるとしても、月単位でプラスに転換することは難しいだろう。</p> <p>その場合、ビットコインは3ヵ月連続マイナスを記録することになる。2018年8月から2019年1月に約7500ドルから3300ドルまで下落したときに記録した6ヵ月連続マイナス以来の連敗記録となる。</p> <p>現在、市場参加者の注目が集まっているのがグレイスケールが手がけるビットコイン信託（GBTC）の行方だ。</p> <p>GBTCは米国の適格投資家向けの商品。ビットコインか米ドルをGBTCに預けてそれと引き換えに受益証券を受け取り、半年のロックアップ期間終了後に流通市場で受益証券を売買するのが一般的だ。</p> <p>今年1月、17億ドル相当がGBTCに流入した。つまり、7月は5万ビットコイン相当のGBTCのシェアが流通市場に解禁されるアンロック期間を迎える。一部の市場参加者は、これが売り圧力になるかを注視している。</p> <h2 style=\"text-align: center;\"><a href=\"https://blog.kraken.com/post/9754/062621market/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">続きはこちら</a></h2> <h2><span style=\"font-size:12px;\"><em>本記事の見識や解釈は著者によるものであり、コインテレグラフの見解を反映するものとは限らない。</em></span></h2> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 仮想通貨業界で人材不足が深刻に、企業間で人材確保競争が激化 "
+          },
+          "link": "https://jp.cointelegraph.com/news/crypto-businesses-struggling-to-fill-job-openings-amid-industry-expansion",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYTlhN2ZkOTAtYWE3NS00ZGY1LWIxMWUtMDMxYzgwYTc1MGUxLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYTlhN2ZkOTAtYWE3NS00ZGY1LWIxMWUtMDMxYzgwYTc1MGUxLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sat, 26 Jun 2021 09:14:44 +0900",
+          "dc:creator": {
+            "#cdata-section": " Osato Avan-Nomayo "
+          },
+          "category": [
+            {
+              "#cdata-section": " crypto jobs "
+            },
+            {
+              "#cdata-section": " jobs "
+            },
+            {
+              "#cdata-section": " banks "
+            },
+            {
+              "#cdata-section": " skilled workforce "
+            },
+            {
+              "#cdata-section": " employment "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " ブロックチェーン "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/crypto-businesses-struggling-to-fill-job-openings-amid-industry-expansion"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYTlhN2ZkOTAtYWE3NS00ZGY1LWIxMWUtMDMxYzgwYTc1MGUxLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>仮想通貨業界における人材不足のため、組織に必要な人材を確保するために企業間での競争を引き起こしている。</p> <p> <p>仮想通貨業界における人材不足のため、組織に必要な人材を確保するために企業間での競争を引き起こしている。</p> <p><a href=\"https://www.bloomberg.com/news/articles/2021-06-24/crypto-firms-fight-for-top-talent-with-hundreds-of-job-openings\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ブルームバーグ</a>によると、仮想通貨企業は世界中で事業を拡大しようとしているが、そのために必要な人材確保に苦戦している。</p> <p>熟練した経験豊富な人材を巡る競争は、仮想通貨ネイティブな企業の間だけでなく、仮想通貨部門を設立している伝統的な金融機関との競争にもなっている。</p> <p>フィンテック業界やテック業界でさえ仮想通貨に参入しており、利用可能な限られた人材プールを巡って競争をさらに激化させている。今年5月、巨大テック企業であるアップルは、仮想通貨を含むアルタナティブ決済のための<a href=\"https://jp.cointelegraph.com/news/apple-seeks-to-hire-alternative-payments-manager-with-crypto-experience\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/apple-seeks-to-hire-alternative-payments-manager-with-crypto-experience/amp\">ビジネス開発マネージャーを募集している</a>。</p> <p>仮想通貨に特化した人材企業Crypto Recruitの創業者であるニール・ダンドン氏は、企業が求人で求める要件と応募者との間のギャップに悩んでいると指摘する。仮想通貨人材への需要が高まっているにもかかわらず、スキル不足が深刻な問題になっている。</p> <p>たとえば、アップルの求人案件では、10年の専門職経験が必要であり、仮想通貨やオルタナティブ決済サービスで少なくとも5年以上の経験が必要だ。</p> <p>ダンドン氏によると、一部の企業はスキルと経験面での期待値を下げているという。</p> <blockquote><p>「経験の長さという点では、最近では1年～2年で十分としている。\u2026現時点では人材不足が深刻なため、企業は網をより広くして募集している」</p></blockquote> <p>仮想通貨について深い知識を持つ候補者は、希少な人材だ。大学では、この人材不足を埋めるため、仮想通貨・ブロックチェーンのコースを提供している。</p> <p>企業はまた、リモートワークも活用するなど、採用ポリシーをより柔軟にしている。地理的な制約を取り払うことで、よりスキルの高い人材を活用しようとしている。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " カナダのビットコインETF、BTC価格下落時に保有するBTCを拡大 ｜ 1日あたり300万ドル分 "
+          },
+          "link": "https://jp.cointelegraph.com/news/world-s-first-bitcoin-etf-adds-3m-per-day-throughout-btc-price-dip",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNGNmMzNkMmEtYTU3Yi00MTdjLWExY2YtMGU5NThlZWNmY2RlLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNGNmMzNkMmEtYTU3Yi00MTdjLWExY2YtMGU5NThlZWNmY2RlLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sat, 26 Jun 2021 08:43:50 +0900",
+          "dc:creator": {
+            "#cdata-section": " William Suberg "
+          },
+          "category": [
+            {
+              "#cdata-section": " Bitcoin "
+            },
+            {
+              "#cdata-section": " ETF "
+            },
+            {
+              "#cdata-section": " BTC price "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " 上場投資信託 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/world-s-first-bitcoin-etf-adds-3m-per-day-throughout-btc-price-dip"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNGNmMzNkMmEtYTU3Yi00MTdjLWExY2YtMGU5NThlZWNmY2RlLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>データによると、世界初の当局から認可を受けたビットコイン（BTC）上場投資信託（ETF）は、最近のBTC価格下落から恩恵を受けている。</p> <p> <p>データによると、世界初の当局から認可を受けたビットコイン（BTC）上場投資信託（ETF）は、最近のBTC価格下落から恩恵を受けている。</p> <p>オンチェーン分析サービスの<a href=\"https://twitter.com/glassnode/status/1408092558304088065/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">グラスノード</a>の指摘によると、パーパスビットコインETFは5月後半を通して運用資産を拡大し続けた。</p> <p>このカナダのビットコインETFは過去数週間の価格下落でも需要の大幅な減少に<a href=\"https://jp.cointelegraph.com/news/canadian-bitcoin-etf-adds-to-its-holdings-despite-steep-market-correction\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/canadian-bitcoin-etf-adds-to-its-holdings-despite-steep-market-correction/amp\">直面していない</a>。</p> <p>5月15日以降、ETFは1日あたり平均86.15BTCを追加していき、6月24日までの間に合計で3446BTCになった。</p> <p>パーパスETFは現在、現在7億2000万ドル相当の2万1114BTCを保有している。</p> <figure><img width=\"4096\" height=\"2303\" alt=\"\" src=\"https://s3.cointelegraph.com/uploads/2021-06/f97b3460-91e9-46a4-9aaa-07cfb709a259.png\" title=\"\"><figcaption style=\"text-align: center;\"><em>Purpose ETF BTC holdings vs. BTC/USD chart. Source: Glassnode/Twitter</em></figcaption></figure><p>パーパスETFは、2021年2月に規制当局から承認を受けた<a href=\"https://jp.cointelegraph.com/news/north-america-s-first-bitcoin-etf-sees-explosive-debut-with-564m-in-assets\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/north-america-s-first-bitcoin-etf-sees-explosive-debut-with-564m-in-assets/amp\">ビットコインETFだ</a>。米国ではまだETFは認められていない。米国とカナダの市場のサイズの違いを考えれば、米国でビットコインETFがデビューした場合、その影響はより大きなものになるだろう。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " タンザニア中央銀行、大統領の支持を受けて仮想通貨禁止令を撤回か "
+          },
+          "link": "https://jp.cointelegraph.com/news/tanzania-central-bank-may-rescind-crypto-ban-after-presidential-endorsement",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZWUyOWI0MDgtOGFlZi00NDNlLTkxOGYtOTU4ZDkxNTZjMmYxLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZWUyOWI0MDgtOGFlZi00NDNlLTkxOGYtOTU4ZDkxNTZjMmYxLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Sat, 26 Jun 2021 08:00:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Osato Avan-Nomayo "
+          },
+          "category": [
+            {
+              "#cdata-section": " Tanzania "
+            },
+            {
+              "#cdata-section": " Bitcoin ban "
+            },
+            {
+              "#cdata-section": " crypto ban "
+            },
+            {
+              "#cdata-section": " central bank "
+            },
+            {
+              "#cdata-section": " crypto adoption "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " タンザニア "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " アフリカ "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/tanzania-central-bank-may-rescind-crypto-ban-after-presidential-endorsement"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZWUyOWI0MDgtOGFlZi00NDNlLTkxOGYtOTU4ZDkxNTZjMmYxLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>タンザニアの大統領が仮想通貨に関する肯定的なコメントを発したことから、タンザニア銀行は仮想通貨禁止令の撤回を検討しているという。</p> <p> <p>タンザニアの大統領が仮想通貨に関する肯定的なコメントを発したことから、タンザニア銀行は仮想通貨禁止令の撤回を検討しているという。</p> <p>タンザニアの中央銀行は、19年11月に仮想通貨を禁じたが、連邦政府からの指示を受けて動き始めており、いずれ禁止令は解かれるのではと、<a href=\"http://www.reuters.com/technology/tanzania-cbank-says-it-is-working-presidents-cryptocurrency-push-2021-06-25/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ロイターが報じている</a>。</p> <p>ハッサン大統領は中銀へ対し今月初め、ビットコイン（BTC）とデジタル資産について調査を始めるよう<a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/tanzanian-president-urges-central-bank-to-prepare-for-crypto/amp\" href=\"https://jp.cointelegraph.com/news/tanzanian-president-urges-central-bank-to-prepare-for-crypto\">要請していた</a>。</p> <p>この時大統領は、仮想通貨人気の高まりを受け、時代に乗り遅れることのないようにと中銀へ勧告した。</p> <p>ハッサン大統領による仮想通貨への肯定的な発言の背景には、最近のエルサルバドルでの<a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/el-salvador-president-bitcoin-law-will-be-approved-tonight/amp\" href=\"https://jp.cointelegraph.com/news/el-salvador-president-bitcoin-law-will-be-approved-tonight\">ビットコイン法</a>や、ラテンアメリカの複数の国でBTCへの肯定的な見方が広がっていることがある。</p> <p>ところがアフリカでは、中銀による禁止令以上に仮想通貨関連の規制が厳しくなろうとしている兆候が見られる。今年2月には、ナイジェリアの中央銀行が国内の金融機関へ対し、仮想通貨の変換サービスを<a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/central-bank-of-nigeria-bans-banks-from-servicing-crypto-exchanges/amp\" href=\"https://jp.cointelegraph.com/news/central-bank-of-nigeria-bans-banks-from-servicing-crypto-exchanges\">禁止した</a>。</p> <p>タンザニア銀行協会のアブドゥルマジド・ンセケラ会長は、現金決済が主流のタンザニアで、今回の動きは金融決済の多様化を促進することになるだろうと考えている。</p> <p>ンセケラ会長はさらに、タンザニア銀行は仮想通貨市場についてもっとよく知るようになるべきだとの大統領のコメントに同意し、「規制者にとって最も難しい要素は、気付かないうちにイノベーションに後れを取ってしまうことだ」と付け加えた。</p> <p>世界各地でピア・ツー・ピアのBTC取引を追跡するプラットフォーム「ユースフル・チューリップス」の<a href=\"http://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">データ</a>によると、タンザニアにおけるピア・ツー・ピア取引量は、サハラ以南のアフリカ大陸のなかで7位となっている。ナイジェリアが、依然として同地域のビットコイン取引の半分以上を占めている。</p> <p>翻訳・編集　コインテレグラフジャパン</p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 金融庁がバイナンスに再び警告、無登録で仮想通貨取引を提供 "
+          },
+          "link": "https://jp.cointelegraph.com/news/crypto-currency-exchange-binance-holdings-is-warned-from-japanese-finance-regulator",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMTQyODZlYzc0YWExYWIzZmI1N2UwNmFjZWVkZmFlMy5wbmc=.png",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMTQyODZlYzc0YWExYWIzZmI1N2UwNmFjZWVkZmFlMy5wbmc=.png",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 17:42:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Cointelegraph Japan "
+          },
+          "category": [
+            {
+              "#cdata-section": " クラーケン "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " 価格 "
+            },
+            {
+              "#cdata-section": " 分析 "
+            },
+            {
+              "#cdata-section": " 相場 "
+            },
+            {
+              "#cdata-section": " binance "
+            },
+            {
+              "#cdata-section": " バイナンス "
+            },
+            {
+              "#cdata-section": " 金融庁 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/crypto-currency-exchange-binance-holdings-is-warned-from-japanese-finance-regulator"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMTQyODZlYzc0YWExYWIzZmI1N2UwNmFjZWVkZmFlMy5wbmc=.png\" class=\"type:primaryImage\"></p> <p>金融庁は6月25日、仮想通貨取引所バイナンスを運営するBinance Holdings Limitedに対して警告を行った。金融庁によるバイナンスへの警告は、2018年3月以来で2度目となる。</p> <p> <p>金融庁は6月25日、仮想通貨取引所バイナンスを運営するBinance Holdings Limitedに対して<a href=\"https://www.fsa.go.jp/policy/virtual_currency02/Binance2_keikokushilyo.pdf\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">警告を行った</a>。金融庁によるバイナンスへの警告は、2018年3月以来で<a href=\"https://jp.cointelegraph.com/news/japanese-fsa-annnounced-warning-to-binance-ceo-zhao-will-find-solution\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/japanese-fsa-annnounced-warning-to-binance-ceo-zhao-will-find-solution/amp\">2度目となる</a>。</p> <p>金融庁の発表によれば、バイナンスは無登録にもかかわらず、インターネットを通じて、日本居住者を相手方として暗号資産交換業を行っていた。金融庁による警告を無視した場合、資金決済法違反による刑事告発を受ける恐れもある。</p> <p>金融庁は5月、Bybitに対しても<a href=\"https://jp.cointelegraph.com/news/japanese-finance-agency-warned-to-bybit-fintech-limited\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/japanese-finance-agency-warned-to-bybit-fintech-limited/amp\">警告を行っている</a>。さらにBybitに関しては、6月25日に関東財務局が、無登録で金融商品取引業を行っていたとして、<a href=\"http://kantou.mof.go.jp/rizai/pagekthp033000188.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">警告を行っている</a>。</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 巨額ビットコインオプションの満期近づく、強気派の猛プッシュはあるか？【仮想通貨相場】 "
+          },
+          "link": "https://jp.cointelegraph.com/news/kraken-intelligence-report-2021-0625",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMDU5NjU5ZDQwMzAwMjYzZmQzODAxN2ZlYTZiMTQ0NC5qcGc=.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMDU5NjU5ZDQwMzAwMjYzZmQzODAxN2ZlYTZiMTQ0NC5qcGc=.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 17:02:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Cointelegraph Japan "
+          },
+          "category": [
+            {
+              "#cdata-section": " クラーケン "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " 価格 "
+            },
+            {
+              "#cdata-section": " 分析 "
+            },
+            {
+              "#cdata-section": " 相場 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/kraken-intelligence-report-2021-0625"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMDU5NjU5ZDQwMzAwMjYzZmQzODAxN2ZlYTZiMTQ0NC5qcGc=.jpg\" class=\"type:primaryImage\"></p> <p>ビットコインは3万ドルを下回って今年最安値付近に迫った後、３日連続で反発した。ただ、「最悪期を脱した」や「底をついた」といった大胆な主張を展開するのは時期尚早だ。</p> <p><body> <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\"> <p><strong>著者</strong> <a href=\"https://www.kraken.com/subscribe/intelligence/?fbclid=IwAR08u_iWLjzfYxN3k_eVp-YhsAL5h0F-vR9br4mXON360doLwagJWeJgI2s\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">クラーケン・インテリジェンス</a></p> <p>クラーケン・インテリジェンス（Kraken Intelligence）は、クラーケンのリサーチ・チームであり、事実とデータに基づく仮想通貨関連の本質的で実用的なレポートの配信を目指している。伝統的な金融市場と仮想通貨市場の双方での知見を活かし、毎日の相場分析メモであるOTC Dailyや月間レポートなどで、最新の業界動向についてコンテンツを生み出している。</p> </div> <p>ビットコインは3万ドルを下回って今年最安値付近に迫った後、３日連続で反発した。ただ、「最悪期を脱した」や「底をついた」といった大胆な主張を展開するのは時期尚早だ。過去に見たように、まだ調整相場のど真ん中であるかもしれないし、しばらく保合い後に上昇トレンドに戻るかもしれない。</p> <p>過去１ヵ月で学んだことがあるとすれば、それは「ヘッドラインのリスク」だろう。仮想通貨市場はまだ一人のインフルエンサーによる発言やメディアの過激な見出し（ヘッドライン）に左右されやすい。今後もネガティブなヘッドラインには要注意だろう。</p> <p>また、6月25日金曜日には23億ドル相当という巨額のビットコインオプションが満期を迎える。内訳は、コールオプションが13億ドルでプットオプションが10億ドル。</p> <p>コールオプションは「買う」権利でありいわば「強気」要因、プットオプションは「売る」権利でありいわば「弱気」要因だ。オプション取引は、あらかじめ定められた期日（満期日）にあらかじめ定められた価格で対象の資産を買い付ける、もしくは売り付ける権利を売買する取引だ。</p> <p>様々な思惑から金曜日の前に現物のビットコイン相場に影響を与えようとする大口投資家もいるかもしれない。</p> <h2 style=\"text-align: center;\"><a href=\"https://blog.kraken.com/post/9746/062521market/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">続きはこちら</a></h2> <h2><span style=\"font-size:12px;\"><em>本記事の見識や解釈は著者によるものであり、コインテレグラフの見解を反映するものとは限らない。</em></span></h2> </body></p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " エルサルバドル、すべての成人に30ドル分のビットコインをエアドロップ＝大統領が発表 "
+          },
+          "link": "https://jp.cointelegraph.com/news/el-salvador-to-airdrop-30-in-bitcoin-to-every-adult-citizen",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNjBlMDAwZTItYzJjYy00NjJmLTk4NzMtNDA5ZWQ2MDVhYTk0LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNjBlMDAwZTItYzJjYy00NjJmLTk4NzMtNDA5ZWQ2MDVhYTk0LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 16:17:23 +0900",
+          "dc:creator": {
+            "#cdata-section": " Samuel Haig "
+          },
+          "category": [
+            {
+              "#cdata-section": " El Salvador "
+            },
+            {
+              "#cdata-section": " Bukele "
+            },
+            {
+              "#cdata-section": " エルサルバドル "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/el-salvador-to-airdrop-30-in-bitcoin-to-every-adult-citizen"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNjBlMDAwZTItYzJjYy00NjJmLTk4NzMtNDA5ZWQ2MDVhYTk0LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>エルサルバドルの大統領は、政府がすべての市民に30ドル相当のビットコイン（BTC）をエアドロップすると発表した。</p> <p> <p>エルサルバドルの大統領は、政府がすべての市民に30ドル相当のビットコイン（BTC）をエアドロップすると<a href=\"https://twitter.com/DocumentingBTC/status/1408261020028653571\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">発表した</a>。</p> <p>この発表はビットコイン事業者によって歓迎されている。一部の人々は、エルサルバドル政府が配布するためのビットコインを購入する必要が生じるため、市場に1億ドルを超える買い圧力が起こると推測している。</p> <p>オンチェーンアナリストのウィリー・ウー氏は、450万人のエルサルバドルの成人がビットコインネットワークに参加することで、グローバルなユーザーベースが2.5％増加すると<a href=\"https://twitter.com/woonomic/status/1408261901029494795?s=19\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">予測している</a>。</p> <p>ヤフーファイナンスのザック・グズマン氏は、エルサルバドルの成人人口を650万人だと指摘。1人30ドルとして、1億9500万ドル分のビットコインがエアドロップされることになると<a href=\"https://twitter.com/zGuz/status/1408279274805735428?s=20\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">主張している</a>。</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\">6 million people added to the crypto ecosystem in one go. <a href=\"https://t.co/DVoW6vLrAK\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">pic.twitter.com/DVoW6vLrAK</a></p>\u2014 CZ Binance (@cz_binance) <a href=\"https://twitter.com/cz_binance/status/1408278127466336261?ref_src=twsrc%5Etfw\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">June 25, 2021</a> </blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>エルサルバドルの成人人口については論者によって数字がわかれているが、<a href=\"https://www.statista.com/statistics/795187/population-total-age-el-salvador/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Statista</a>によれば、2019年時点で15歳以上の人口は472万人となっている。</p> <p>現地メディアのPrensa Latinaは、エルサルバドルの市民は政府発行の仮想通貨ウォレットアプリをダウンロードした後にのみビットコインを受け取れると説明しており、ツイッターでの仮想通貨界隈の盛り上がりは時期尚早かもしれない。</p> <p>このニュースは6月25日のブケレ大統領の記者会見で発表され、「政府のウォレットアプリは携帯の接続があればどこでも動作する」と述べている。</p> <p>またブケレ大統領は、ビットコインを法定通貨とする<a href=\"https://jp.cointelegraph.com/news/el-salvador-president-bitcoin-law-will-be-approved-tonight\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/el-salvador-president-bitcoin-law-will-be-approved-tonight/amp\">ビットコイン法</a>を9月7日から施行するとも語った。</p> <p>エルサルバドルのビットコイン法は2週間前に議会で可決された。仮想通貨コミュニティではこの取り組みは称賛された一方、現地の<a href=\"https://jp.cointelegraph.com/news/opposition-poses-constitutional-challenge-to-el-salvador-s-bitcoin-law\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/opposition-poses-constitutional-challenge-to-el-salvador-s-bitcoin-law/amp\">野党勢力</a>や<a href=\"https://jp.cointelegraph.com/news/world-bank-refuses-el-salvador-s-request-for-help-on-btc-transition\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/world-bank-refuses-el-salvador-s-request-for-help-on-btc-transition/amp\">世界銀行</a>などは反対の姿勢だ。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 仮想通貨ビットコイン、長期的に上昇することに「疑いはない」＝元ニューヨーク証券取引所幹部 "
+          },
+          "link": "https://jp.cointelegraph.com/news/bitcoin-in-uptrend-but-btc-may-never-beat-gold-s-10t-market-cap-ex-nyse-head",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYmM1MDhhNjMtNmU3Yy00Zjk1LWExZDktMjgxY2YyZjlmYWQ3LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYmM1MDhhNjMtNmU3Yy00Zjk1LWExZDktMjgxY2YyZjlmYWQ3LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 15:49:30 +0900",
+          "dc:creator": {
+            "#cdata-section": " William Suberg "
+          },
+          "category": [
+            {
+              "#cdata-section": " Bitcoin "
+            },
+            {
+              "#cdata-section": " BTC price "
+            },
+            {
+              "#cdata-section": " gold "
+            },
+            {
+              "#cdata-section": " NYSE "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/bitcoin-in-uptrend-but-btc-may-never-beat-gold-s-10t-market-cap-ex-nyse-head"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYmM1MDhhNjMtNmU3Yy00Zjk1LWExZDktMjgxY2YyZjlmYWQ3LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>ビットコイン（BTC）は右肩上がりとなる傾向があり、投資家はそのボラティリティを恐れるべきではないと、ニューヨーク証券取引所の元責任者は語っている。</p> <p> <p>ビットコイン（BTC）は右肩上がりとなる傾向があり、投資家はそのボラティリティを恐れるべきではないと、ニューヨーク証券取引所の元責任者は語っている。</p> <p>6月23日の<a href=\"https://www.youtube.com/watch?v=AVvK4GkELoI\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">CNBCとのインタビュー</a>で、トーマス・ファーリー氏はビットコインについて長期的な信念を表明し、BTCの価格下落懸念をはねのけた。</p> <p>「最近の値動きに関して、私は一種の楽観主義者だ。ビットコインは新しい資産クラスであるが、そのために非常にボラティリティのある資産クラスだ」と、ファーリー氏は語っている。</p> <blockquote><p>「私はそれが上昇することを疑ってはいない。長い目でみれば下落することもあるだろう。私はそれが右肩上がりの傾向を持ち、それが5年にわたって展開することをみるだろうと考えている」</p></blockquote> <p>中国を震源地とするマイニングの変動や、ビットコインの電力消費を巡る問題は、一時的なものに過ぎないとも語っている。</p> <p>「この大騒ぎは興味深いものだと思うが、ブロックチェーンが効率を高め、時間の経過とともにエネルギー効率を高めていくことになるので、それは解決されていくと思っている」と、ファーリー氏は続けた。</p> <p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/AVvK4GkELoI\" width=\"100%\"></iframe></p> <p>しかし、「デジタルゴールド」としてのビットコインに関しては、ファーリーはより保守的な予測を示している。</p> <p>ビットコインの時価総額は現在1兆ドルを下回っているが、一方金の時価総額は10兆ドルだと、フォーリー氏は指摘する。</p> <blockquote><p>「ビットコインがいつか金を超えるためには、もっと受け入れられた形の通貨でなければならない。素直に言って、そこに到達できるかどうかはわからない」</p></blockquote> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 米企業アテナ、エルサルバドルでビットコインATMを1500台展開する計画 "
+          },
+          "link": "https://jp.cointelegraph.com/news/athena-confirms-plans-to-bring-1500-bitcoin-atms-to-el-salvador",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNzNiYWYyOWQtMGQ0NS00ZTQ3LWIzZTMtMjcxYjAwODgwMmQxLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNzNiYWYyOWQtMGQ0NS00ZTQ3LWIzZTMtMjcxYjAwODgwMmQxLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 15:15:02 +0900",
+          "dc:creator": {
+            "#cdata-section": " Martin Young "
+          },
+          "category": [
+            {
+              "#cdata-section": " Athena "
+            },
+            {
+              "#cdata-section": " ATM "
+            },
+            {
+              "#cdata-section": " El Salvador "
+            },
+            {
+              "#cdata-section": " Nayib Bukele "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " エルサルバドル "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/athena-confirms-plans-to-bring-1500-bitcoin-atms-to-el-salvador"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNzNiYWYyOWQtMGQ0NS00ZTQ3LWIzZTMtMjcxYjAwODgwMmQxLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>米企業アテナは、エルサルバドルで1500台のビットコインATMを展開する計画だ。</p> <p> <p>米企業アテナは、エルサルバドルで1500台のビットコインATMを展開する計画だ。</p> <p><a href=\"https://jp.reuters.com/article/el-salvador-bitcoin-athena-bitcoin/athena-says-will-install-1500-cryptocurrency-atms-in-el-salvador-idUSL2N2O700C\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-amp=\"https://jp-mobile-reuters-com.cdn.ampproject.org/c/s/jp.mobile.reuters.com/article/amp/idUSKCN2E104F\">ロイターの報道</a>によれば、ATMの展開はまず数十台規模で行っていくという。シカゴに本社を置くアテナは、居住者が海外からの送金を受け取る地域を対象に、仮想通貨ATMを設置するために100万ドル以上を投資する計画だ。</p> <p>新しいATMの設置に加え、エルサルバドルでの業務を行うために現地スタッフを雇用し、オフィスも開設する。</p> <p><a href=\"https://cnnespanol.cnn.com/2021/06/24/bitcoin-red-cajeros-el-salvador-orix/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-amp=\"https://cnnespanol-cnn-com.cdn.ampproject.org/c/s/cnnespanol.cnn.com/2021/06/24/bitcoin-red-cajeros-el-salvador-orix/amp/\">CNNによれば</a>、アテナは現在、エルサルバドルで仮想通貨ATMを2台だけ運用している。1つはエルゾランテビーチで、同地を仮想通貨を経済圏をつくることを目的とした実験の一環だ。もう1つはエルタンコという場所で運用している。</p> <p>アテナのラテンアメリカ担当取締役であるマティアス・ゴールデンホーン氏は、エルサルバドルのブケレ大統領が「1500台というタフな挑戦を提示した。私たちはそれを目指すが、段階的に進めていく。私たちは民間企業であり、事業展開が持続可能なものであることを確保したいと考えている」とロイターに語っている。</p> <p>エルサルバドルでビットコインを法定通貨とする<a href=\"https://jp.cointelegraph.com/news/el-salvador-president-bitcoin-law-will-be-approved-tonight\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/el-salvador-president-bitcoin-law-will-be-approved-tonight/amp\">法律が可決されたこと</a>を受け、アテナは同国でATMを拡大する計画だと投稿した。アテナはツイッターでナジブ大統領に1000台ではどうかと投稿。ナジブ氏は1500台という数字を出した。</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\">1,000? How about 1,500?<a href=\"https://twitter.com/hashtag/BTC?src=hash&ref_src=twsrc%5Etfw\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">#BTC</a>♻️ <a href=\"https://t.co/PDApT7M7T5\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://t.co/PDApT7M7T5</a></p>\u2014 Nayib Bukele (@nayibbukele) <a href=\"https://twitter.com/nayibbukele/status/1405299636013764610?ref_src=twsrc%5Etfw\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">June 16, 2021</a> </blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>ゴールデンホーン氏は、現在1万9325台のATMが展開している米国とは異なるビジネスモデルになるだろうと語っている。</p> <blockquote><p>「最初は数十台のマシンを持ち込み、エルサルバドルのビジネスモデルがどのようなものになるかをテストすることになる。おそらくビジネスモデルは米国とは異なるものになるだろう」</p></blockquote> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " XLM（ステラ・ルーメン)、大局感からみる今後の行方【仮想通貨相場】 "
+          },
+          "link": "https://jp.cointelegraph.com/news/dmm-bitcoin-market-report-june-25th-2021",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zYTVkMGZhN2Y4Yjg5NGFjNGMwOTQ4NDY2ZGM1ZjI0Yy5qcGc=.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zYTVkMGZhN2Y4Yjg5NGFjNGMwOTQ4NDY2ZGM1ZjI0Yy5qcGc=.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 14:30:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Cointelegraph Japan "
+          },
+          "category": [
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " DMM "
+            },
+            {
+              "#cdata-section": " DMM Bitcoin "
+            },
+            {
+              "#cdata-section": " 価格 "
+            },
+            {
+              "#cdata-section": " 相場 "
+            },
+            {
+              "#cdata-section": " 分析 "
+            },
+            {
+              "#cdata-section": " 市場 "
+            },
+            {
+              "#cdata-section": " アルトコイン "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/dmm-bitcoin-market-report-june-25th-2021"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zYTVkMGZhN2Y4Yjg5NGFjNGMwOTQ4NDY2ZGM1ZjI0Yy5qcGc=.jpg\" class=\"type:primaryImage\"></p> <p>ステラ・ルーメン（XLM）に反発の兆し。最後の砦に迫るシナリオも。</p> <p> <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\"> <p><strong>著者</strong> DMM Bitcoin マーケットレポート</p> <p>プロフィール：暗号資産交換業者。DMM Bitcoinなら、豊富な取扱い暗号資産（仮想通貨）種類でお取引が可能です。厳重なセキュリティで、お客様が安心して暗号資産のお取引ができる環境を提供します。最短当日に口座開設可能。（暗号資産交換業　関東財務局長　第00010号、第一種金融商品取引業　関東財務局長（金商）第3189号、加入協会：一般社団法人日本暗号資産取引業協会）</p> </div> <h2> <strong>・</strong>XLM反発の兆し、最後の砦に迫るシナリオも<strong> </strong> </h2> <p><img width=\"1018\" height=\"549\" alt=\"\" src=\"https://s3.cointelegraph.com/storage/uploads/view/ea4d72662106f24f7deee058d99dc181.png\"></p> <p style=\"text-align: center;\">XLM/JPY 日足 Bidチャート（DMM Bitcoinの取引ツールより作成）</p> <p>上図は、XLM/JPYの日足チャート（期間：2021年初～現在）である。<br>XLM/JPYは、年初から典型的な大幅上昇のチャートパターンとなる<a href=\"https://jp.cointelegraph.com/news/dmm-bitcoin-market-report-may-17th-2021\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/dmm-bitcoin-market-report-may-17th-2021/amp\">、\u201Cベース\u201Dパターン（\u203B）を形成していた</a>。<br>\u203B株式市場で見られる典型的なハイパーグロース（急成長株）銘柄のチャートパターン</p> <p>しかし、5/17に、第4ベース【70円】（上図緑実線）のサポートラインを下方ブレイク、5/18にはサポートポイント候補であった\u201D50日単純移動平均線（黄色線、以下50MA）\u201Dもあっさり通過、\u201C第3ベース【55円】（上図青実線）\u201Dに加え、\u201C第2ベース【40円】（上図赤実線）\u201Dをも下回る急激なステージの後退が発生した。</p> <p>この急落により、年初からスタートした上昇サイクルは終了し、下落サイクルへと転換したと言えよう。足元では更に売り圧力が強まっており、第1ベース【25円】（上図白実線）まで売り込まれている。</p> <p>まず、ここまでの下落サイクルの推移を振り返る。</p> <p>第4ベース→第3ベース後退期：期間は5/17～5/19。3営業日。ピークの急騰からの反動もあり、短期間における急落となった。</p> <p>第3ベース→第2ベース後退期：期間は5/19～6/7。20営業日。数回にわたる第2ベース【40円】（上図赤実線）への下押しをサポートしながらも、反発を試す場面もあった。しかしレンジ形成の中で結果的にダブルトップを形成し、ゆるやかにステージ後退となった。</p> <p>第2ベース→第1ベース後退期：６/7から現在。18営業日が経過。6/22に第1ベース【25円】（上図白実線）へ初めての下押しとなったが、サポートを確認し反発を試している。</p> <p>以上のとおり、下落サイクルにおける下値模索を続けている一方で、足元では下落のスピードも緩やかになっており、反発の兆しも見え始めている。</p> <p>現状XLM/JPYの価格は29円付近であるが、大局的にいうと、この価格は2021年1月に揉み合ったレベルであり、今回も売り買いが交錯し方向感のつかみにくい展開が想定される。ただし、揉み合い後は相場にたまったエネルギーが一気にリリースされるため、激しい値動きになる可能性には留意したい。</p> <p>したがって、現在は非常に重要な局面となっており、大局的な視点からのシナリオが求められる状況と言えよう。</p> <p>次に今後のシナリオを整理したい。</p> <h2 style=\"text-align: center;\"><a data-follow=\"true\" href=\"https://bitcoin.dmm.com/useful_information/market_report/20210625?utm_source=cointelegraph&utm_medium=market_report&utm_content=bitcoin\" rel=\"noopener noreferrer\" target=\"_blank\">続きはこちら</a></h2> <p> </p> <h2><span style=\"font-size:12px;\"><em>本記事の見識や解釈は著者によるものであり、コインテレグラフの見解を反映するものとは限らない。</em></span></h2> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 欧州の電気自動車用充電ステーション、仮想通貨決済受け入れを計画 "
+          },
+          "link": "https://jp.cointelegraph.com/news/50-000-electric-vehicle-charging-stations-in-europe-to-offer-crypto-payments",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMDFiNGU0ZjAtMTVlZC00Yzg3LWI5MmQtOGQ0OTYzMWIyMmE0LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMDFiNGU0ZjAtMTVlZC00Yzg3LWI5MmQtOGQ0OTYzMWIyMmE0LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 14:29:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Brian Quarmby "
+          },
+          "category": [
+            {
+              "#cdata-section": " Electric vehicle charging stations "
+            },
+            {
+              "#cdata-section": " Crypto payments "
+            },
+            {
+              "#cdata-section": " Europe crypto payments "
+            },
+            {
+              "#cdata-section": " EV "
+            },
+            {
+              "#cdata-section": " Green crypto "
+            },
+            {
+              "#cdata-section": " Sustainable crypto "
+            },
+            {
+              "#cdata-section": " HIPS Payment Group Ltd "
+            },
+            {
+              "#cdata-section": " Vourity "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " 電気自動車 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/50-000-electric-vehicle-charging-stations-in-europe-to-offer-crypto-payments"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMDFiNGU0ZjAtMTVlZC00Yzg3LWI5MmQtOGQ0OTYzMWIyMmE0LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>2つの決済企業が提携し、欧州の5万ヶ所の電気自動車（EV）充電ステーションで仮想通貨決済を展開する。</p> <p> <p>2つの決済企業が提携し、欧州の5万ヶ所の電気自動車（EV）充電ステーションで仮想通貨決済を展開する。</p> <p>アイルランドの電子商取引・モバイル決済ソリューション企業HIPSペイメントグループと、EV充電ステーションなどの無人決済施設を専門とするスウェーデン企業Vourityとの間で、パートナーシップが結ばれた。</p> <p>仮想通貨決済と充電ステーションの統合は、2021年11月からの3年間で行われる。</p> <p>両社はまだどの仮想通貨がサポートされるか明らかにしていないが、VourityはETHのロゴが付いた決済端末の画像をリリースしており、イーサリアムがその1つになる可能性があるだろう。イーサリアムは来年には、エネルギー効率の高いプルーフ・オブ・ステーク（PoS）コンセンサスメカニズムに移行する予定であり、環境に配慮するEVドライバーからの反発も緩和できるとみられる。</p> <p>Vourityのハンス・ノットヘッドCEOは、「現在、サポートする仮想通貨やコインを評価している。それらは法定通貨と交換される」と語っている。</p> <figure><img width=\"719\" height=\"683\" alt=\"\" src=\"https://s3.cointelegraph.com/uploads/2021-06/261419a4-b877-4f56-8b40-6ba078e40175.png\" title=\"\"><figcaption style=\"text-align: center;\">ETHロゴが付いたVourityの端末</figcaption></figure><p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " ブラジル証券取引所、ビットコイン上場投資信託の取引開始 ｜ 仮想通貨ETFとしては2例目 "
+          },
+          "link": "https://jp.cointelegraph.com/news/asset-manager-qr-launches-bitcoin-etf-on-brazilian-stock-exchange",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvOGY1OWVhMzgtMWI4My00M2I2LTlhYzQtZjIyMjlkNGQxMDVkLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvOGY1OWVhMzgtMWI4My00M2I2LTlhYzQtZjIyMjlkNGQxMDVkLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 14:00:51 +0900",
+          "dc:creator": {
+            "#cdata-section": " Helen Partz "
+          },
+          "category": [
+            {
+              "#cdata-section": " Cryptocurrencies "
+            },
+            {
+              "#cdata-section": " Brazil "
+            },
+            {
+              "#cdata-section": " Latin America "
+            },
+            {
+              "#cdata-section": " ETF "
+            },
+            {
+              "#cdata-section": " Trading "
+            },
+            {
+              "#cdata-section": " Investments "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " ブラジル "
+            },
+            {
+              "#cdata-section": " ラテンアメリカ "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/asset-manager-qr-launches-bitcoin-etf-on-brazilian-stock-exchange"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvOGY1OWVhMzgtMWI4My00M2I2LTlhYzQtZjIyMjlkNGQxMDVkLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>ブラジル証券取引所（B3）は、新しいビットコイン（BTC）上場投資信託（ETF）の取引を開始し、仮想通貨の受け入れを拡大させている。</p> <p> <p>ブラジル証券取引所（B3）は、新しいビットコイン（BTC）上場投資信託（ETF）の取引を開始し、仮想通貨の受け入れを拡大させている。</p> <p>ブラジルの資産運用会社QRアセット・マネジメントは、B3で「QBTC11」というティッカーのビットコインETFの<a href=\"https://cointelegraph.com.br/news/bitcoin-officially-debuts-on-the-b3-exchange-with-the-first-btc-etf-in-latin-america?_ga=2.167153854.1292848692.1624320255-1155145999.1570154932\" data-amp=\"https://cointelegraph-com-br.cdn.ampproject.org/c/s/cointelegraph.com.br/news/bitcoin-officially-debuts-on-the-b3-exchange-with-the-first-btc-etf-in-latin-america/amp\">取引を開始した</a>。</p> <p>ブラジル証券取引委員会は今年3月、QRアセットのビットコインETFと、仮想通貨投資会社Hashdexの仮想通貨ETFとを<a href=\"https://jp.cointelegraph.com/news/brazilian-stock-exchange-approves-two-new-crypto-etfs-in-latin-america\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/brazilian-stock-exchange-approves-two-new-crypto-etfs-in-latin-america/amp\">承認していた</a>。Hashdexの方は複数の仮想通貨に基づくETFだが、QRアセットの方はビットコインのみのETFだ。</p> <p>QRアセットの親会社であるQRキャピタルのフェルナンド・カルヴァーリョCEOは、仮想通貨ETFによって、投資家が無認可のプラットフォームに依存することなく、B3で直接ビットコインに触れることができ、セキュリティの強化になると述べている。</p> <blockquote><p>「QBTC11は、伝統的な金融市場とデジタル資産業界の両方の収束点であり、マイルストーンである。投資家は現在、市場で最も重要な暗号資産であるビットコインに投資するため、規制された低コストで堅牢なオプションを利用できる」</p></blockquote> <p>QRのビットコインETFは、B3に上場している唯一の仮想通貨ETFではない。4月に、ブラジル証券取引所は、同国初の仮想通貨ETFとしてHashdexの「HASH11」を<a href=\"http://www.b3.com.br/en_us/news/b3-begins-trading-the-first-hashdex-etf.htm\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">デビューさせている</a>。HASH11は、ビットコイン、イーサリアム、ステラ、ライトコイン、ビットコインキャッシュ、チェーンリンクなど複数の仮想通貨で構成されるナスダック・クリプト・インデックスに基づいたものだ。</p> <p>ビットコインETFは複数の国で勢いを増している。カナダの資産運用会社3iQは、ナスダック・ドバイで<a href=\"https://cointelegraph.com/news/nasdaq-dubai-rolls-out-trading-for-3iq-s-bitcoin-fund\" data-amp=\"https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/nasdaq-dubai-rolls-out-trading-for-3iq-s-bitcoin-fund/amp\">ビットコインファンドETFを展開した</a>。またカナダでは既に3iQとコインシェアーズのビットコインETFがトロント証券取引所で公開されている。米国では複数の仮想通貨ETFが提案されているが、規制当局はまだ承認していない。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " BTC3日続伸で週足下げ幅を縮小　本日の米市場通過でアク抜けとなるか【仮想通貨相場】 "
+          },
+          "link": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-june-25th-2021",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zM2UzNGQ4MzdlMzIyNjY3ZmE0ZTBkNTkxZmIyYjRkMS5qcGc=.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zM2UzNGQ4MzdlMzIyNjY3ZmE0ZTBkNTkxZmIyYjRkMS5qcGc=.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 10:50:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Cointelegraph Japan "
+          },
+          "category": [
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 仮想通貨ニュース "
+            },
+            {
+              "#cdata-section": " 暗号通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " ビットバンク "
+            },
+            {
+              "#cdata-section": " bitbank "
+            },
+            {
+              "#cdata-section": " BTC "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/bitbanks-market-analysis-june-25th-2021"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zM2UzNGQ4MzdlMzIyNjY3ZmE0ZTBkNTkxZmIyYjRkMS5qcGc=.jpg\" class=\"type:primaryImage\"></p> <p>24日のビットコイン（BTC）対円相場は98,098円（2.62%）高の3,843,045円と三日続伸。主要アルトコインも買い戻され、イーサ（ETH）とXRPはそれぞれ、0.83%と5.14%上昇した。</p> <p> <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\"> <p><strong>著者</strong> <a href=\"https://markets.bitbank.cc/author/yuya-hasegawa\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">長谷川友哉（はせがわゆうや）</a>ビットバンク　マーケットアナリスト</p> <p>英大学院修了後、金融機関出身者からなるベンチャーでFinTech業界と仮想通貨市場のアナリストとして従事。2019年よりビットバンク株式会社にてマーケットアナリスト。国内主要金融メディアへのコメント提供、海外メディアへの寄稿実績多数。</p> </div> <p>24日のビットコイン（BTC）対円相場は98,098円（2.62%）高の3,843,045円と三日続伸。主要アルトコインも買い戻され、イーサ（ETH）とXRPはそれぞれ、0.83%と5.14%上昇した。</p> <p>東京時間のこの日のビットコインは、アフリカの取引所AfriCryptで創業者による顧客資産持ち逃げ疑惑が意識されたか序盤から売り優勢となり、376万円から節目360万円まで押し、一時は前日の上げ幅を掻き消したが、終盤からのアルトコイン相場の巻き返しに連れ高となり、海外時間に入るとプラス圏に浮上した。その後は、バイデン米大統領のインフラ投資計画が超党派の上院議員らと概ね合意にいたったことや、中米のパラグアイでビットコインの法定通貨化やクリーンエネルギー採用の暗号資産（仮想通貨）マイニングの推奨を盛り込んだ法案が来月14日にも議会に提出される可能性が材料視され、ビットコインは390万円にタッチ。しかし、足元では1時間足の200本移動平均線に上値を抑えられ、380万円台半ばでの推移となっている。</p> <p style=\"text-align: center;\"><img width=\"991\" height=\"613\" alt=\"\" src=\"https://s3.cointelegraph.com/storage/uploads/view/c4e7f4fdcf9a58d7b67001cbbbcad875.png\"></p> <p style=\"text-align: center;\">第1図：<a href=\"https://app.bitbank.cc/trade/btc_jpy\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">BTC</a>対円チャート　1分足　出所：bitbank.ccより作成</p> <h2 style=\"text-align: center;\"><a href=\"https://markets.bitbank.cc/article/bitbank-report-2021-06-25?utm_source=bm_ct\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">続きはこちら</a></h2> <h2><span style=\"font-size:12px;\"><em>本記事の見識や解釈は著者によるものであり、コインテレグラフの見解を反映するものとは限らない。</em></span></h2> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " ビットコインは34500ドルのレジスタンスに直面　2020年の強気相場的中させた買いサインの指摘も "
+          },
+          "link": "https://jp.cointelegraph.com/news/bitcoin-rejects-at-34-5k-as-analysts-reveal-key-resistance-level-to-beat-next",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNDcwN2U0ZDMtMWJiYy00OTExLWJiNjQtM2JjZTNhZjJkMDRkLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNDcwN2U0ZDMtMWJiYy00OTExLWJiNjQtM2JjZTNhZjJkMDRkLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 10:44:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " William Suberg "
+          },
+          "category": [
+            {
+              "#cdata-section": " Bitcoin "
+            },
+            {
+              "#cdata-section": " BTC price "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 仮想通貨ニュース "
+            },
+            {
+              "#cdata-section": " 暗号通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/bitcoin-rejects-at-34-5k-as-analysts-reveal-key-resistance-level-to-beat-next"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNDcwN2U0ZDMtMWJiYy00OTExLWJiNjQtM2JjZTNhZjJkMDRkLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>ビットコインは現在、34500ドル付近のレジスタンスに直面している。</p> <p> <p>ビットコインは現在、34500ドル付近のレジスタンスに直面している。</p> <figure><img width=\"1006\" height=\"577\" src=\"https://s3.cointelegraph.com/uploads/2021-06/e499f973-591a-4c7b-b309-dec61122bf36.png\"><figcaption style=\"text-align: center;\"><em>BTC/USD 1-hour candle chart (Bitstamp). Source: TradingView</em></figcaption></figure><h2>37000ドルに注目</h2> <p>コインテレグラフマーケッツとトレーディングビューのデータによると、ビットコイン価格は22日夜の28800ドルから急回復したものの、足元では34500ドル付近のレジスタンスにぶち当たっている。</p> <p>このため、本格的な回復にはまだレジスタンスが重くのしかかっており、市場参加者の間では警戒感が広がっている。</p> <p>著名トレーダーのCrypto Ed氏は24日午後、「再び弱気になっているが、これは28000ドルから反発したことへの調整のようだ」と<a href=\"https://twitter.com/Crypto_Ed_NL/status/1407951417273470976\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">コメント</a>した。</p> <p>ただ、同氏は価格はレジスタンスを抜け、37000〜38000ドルまで上昇すると予想。このレベルまで押し上げるためにはビットコインが32000ドルで反発する必要があるとしている。仮想通貨アナリストのRektCapital氏も24日、「ここをキープすれば、ビットコインはすぐに上昇を始めるはずだ」と、同様に32000ドルのサポートから反発することを<a href=\"https://twitter.com/rektcapital/status/1407993186421772293\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">重要視していた</a>。両氏の投稿後に価格はちょうど32000ドル付近から小幅に反発した。</p> <figure><img width=\"1517\" height=\"884\" alt=\"\" src=\"https://s3.cointelegraph.com/uploads/2021-06/54042bf5-022f-4def-b61d-d94a78ed66c3.png\" title=\"\"><figcaption style=\"text-align: center;\"><em>BTC/USD scenario with targets. Source: Crypto Ed/Twitter</em></figcaption></figure><p>レジスタンスに関しては、大口投資家の動向を追う<a href=\"https://twitter.com/whale_map/status/1407775190029946888\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ホエールマップ</a>も、ビットコインが次に克服すべき重要なレベルを37000ドルとしている。</p> <figure><img width=\"2292\" height=\"1526\" alt=\"\" src=\"https://s3.cointelegraph.com/uploads/2021-06/45f92d78-8fd9-41b2-9837-e7da94885ca6.png\" title=\"\"><figcaption style=\"text-align: center;\"><em>BTC/USD whale resistance levels chart. Source: Whalemap/Twitter</em></figcaption></figure><h2>歴史的な買いサインが忍び寄る</h2> <p><a data-amp=\"https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/bitcoin-price-very-near-bottom-with-30k-dip-says-bullish-institutional-report/amp\" href=\"https://cointelegraph.com/news/bitcoin-price-very-near-bottom-with-30k-dip-says-bullish-institutional-report\">既報のように</a>、今月末には23億ドル相当の四半期先物の満期が控えている。</p> <figure><img width=\"1368\" height=\"600\" src=\"https://s3.cointelegraph.com/uploads/2021-06/d571368e-edd6-40c4-a7ee-74b3cb8c8f2d.jpg\"><figcaption style=\"text-align: center;\"><em>Grayscale Bitcoin Trust unlock dates. Source: Bybt.com</em></figcaption></figure><p>これに加え、7月にはグレイスケールのビットコイン投信（GBTC）のアンロックイベントが予定されており、売り圧力は今後数週間、大幅に沈静化する可能性がある。</p> <p>さらに、中国の規制強化が続く中で、マイナーからの売り圧力も減少していることがデータで示されている。</p> <p>オンチェーン分析を手がけるクリプトクオントは24日、ビットコインの毎日の発行量で相場の動向を探る指標である「プエル・マルチプル」から、歴史的に反発してきたレベルに達していることを指摘した。この指標は買いシグナルを見極めるために使われ、2020年の強気相場の開始を正確に捉えていたことで知られる。</p> <figure><img width=\"1749\" height=\"774\" alt=\"\" src=\"https://s3.cointelegraph.com/uploads/2021-06/2a1c2aa7-619e-4bf4-82be-b74f23433019.png\" title=\"\"><figcaption style=\"text-align: center;\"><em>Bitcoin Puell Multiple chart. Source: CryptoQuant/Twitter</em></figcaption></figure><p>クリプトクオントは、「プエル・マルチプルの値が低下していることは、マイナーの収益性が年間平均に比べて低いことを示す。これは一部のマイナーがハッシュパワーを減らすことで採掘難易度が下がる。これによってさらなる分散化が可能になり、マイナーからの売り圧力や供給への影響が少なくなることを意味する」と<a href=\"https://cryptoquant.com/quicktake/60d35c752a504e58f2e644b5-Puell-Multiple-indicates-reduced-mining-sell-pressure\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">解説した。</a></p> <blockquote><p>「これは今回の調整の底に達し、回復の途中にあることを示しているのかもしれない」</p></blockquote> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " ニューヨーク市長選最有力候補、「ビットコインのハブ」公約に掲げる "
+          },
+          "link": "https://jp.cointelegraph.com/news/nyc-s-mayoral-frontrunner-pledges-to-turn-city-into-bitcoin-hub",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvOTY1N2NmODEtMWYyYi00NzQxLTkxNmYtZTExYzAzNTgxZjgyLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvOTY1N2NmODEtMWYyYi00NzQxLTkxNmYtZTExYzAzNTgxZjgyLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 09:57:44 +0900",
+          "dc:creator": {
+            "#cdata-section": " Marie Huillet "
+          },
+          "category": [
+            {
+              "#cdata-section": " Cryptocurrencies "
+            },
+            {
+              "#cdata-section": " Adoption "
+            },
+            {
+              "#cdata-section": " United States "
+            },
+            {
+              "#cdata-section": " New York "
+            },
+            {
+              "#cdata-section": " Politics "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 仮想通貨ニュース "
+            },
+            {
+              "#cdata-section": " 暗号通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/nyc-s-mayoral-frontrunner-pledges-to-turn-city-into-bitcoin-hub"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvOTY1N2NmODEtMWYyYi00NzQxLTkxNmYtZTExYzAzNTgxZjgyLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>米国で仮想通貨を都市レベルで普及させる話題は、マイアミからニューヨークに移ったようだ。</p> <p> <p>米国で仮想通貨を都市レベルで普及させる話題は、マイアミからニューヨークに移ったようだ。 6月に史上最大のビットコイン（BTC）イベントがマイアミで幕を開け、同市のフランシス・スアレス市長は、マイアミを国内だけでなく世界的な仮想通貨の中心地にすることを宣言した。</p> <p>しかし、米国では現在、ニューヨーク市長選に注目が集まっている。民主党の最有力候補であるエリック・アダムス氏が22日夜、予備選挙の投票が終了して間もなく、<a href=\"https://www.youtube.com/watch?v=bmxq6oGxgdw\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">次のように誓ったからだ</a>。</p> <blockquote><p>「私は約束する。1年後には、違う街を見ることになるだろう。ライフサイエンスの中心地、サイバーセキュリティの中心地、自動運転車やドローンの中心地、そしてビットコインの中心地になるだろう。あらゆるテクノロジーの中心地になる」</p></blockquote> <p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/bmxq6oGxgdw\" title=\"YouTube video player\" width=\"560\"></iframe></p> <p>ニューヨークは圧倒的に民主党寄りの投票率が高いことで知られている。そのため、民主党候補として立候補することは、今年後半の11月に行われる選挙で実際に市長になるとみられている。23日のニューヨーク・タイムズによると、同氏は現在、2位のマヤ・ワイリー氏に7万5000票差をつけている。</p> <p>また、ニューヨーク市長選の最初の開票結果では、アダムス氏は仮想通貨支持派として知られるアンドリュー・ヤン氏を上回った。ヤン氏もニューヨークをビットコインの都市とすることを公言していたが、11.7%しか獲得できず、辞退を表明した。</p> <blockquote class=\"twitter-tweet\"> <p dir=\"ltr\" lang=\"en\">As mayor of NYC - the world\u2019s financial capital - I would invest in making the city a hub for BTC and other cryptocurrencies.</p>\u2014 Andrew Yang (@AndrewYang) <a href=\"https://twitter.com/AndrewYang/status/1359992211186843649?ref_src=twsrc%5Etfw\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">February 11, 2021</a> </blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><p>アダムス氏は元警察官で、政治キャリアの初期には「保守的な共和党員」を自称していた。大口寄付者の資金をうまく利用し、犯罪に厳しく、不動産業界と連携しながら、「若い頃に飢えやホームレスに苦しんだシングルマザーから教えられた価値観」への忠実さをアピールして、地元の組合や政党、教会に訴えかけてきた。</p> <p>ニューヨーク市長選では、仮想通貨業界ではヤン氏に期待が集まっていた。バイデン大統領の商務長官候補や大統領選出馬などに注目が集まったが、いずれも実現しなかった。今回も市長選からヤン氏は脱落したことは業界にとって打撃とみられていたが、新たな希望が出てきたのかもしれない。</p> <p>翻訳・編集　コインテレグラフジャパン</p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " アンドリーセン・ホロウィッツ、これまでで最大規模の仮想通貨ファンドをローンチ "
+          },
+          "link": "https://jp.cointelegraph.com/news/andreessen-horowitz-launches-biggest-ever-crypto-venture-fund-at-2-2b",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNzE4YjBiY2UtYmI3YS00YTZlLTlmMTctNzFkZWRhNmE1OWY2LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNzE4YjBiY2UtYmI3YS00YTZlLTlmMTctNzFkZWRhNmE1OWY2LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 09:10:24 +0900",
+          "dc:creator": {
+            "#cdata-section": " Sam Bourgi "
+          },
+          "category": [
+            {
+              "#cdata-section": " Funding "
+            },
+            {
+              "#cdata-section": " Andreessen Horowitz "
+            },
+            {
+              "#cdata-section": " Venture Capital "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 仮想通貨ニュース "
+            },
+            {
+              "#cdata-section": " 暗号通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/andreessen-horowitz-launches-biggest-ever-crypto-venture-fund-at-2-2b"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNzE4YjBiY2UtYmI3YS00YTZlLTlmMTctNzFkZWRhNmE1OWY2LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>アンドリーセン・ホロウィッツ（a16z）は、ブロックチェーンプロジェクトの市場拡大に特化した新しい仮想通貨ファンドを立ち上げる。</p> <p> <p>アンドリーセン・ホロウィッツ（a16z）は、ブロックチェーンプロジェクトの市場拡大に特化したこれまでで、同社最大規模となる仮想通貨ファンドを立ち上げる。</p> <p>同社のゼネラル・パートナーであるクリス・ディクソン氏とケイティ・ハウン氏が共同で運営する22億ドル規模のベンチャーファンド「Crypto Fund Ⅲ」が24日、発表された。このファンドは分散型経済に貢献する仮想通貨ネットワークやチームに資金を提供する。2020年8月に立ち上げた「Crypto Fund II」をベースにしている。</p> <p>「このファンドによって、次世代の先見性のある仮想通貨事業者を発掘し、仮想通貨の最もエキサイティングな分野に投資できる。初期のシードステージから、開発がすでに進んでいるレイターステージまでが対象となる」</p> <p>今回のファンドは、同社が今年初めに計画を進めているとされていた10億ドルファンドよりもはるかに規模が大きいものだ。</p> <p>アンドリーセン・ホロウィッツは、ブロックチェーン業界において多くの投資を行っている。最近では、ソラナ・ラボに3億1400万ドルの資金調達ラウンドを主導。また、NFTマーケットプレイスであるオープンシーの2300万ドルの資金調達、タロス（Talos）の4,000万ドルの資金調達、アレオ（Aleo）の2,800万ドルの調達ラウンドなども行っている。また、分散型コンピューティングを手がけるDfinityが行った1億500万ドルの資金調達にも2018年に関わっている。</p> <p>今回の資金調達の発表に加えて、アンドリーセン・ホロウィッツは、米証券取引委員会（SEC）の元ディレクターであるビル・ヒンマン氏や、ツイッターやグーグル、フェイスブックの元コミュニケーション・リードであるレイチェル・ホロウィッツ氏、ジョー・バイデンやヒラリー・クリントンのシニア・アドバイザーを務めたトミカ・ティルマン氏など、5人のエグゼクティブをチームに迎え入れたと発表した。</p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " NYDIGがQ2と提携し、1800万人以上にビットコインアクセス拡大へ "
+          },
+          "link": "https://jp.cointelegraph.com/news/nydig-and-q2-partner-to-enable-bitcoin-trading-for-18m-us-bank-customers",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMDIyZWYxZmQtMDkxOC00Y2NiLWJmNzgtODVjYzFjYTE1NDg1LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMDIyZWYxZmQtMDkxOC00Y2NiLWJmNzgtODVjYzFjYTE1NDg1LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 08:38:53 +0900",
+          "dc:creator": {
+            "#cdata-section": " Osato Avan-Nomayo "
+          },
+          "category": [
+            {
+              "#cdata-section": " Bitcoin "
+            },
+            {
+              "#cdata-section": " Buy Bitcoin "
+            },
+            {
+              "#cdata-section": " BTC "
+            },
+            {
+              "#cdata-section": " NYDIG "
+            },
+            {
+              "#cdata-section": " Bitcoin Adoption "
+            },
+            {
+              "#cdata-section": " Bitcoin Trading "
+            },
+            {
+              "#cdata-section": " Bitcoin Custody "
+            },
+            {
+              "#cdata-section": " Sell Bitcoin "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 仮想通貨ニュース "
+            },
+            {
+              "#cdata-section": " 暗号通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/nydig-and-q2-partner-to-enable-bitcoin-trading-for-18m-us-bank-customers"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvMDIyZWYxZmQtMDkxOC00Y2NiLWJmNzgtODVjYzFjYTE1NDg1LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>仮想通貨カストディを手がけるニューヨーク・デジタル・インベストメント・グループ（NYDIG）は、金融機関へデジタルサービスを提供するQ2と提携し、米国の銀行口座保有者にビットコインのアクセスを提供する。</p> <p> <p>仮想通貨カストディを手がけるニューヨーク・デジタル・インベストメント・グループ（NYDIG）は、金融機関へデジタルサービスを提供するQ2と提携し、米国の銀行口座保有者にビットコインのアクセスを提供する。</p> <p>23日の<a href=\"https://www.businesswire.com/news/home/20210623005896/en/NYDIG-and-Q2-Announce-Collaboration-to-Offer-Integrated-Bitcoin-Solutions-for-Financial-Institutions-via-Q2%E2%80%99s-Digital-Banking-Platform\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">発表</a>では、今回の提携によって、Q2が保有する米国の1830万人の銀行顧客にビットコインの売買やカストディサービスを提供できるようになる。</p> <p>Q2は、米国の銀行上位100行の約30%にインターネットバンキングサービスを提供。さらにテキサス・セキュリティバンクやマーカンタイル・バンク、スコッティアバンクなど450以上の中小銀行や信用組合にオンラインバンキングソフトウェアを提供している。これは米国のデジタルバンキング利用者の10分の1以上に相当するという。</p> <p><a href=\"https://jp.cointelegraph.com/news/us-banks-to-allow-bitcoin-trading-in-2021-says-nydig-execs\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/us-banks-to-allow-bitcoin-trading-in-2021-says-nydig-execs/amp\">既報のように、</a>NYDIGは米国人に、銀行口座を通じたビットコイン取引サービスを提供することを目指して活動を開始。金融大手フィデリティ・ナショナル・インフォメーション・サービスと提携している。</p> <p>Q2以外にも、NYDIGはクラウドベースのデジタルバンキングサービスを提供するAlkamiやグローバル決済サービスを提供するFiservと提携することで、ビットコインへのアクセスを提供することを23日に<a href=\"https://www.businesswire.com/news/home/20210623005650/en/Financial-Institutions-Can-Now-Provide-Consumers-Easy-Access-to-Bitcoin-via-Fiserv-and-NYDIG\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">発表した</a>。</p> <p>カリフォルニア州の金融機関であるファースト・ファウンデーション・バンクは、NYDIGおよびFiservと協力して、同社の顧客向けにビットコインの取引およびカストディを導入すると報じられている。同行の親会社であるファースト・ファウンデーションは4月、顧客にビットコインベースの投資商品を提供するため、NYDIGに出資した。</p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 堅調に推移したビットコイン、好調を維持できるか？【仮想通貨相場】 "
+          },
+          "link": "https://jp.cointelegraph.com/news/ct-japan-fx-coin-june-25th-2021",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81ZWQzMjFjOTIxMzcxNGY3NGQzYWE4MTFkOTYyYmFjMS5qcGc=.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81ZWQzMjFjOTIxMzcxNGY3NGQzYWE4MTFkOTYyYmFjMS5qcGc=.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 08:00:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Cointelegraph Japan "
+          },
+          "category": [
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 仮想通貨ニュース "
+            },
+            {
+              "#cdata-section": " 暗号通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " FXCoin "
+            },
+            {
+              "#cdata-section": " 松田康生 "
+            },
+            {
+              "#cdata-section": " BTC "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/ct-japan-fx-coin-june-25th-2021"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81ZWQzMjFjOTIxMzcxNGY3NGQzYWE4MTFkOTYyYmFjMS5qcGc=.jpg\" class=\"type:primaryImage\"></p> <p>昨日のBTC相場は堅調な推移。未明にアトランタ連銀総裁やダラス連銀総裁が2022年中の利上げに言及したことにより、33,000ドル（約365万円）まで下落した。</p> <p> <p><strong>著者</strong> <a href=\"http://fxcoin.jp/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">中村健太郎 （なかむらけんたろう）</a>FXcoin 所属</p> <p>大手総合商社で為替予約・ポジション管理、トレードファイナンス、バックオフィス等、幅広く財務関連業務の経験あり。海外（シンガポール）では、アジア・大洋州地域のコーポレートファイナンスに従事し、2019年10月より現職。</p> <h3><img width=\"857\" height=\"650\" alt=\"\" src=\"https://s3.cointelegraph.com/storage/uploads/view/27ecf7061eb79477bd6d9fd407656a68.png\"></h3> <h3>Review</h3> <h2>米株好調でBTCも堅調</h2> <p>昨日のBTC相場は堅調な推移。未明にアトランタ連銀総裁やダラス連銀総裁が2022年中の利上げに言及したことにより、33,000ドル（約365万円）まで下落。朝方は一時33,500ドル（約370万円）付近まで上昇したが、日本株の軟調な寄り付きを受けてBTCも上値が重く、一時32,500（約360万円）まで下落した。しかし、その後ハッシュレートが100EH/s付近まで回復したこともあり、BTCは反転し、33,500ドルまで値を戻した。海外時間に入り、発表された米新規失業保険申請件数（前週分）が市場予想ほど減少せず、雇用回復の鈍さに緩和縮小観測が後退、米株が堅調な推移となるとBTCも堅調に推移した。また、バイデン大統領が上院の超党派議員とインフラ投資法案で合意したと表明し、インフラ支出拡大への期待が強まったことから、NasdaqやS＆P500が史上最高値を更新すると、BTCも更に値を上げ、35,000ドル（約390万円）まで上昇し、今朝方も高値圏での推移が続いている。</p> <h3><strong>Outlook</strong></h3> <h2 style=\"text-align: center;\"><a href=\"https://news.fxcoin.jp/detail.php?id=1923\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-amp=\"https://news-fxcoin-jp.cdn.ampproject.org/c/s/news.fxcoin.jp/detail_amp.php?id=1923\">続きはこちら</a></h2> <p><em><span style=\"font-size:12px;\">本記事の見識や解釈は著者によるものであり、コインテレグラフの見解を反映するものとは限らない。</span></em></p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " スイス拠点のデジタルアセッツAG、ソラナブロックチェーンで株式トークン発行 "
+          },
+          "link": "https://jp.cointelegraph.com/news/swiss-based-digital-assets-ag-launches-tokenized-stock-offerings-on-solana",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZWM3MGMwYWQtMTZjOS00MmVjLWE1OGUtMjhjZjY1ZDIxNmYwLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZWM3MGMwYWQtMTZjOS00MmVjLWE1OGUtMjhjZjY1ZDIxNmYwLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 07:54:37 +0900",
+          "dc:creator": {
+            "#cdata-section": " Sam Bourgi "
+          },
+          "category": [
+            {
+              "#cdata-section": " Stocks "
+            },
+            {
+              "#cdata-section": " Cryptocurrency Exchange "
+            },
+            {
+              "#cdata-section": " Sam Bankman-Fried "
+            },
+            {
+              "#cdata-section": " Solana "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 仮想通貨ニュース "
+            },
+            {
+              "#cdata-section": " 暗号通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " ソラナ "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/swiss-based-digital-assets-ag-launches-tokenized-stock-offerings-on-solana"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvZWM3MGMwYWQtMTZjOS00MmVjLWE1OGUtMjhjZjY1ZDIxNmYwLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>スイス拠点のトークン発行企業デジタル・アセッツAG（DAAG）はソラナブロックチェーンで株式トークン発行サービスを立ち上げ、FTX取引プラットフォームのユーザーに従来の株式市場へのアクセス方法を提供する。</p> <p> <p>スイス拠点のトークン発行企業デジタル・アセッツAG（DAAG）はソラナブロックチェーンで株式トークン発行サービスを立ち上げる。トークン取引プラットフォームであるFTXで取引可能となる。FTXの姉妹企業であるアラメダ・リサーチは、ソラナに投資している。</p> <p>DAAGは24日、本人確認（KYC）を完了したFTXユーザーは、55の「フリー・フローティング・ストック」にアクセス可能になる、ブロックチェーンを利用し、24時間、365日いつでも資産の売買が可能だ。</p> <p>フリー・フローティング・ストックとは、トークン化されたプラットフォーム上で取引することを規制当局から承認された資産。DAAGによると、企業幹部が保有する株式を除いた資産の株数になるという。ソラナで発行された株式はフェイスブックや、グーグル、テスラなどが含まれている。</p> <p>トークン化された株式は、リヒテンシュタイン金融市場庁の承認を受け、欧州経済領域（EEA）で有効となる。</p> <p>DAAG役員のブランドン・ウィリアムス氏は、ソラナブロックチェーンを採用した理由について、以下のように語った。</p> <blockquote><p>「プライベートブロックチェーン上での運用からソラナでの（パブリックブロックチェーンの）運用に移行することで、トークン化された株式の取引や活用を、より効率的で費用対効果の高い環境にできる。伝統的な金融や資本市場全体がブロックチェーン上で運用されることを想定しており、ソラナは当然の選択だった」</p></blockquote> <p>一方で、FTXはすでにトークン化された株式を提供している。既報のようにFTXは2020年12月、コインベースの上場前に、時価総額終値と連動するトークン化された株式を上場させた。</p> <p>ソラナは現在、投資家やベンチャーキャピタルなどから大きな支持を受けている。最近では開発を促進する目的でアンドリーセン・ホロウィッツとポリチェーン・キャピタルが主導する出資ラウンドで、3億1400万ドルを調達した。</p> <p>【関連記事：<a href=\"https://jp.cointelegraph.com/news/solana-a-blockchain-with-high-scaling-performance-explained\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/solana-a-blockchain-with-high-scaling-performance-explained/amp\">高スケーリング性能のブロックチェーンSolana（ソラナ）を解説</a>】</p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " ETF（上場投資信託）とは？ メリット・デメリットなどわかりやすく解説 "
+          },
+          "link": "https://jp.cointelegraph.com/news/what-is-an-etf-exchange-traded-fund-an-easy-to-understand-explanation",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MmZmMWU1ZDdiNmI5MGZlMjM1ZWIwMmY3ODc1NDM1Yy5qcGc=.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MmZmMWU1ZDdiNmI5MGZlMjM1ZWIwMmY3ODc1NDM1Yy5qcGc=.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Fri, 25 Jun 2021 07:00:00 +0900",
+          "dc:creator": {
+            "#cdata-section": " Cointelegraph Japan "
+          },
+          "category": [
+            {
+              "#cdata-section": " 資産運用 "
+            },
+            {
+              "#cdata-section": " 資産形成 "
+            },
+            {
+              "#cdata-section": " 投資信託 "
+            },
+            {
+              "#cdata-section": " ETF "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/what-is-an-etf-exchange-traded-fund-an-easy-to-understand-explanation"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MmZmMWU1ZDdiNmI5MGZlMjM1ZWIwMmY3ODc1NDM1Yy5qcGc=.jpg\" class=\"type:primaryImage\"></p> ",
+            "#cdata-section1": " <p>ETF（上場投資信託）は、投資のプロに運用を任せつつ簡単に分散投資ができる金融商品だ。投資信託とは違い、株式のようにリアルタイム取引が可能だ。</p> <p> <p>「まとまった資金が必要な株式投資には抵抗があるが、リアルタイムで株式をトレードをしてみたい」という人は、ETFを始めてみてはどうだろうか。ETFは、投資の初心者から玄人まで幅広く人気である「投資信託」の1種でありながら、株式投資のようにリアルタイムでの取引が可能だ。</p> <p>本記事では、ETFについて投資初心者向けに解説する。</p> <p><img width=\"1450\" height=\"650\" alt=\"ETFの初心者向け記事\" src=\"https://s3.cointelegraph.com/storage/uploads/view/8369941ab51aa93888e5b09f956180f9.jpg\"></p> <h2>ETFとは？ </h2> <p>ETFは「Exchange Traded Fund（上場投資信託）」の略称である。投資信託は、投資家から資金を募って1つのファンドを作り、複数の国内外の株式や債券などで運用する金融商品だ。運用益が発生した場合は、出資額に応じて投資家に分配される。投資信託の運用先を決めるのは、運用のプロである「ファンドマネジャー」である。</p> <p>【関連記事】<br><a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/what-is-an-investment-trust-an-easy-to-understand-explanation/amp\" href=\"https://jp.cointelegraph.com/news/what-is-an-investment-trust-an-easy-to-understand-explanation\">投資信託とは？仕組みや購入方法などをわかりやすく解説</a></p> <p>ETFは、東京証券取引所をはじめとした金融商品取引所に上場しているため、株式のようにリアルタイムでの取引が可能であり、約定したタイミングの市場価格で売買できる。一方で投資信託は、リアルタイムでの取引ができない。売買価格は1日1回決められる基準価額である。ETFは、上場株式のようにリアルタイム取引ができる投資信託と覚えておこう。</p> <p>ETFの運用スタイルには、投資信託と同様に「インデックスファンド」と「アクティブファンド」がある。インデックスファンドは、日経平均株価やTOPIX（東証株価指数）などの指数と値動きが連動するように運用されている。アクティブファンドは、指数を上回るリターンを目指して運用されている。ETFは、現状はほとんどがインデックスファンドである。</p> <h2><img width=\"1101\" height=\"1067\" alt=\"ETFと株式、投資信託の違い\" src=\"https://s3.cointelegraph.com/storage/uploads/view/b9b70e1ceca322ea226073cd54f0d1a3.jpg\"></h2> <h2>ETFの投資対象</h2> <p>ETFの投資対象は基本的に投資信託と共通している。主に以下の通りだ。</p> <ul> <li>株式：企業が資金を調達する際に発行する有価証券</li> <li>債券：国や企業が投資家からお金を借りた際に発行する借用証書</li> <li>不動産：アパートやマンション、商業施設など、賃料収入が得られる不動産</li> <li>商品（コモディティ）：金やプラチナ、原油など、モノ自体に価値がある商品</li> </ul> <p>一般的に株式は、ハイリスク・ハイリターンであり、債券はローリスク・ローリターン、不動産はミドルリスク・ミドルリターンの投資であるといわれている。金やプラチナ、原油などの商品は、それぞれ株式や債券などとは異なった値動きをする。</p> <p>ETFが対象とする指数は、具体例には次のようなものがある。</p> <p>株価の指数には、東証一部上場の主要225社の平均株価を表す「日経平均株価」、日経平均株価銘柄のうち予想配当利回りが高い50社の株価から算出した「日経高配当株50ETF」、ニューヨーク証券取引所などに上場している30銘柄の株価の平均を示す「ダウ平均株価」などがある。</p> <p>債券の指数には、配当を考慮に入れた時価総額加重型の「NOMURA-BPI（総合）」、不動産の指数には、東京証券取引所に上場するREIT（不動産投資信託）の時価総額を基盤にした「東証REIT指数」、コモディティの指数には「金価格」などがある。</p> <p>ETFの運用会社は、ファンドを目標とする指数の構成比率に近づけるため、ファンドに組み入れる各銘柄を売買しながら保有比率を調整している。</p> <p>短期売買向けのETFには、レバレッジ型とインバース型がある。</p> <p>レバレッジ型（ブル型）とは、「日経平均株価」などの原指数の2倍や3倍の値動きをするETFだ。相場が上昇局面であるときに投資をすると高い収益が期待できる一方、下降局面で投資すると大きな損失を被る恐れがある。</p> <p>インバース型（ベア型）は、原指数と反比例の動きをするETFだ。下降局面で購入すると利益が期待できる一方、上昇局面で購入すると損失が発生する。</p> <p>レバレッジ型とインバース型のETFが対象とする指数には「日経平均レバレッジ・インデックス」「TOPIXインバース（-1倍）指数」などがある。</p> <p><img width=\"790\" height=\"1999\" alt=\"ETFの投資対象\" src=\"https://s3.cointelegraph.com/storage/uploads/view/c602f75fbf5377249438b008af794453.jpg\"></p> <h2>ETFの投資地域</h2> <p>ETFは、投資信託と同様に日本国内だけでなく海外にも投資できる。先進国（米国・欧州諸国）は、経済や技術が発達しているため、著しく衰退する可能性は低いが、急成長は見込めない。一方で新興国（ブラジル・インド・中国など）は、発展途上であるため急成長が期待できるが、衰退するリスクも高い。</p> <p>国内ETFは、日本国内で組成され、日本証券取引所や大阪証券取引所などに上場している。一方、海外ETFは、海外で組成されて海外の証券取引所に上場している。そのため取引時間も海外の取引所に準ずる。</p> <p>ETFは、1銘柄に投資すればそれだけで分散投資の効果があるが、国内外の株式と不動産、コモディティなど、異なった投資地域・投資対象のETFに分散投資をすることで、さらにリスクの軽減が可能だ。</p> <h2> <br>ETFのメリット・デメリット</h2> <p>ETFに投資するメリットとデメリットをまとめると、次のようになる。</p> <h3>ETFのメリット</h3> <ul> <li>リアルタイムで取引ができる</li> <li>簡単に分散投資ができる</li> <li>信託報酬が低い</li> </ul> <p>投資信託が取引できるのは、基本的に1日に1回だ。しかしETFは、証券取引所の取引可能時間内であれば、リアルタイムで何度でも取引が可能である。株式取引のように値動きに応じた取引ができるため、自分が希望する価格で購入したり売却したりしやすい。</p> <p>またETFは、1つの銘柄で複数の投資先や業界に簡単かつ低コストで分散投資ができる。</p> <p>株式や債券には価格が変動するリスクがあるため、1つの投資先が値下がりしても他の投資先の値上がりでカバーできるように分散投資をするのが基本だ。</p> <p>しかし株式投資では、1銘柄あたりの投資額が数十万円や数百万円となるケースも多く、分散投資をするためには多額の資金が必要となる。ETFであれば、1銘柄あたり2万円程度で購入が可能であり、少ない資金で分散投資をして価格変動リスクを軽減できる。</p> <p>投資信託と比較して信託報酬が低いのもETFのメリットだ。信託報酬とは、投資信託やETFを保有しているあいだに支払う運用コストである。ETFは、保有財産から差し引かれる信託報酬が低いため、利益が手元に残りやすく長期投資に有利であるといえる。</p> <h3>ETFのデメリット</h3> <p>ETFのデメリットは、以下の3点だ。</p> <ul> <li>分配金が自動で再投資されない</li> <li>自動積立投資ができない場合がある</li> <li>売買時に手数料がかかる</li> </ul> <p>投資信託であれば、銘柄によっては分配金を再投資に回せる。分配金を再投資に回すと、<a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/increase-your-financial-assets-through-the-compounding-effect/amp\" href=\"https://jp.cointelegraph.com/news/increase-your-financial-assets-through-the-compounding-effect\">複利効果が働き</a>、資産を雪だるま方式で増やせる可能性がある。しかしETFの分配金は、原則として決算時にすべて分配される。再投資する場合は、最低購入金額まで分配金を貯めたうえで、手動で買付をしなければならない。また、買付時に売買手数料も支払う必要がある。</p> <p>ETFで自動積立投資を設定できる証券会社は、非常に限られている。自動積立投資とは、事前に設定をすることで毎月一定額を、自動的に買い付けてくれる機能だ。投資信託で資産運用をする場合、自動積立投資機能を活用して積立投資をすることで、<a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/dollar-cost-averaging-explained/amp\" href=\"https://jp.cointelegraph.com/news/dollar-cost-averaging-explained\">ドル・コスト平均法でのリスク軽減効果</a>が期待できる。ETFでは、ドル・コスト平均法を用いたリスク分散をするためには、手動で購入するか自動積立投資に対応した証券会社を探す必要がある。</p> <p>ETFは株式と同様に、取引をするたびに手数料がかかるのが一般的だ。リアルタイムでトレードができる一方で、取引回数が多くなると売買手数料が高くなって利益が減ってしまう恐れがある。ETFを購入したり売却したりする際は、必ず手数料を確認しよう。</p> <h2><img width=\"1101\" height=\"1743\" alt=\"ETFのメリット・デメリット\" src=\"https://s3.cointelegraph.com/storage/uploads/view/f190957ba6a16e7c4a5f6c5d1217c42f.jpg\"></h2> <h2>ETFの買い方</h2> <p>ETFを取引するためには、株式取引と同様に証券会社で口座を開設する必要がある。口座の開設後は、証券取引所の取引時間内であれば、好きな時間に取引ができる。たとえば東京証券取引所であれば、平日の9:00～11：30（前場）と12：30～15：00（後場）が取引可能な時間帯となる。</p> <p>ETFは「口」と呼ばれる単位で取引される。ETFの買付価格は「口数×取引所価格」に、証券会社の手数料を含めた金額となる。最低取引単位は銘柄によって異なっており、1口から購入できる銘柄もあれば、10口や100口からしか購入できない銘柄もある。</p> <p>ETFは、株式と同じく「成行注文」と「指値注文」で取引ができる。成行注文は、価格を指定せずに、銘柄と購入口数を指定して注文する。対して指値注文は、銘柄と購入口数、価格のすべてを指定する注文方法だ。</p> <p>成行注文は、売買が成立しやすい一方で、想定よりも高く買ってしまったり安く売ってしまったりする恐れがある。指値注文は、希望する価格で売買ができる可能性がある反面、取引が成立しない場合もある。どちらにも一長一短があるため、状況や希望に適した注文方法を選択することが大事だ。</p> <p><img width=\"1101\" height=\"1226\" alt=\"ETFまとめ\" src=\"https://s3.cointelegraph.com/storage/uploads/view/bba0479855e6d6d410dd0138408e5367.jpg\"></p> <p>【関連記事】<br><a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/why-long-term-diversified-and-reserve-investment-is-necessary-for-asset-formation/amp\" href=\"https://jp.cointelegraph.com/news/why-long-term-diversified-and-reserve-investment-is-necessary-for-asset-formation\">資産形成の基本「長期・分散・積立投資」がなぜ必要か</a></p> <p><a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/how-to-start-investing-in-stocks-basic-knowledge-for-beginners/amp\" href=\"https://jp.cointelegraph.com/news/how-to-start-investing-in-stocks-basic-knowledge-for-beginners\">株式投資の始め方 初心者向けの基礎知識</a></p> <p><a data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/low-risk-investment-bond-investing-explained/amp\" href=\"https://jp.cointelegraph.com/news/low-risk-investment-bond-investing-explained\">低リスクで投資できる！債券投資について解説</a></p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 香港「リンゴ日報」廃刊に抗議、ブロックチェーンで過去記事をバックアップ "
+          },
+          "link": "https://jp.cointelegraph.com/news/activists-archive-hong-kong-pro-democracy-newspaper-on-blockchain",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNjU4MzRkMDAtYTNhMS00N2M3LWE2M2MtZTMwNTFkYjQxY2RlLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNjU4MzRkMDAtYTNhMS00N2M3LWE2M2MtZTMwNTFkYjQxY2RlLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Thu, 24 Jun 2021 18:53:43 +0900",
+          "dc:creator": {
+            "#cdata-section": " Helen Partz "
+          },
+          "category": [
+            {
+              "#cdata-section": " Democracy "
+            },
+            {
+              "#cdata-section": " Hong Kong "
+            },
+            {
+              "#cdata-section": " Activism "
+            },
+            {
+              "#cdata-section": " Politics "
+            },
+            {
+              "#cdata-section": " Freedom "
+            },
+            {
+              "#cdata-section": " Decentralization "
+            },
+            {
+              "#cdata-section": " Internet "
+            },
+            {
+              "#cdata-section": " Censorship "
+            },
+            {
+              "#cdata-section": " 香港 "
+            },
+            {
+              "#cdata-section": " アップルデイリー "
+            },
+            {
+              "#cdata-section": " リンゴ日報 "
+            },
+            {
+              "#cdata-section": " ブロックチェーン "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/activists-archive-hong-kong-pro-democracy-newspaper-on-blockchain"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNjU4MzRkMDAtYTNhMS00N2M3LWE2M2MtZTMwNTFkYjQxY2RlLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>香港のサイバー活動家は、言論の自由を諦めていない。彼らは、ブロックチェーン技術を利用して、民主化を支持する香港の新聞「リンゴ日報（アップルデイリー）」の記事をバックアップしている。</p> <p> <p>香港のサイバー活動家は、言論の自由を諦めていない。彼らは、ブロックチェーン技術を利用して、民主化を支持する香港の新聞「リンゴ日報（アップルデイリー）」の記事をバックアップしている。</p> <p>リンゴ日報は、香港の国家安全維持法に違反したとして資金が凍結され、24日の新聞を最後に<a href=\"https://www.reuters.com/world/asia-pacific/hong-kongs-pro-democracy-apple-daily-signs-off-painful-farewell-2021-06-23/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">発行を停止</a>することになった。だが、<a href=\"https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-live-blockchain-free-censors-2021-06-24/?rpc=401&\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ロイターの報道</a>によれば、香港の活動家たちは、分散型ネットワークにリンゴ日報の記事をアップロードしている。</p> <p>テクノロジー業界で働く匿名の活動家である21歳のHo氏は今週、分散型ファイルストレージプラットフォームARWeaveにリンゴ日報の記事をアップロードし始めた。</p> <p>ARWeaveは、アンドリーセン・ホロウィッツなどの<a href=\"https://jp.cointelegraph.com/news/arweave-secures-5-million-in-funding-round-led-by-andreessen-horowitz\" data-amp=\"https://jp-cointelegraph-com.cdn.ampproject.org/c/s/jp.cointelegraph.com/news/arweave-secures-5-million-in-funding-round-led-by-andreessen-horowitz/amp\">投資家がサポートしており</a>、blockweaveと呼ばれるネットワークを展開し、コンピュータの分散型ネットワークにファイルを永続的に保存することができる。</p> <p>報道によれば、24日の時点ですでに4000を超えるリンゴ日報の記事がARWeaveにアップロードされている。</p> <p>リンゴ日報は、中国政府に対する批判的な姿勢で知られ、香港で最も積極的に民主化を支持していた新聞の1つだ。先週、リンゴ日報は国家安全維持法によって資産が凍結されたほか、幹部5人が逮捕された。24日には最後の新聞を発行し、ウェブサイトも閉鎖。すべてのソーシャルメディアアカウントも削除された。</p> <p>過去記事をブロックチェーンに掲載したHo氏は、「私がこれをしているのは、リンゴ日報が大好きだからではない。それが必要なことだからだ」と語っている。「リンゴ日報がこんなに早く消えるとは思ってもみなかった」とも述べている。</p> <p>香港の人々は、これまでにもブロックチェーン技術を使って政府の検閲と戦っている。香港の公共放送局であるRHTK（香港電台）の過去コンテンツを保護するため、ブロックチェーン基盤のネットワークを<a href=\"https://cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles\" data-amp=\"https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/hong-kongers-use-blockchain-to-save-evidence-of-anti-authoritarian-struggles/amp\">活用した事例もある</a>。これは、政府による過去のアーカイブを消去する試みに抗議するためのものだった。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 国際決済銀行がCBDCでレポート公開、公的部門と民間部門の2層システムの必要性指摘 "
+          },
+          "link": "https://jp.cointelegraph.com/news/bis-optimistic-about-central-bank-digital-currencies",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYjI0YzY1NGItY2FiZC00MTZjLWI4NmEtMDE2ZTFhMmM0ZmZiLmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYjI0YzY1NGItY2FiZC00MTZjLWI4NmEtMDE2ZTFhMmM0ZmZiLmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Thu, 24 Jun 2021 17:17:33 +0900",
+          "dc:creator": {
+            "#cdata-section": " Osato Avan-Nomayo "
+          },
+          "category": [
+            {
+              "#cdata-section": " Central Bank Digital Currency "
+            },
+            {
+              "#cdata-section": " CBDC "
+            },
+            {
+              "#cdata-section": " Bank for International Settlements "
+            },
+            {
+              "#cdata-section": " BIS "
+            },
+            {
+              "#cdata-section": " Digital Currency "
+            },
+            {
+              "#cdata-section": " Stablecoin "
+            },
+            {
+              "#cdata-section": " Privacy "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " BIS "
+            },
+            {
+              "#cdata-section": " 国際決済銀行 "
+            },
+            {
+              "#cdata-section": " プライバー、デジタル通貨 "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/bis-optimistic-about-central-bank-digital-currencies"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvYjI0YzY1NGItY2FiZC00MTZjLWI4NmEtMDE2ZTFhMmM0ZmZiLmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>国際決済銀行（BIS）は、中央銀行デジタル通貨（CBDC）について新しいレポートを発表し、CBDCで「中央銀行マネーのユニークな利点」を提供できると主張している。</p> <p> <p>国際決済銀行（BIS）は、中央銀行デジタル通貨（CBDC）について<a href=\"https://www.bis.org/publ/arpdf/ar2021e3.htm\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">新しいレポートを発表し</a>、CBDCで「中央銀行マネーのユニークな利点」を提供できると主張している。</p> <p>レポートによると、CBDCは公共財のために設計されたデジタルマネーであり、即時決済システムのインターフェイスとして最適だとしている。</p> <p>BISのレポートでは、一般の取引で使用されるリテール型CBDCについて詳しく解説し、「CBDCは中央銀行と民間セクターがそれぞれの役割を果たす2層システムの一部として最適に設計されている」と付け加えている。</p> <blockquote><p>「これらの設計における論理的なステップは、運用タスクと消費者向けの活動の大部分を、競争力のあるリテールサービスを提供する商業銀行やノンバンクのPSP（決済サービスプロバイダー）に委任することだ。一方、中央銀行はシステムのコア部分の運用に集中することができる」</p></blockquote> <p>プライバシーの懸念について、BISの研究者は、堅牢な消費者識別プロトコルを支持すると主張している。レポートによると、完全な匿名機能を備えたトークンベースのCBDCは、違法な金融活動の手段を提供してしまう。</p> <p>代わりに、中央銀行は税務記録や資産記録などの既存のデジタルIDインフラと連携するアカウントベースのCBDCを設計する必要があると、BISレポートは指摘している。</p> <p> </p> </p> "
+          }
+        },
+        {
+          "title": {
+            "#cdata-section": " 仮想通貨マイニング装置大手ビットメイン、装置の販売を一時停止か＝報道 "
+          },
+          "link": "https://jp.cointelegraph.com/news/bitmain-reportedly-suspends-bitcoin-miner-orders-amid-booming-secondhand-supply",
+          "media:content": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvN2ZjNGQ4NTEtNjYyOS00MTFhLTg5NzQtOTM5MmJiY2ExZTA5LmpwZw==.jpg",
+            "-medium": "image",
+            "-self-closing": "true"
+          },
+          "enclosure": {
+            "-url": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvN2ZjNGQ4NTEtNjYyOS00MTFhLTg5NzQtOTM5MmJiY2ExZTA5LmpwZw==.jpg",
+            "-length": "840",
+            "-type": "image/jpg",
+            "-self-closing": "true"
+          },
+          "pubDate": "Thu, 24 Jun 2021 16:36:44 +0900",
+          "dc:creator": {
+            "#cdata-section": " Helen Partz "
+          },
+          "category": [
+            {
+              "#cdata-section": " Cryptocurrencies "
+            },
+            {
+              "#cdata-section": " Bitmain "
+            },
+            {
+              "#cdata-section": " Mining "
+            },
+            {
+              "#cdata-section": " China "
+            },
+            {
+              "#cdata-section": " ASIC "
+            },
+            {
+              "#cdata-section": " 仮想通貨 "
+            },
+            {
+              "#cdata-section": " 暗号資産 "
+            },
+            {
+              "#cdata-section": " ビットコイン "
+            },
+            {
+              "#cdata-section": " ビットメイン "
+            }
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "https://jp.cointelegraph.com/news/bitmain-reportedly-suspends-bitcoin-miner-orders-amid-booming-secondhand-supply"
+          },
+          "description": {
+            "#cdata-section": " <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvN2ZjNGQ4NTEtNjYyOS00MTFhLTg5NzQtOTM5MmJiY2ExZTA5LmpwZw==.jpg\" class=\"type:primaryImage\"></p> <p>中国のマイニング装置大手ビットマインは、中国の地方政府によるマイニング取り締り強化を受け、装置の出荷を停止しているようだ。</p> <p> <p>中国のマイニング装置大手ビットマインは、中国の地方政府によるマイニング取り締り強化を受け、装置の販売を停止しているようだ。マイニング装置の二次流通市場の価格を下支えするためではないかとみられている。</p> <p>23日の<a href=\"https://finance.sina.com.cn/tech/2021-06-23/doc-ikqcfnca2784153.shtml\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">中国メディアの報道</a>によると、ビットメインは新しいビットコインマイニング装置のグローバルでの販売を停止したとの情報が出ている。マイニング装置の流通市場で売却している業者の損失を回避するためだと指摘されている。</p> <p><a href=\"https://www.bloomberg.com/news/articles/2021-06-23/world-s-top-bitcoin-mining-rig-maker-halts-sales-as-clients-flee\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ブルームバーグ</a>は、装置販売を一時停止することで、マイニングから撤退する業者がより高い価格で売却できるようになると同時に、新しい装置の価格を押し上げるメリットもあると指摘している。</p> <p>ビットメインが支援するマイニングスタートアップのSai Technologyの創業者であるアーサー・リー氏は、中古市場におけるビットメイン製装置での売却が増加していると、ブルームバーグに語っている。</p> <p>ビットメインや競合他社のフラッグシップ製品は、ビットコインが過去最高値を付けた4月のときにはテラハッシュ秒あたり600元（93ドル）だったが、現在は150元（23ドル）になっているという。</p> <p>ビットコインマイニング装置の価格下落は、仮想通貨マイニングに使われるNvidiaのGPU価格下落と一致している。中国でのGPU価格は、6月に入って<a href=\"https://cointelegraph.com/news/nvidia-gpu-prices-in-china-fall-amid-crypto-mining-crackdown\" data-amp=\"https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/nvidia-gpu-prices-in-china-fall-amid-crypto-mining-crackdown/amp\">3分の2以上の下落となっている</a>。</p> <p>また中国人ジャーナリストの<a href=\"https://twitter.com/WuBlockchain/status/1407594241128222722?s=20\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">コリン・ウー氏</a>によれば、ビットメインは海外への移転を進める方針であり、既に一部の従業員が海外に転居しているという。</p> <p>翻訳・編集　コインテレグラフジャパン</p> <p> </p> </p> "
+          }
+        }
+      ]
+    }
+  },
+  "#omit-xml-declaration": "yes"
+}
