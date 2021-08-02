@@ -2,25 +2,10 @@
     "success": 1,
     "data": [
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:27:35.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:27:35.000Z"
-            },
+            "published": "2021-07-29T06:27:35.000Z",
             "category": [],
-            "enclosures": [
-                {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/06/shutterstock_image_1994882570.jpg"
-                }
-            ],
-            "media": {
-                "thumbnail": {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/06/shutterstock_image_1994882570.jpg"
-                }
-            },
+            "enclosures": "https://hedge.guide/wp-content/uploads/2021/06/shutterstock_image_1994882570.jpg",
+            "media": "https://hedge.guide/wp-content/uploads/2021/06/shutterstock_image_1994882570.jpg",
             "title": "農地を相続するメリット・デメリットは？売却や相続放棄との比較も",
             "url": "https://hedge.guide/feature/agricultural-land-inheritance-merit-demerit-sale-abandonment-of-inheritance.html",
             "link": "https://hedge.guide/feature/agricultural-land-inheritance-merit-demerit-sale-abandonment-of-inheritance.html",
@@ -31,25 +16,10 @@
             "objectId": "Gs2xoV3JlC"
         },
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:25:38.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:25:38.000Z"
-            },
+            "published": "2021-07-29T06:25:38.000Z",
             "category": [],
-            "enclosures": [
-                {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2009737388.jpg"
-                }
-            ],
-            "media": {
-                "thumbnail": {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2009737388.jpg"
-                }
-            },
+            "enclosures": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2009737388.jpg",
+            "media": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2009737388.jpg",
             "title": "不動産売却の確定申告、税理士に依頼する費用は？メリット・デメリットも",
             "url": "https://hedge.guide/feature/real-estate-sale-final-tax-return-tax-accountant-merit-demerit.html",
             "link": "https://hedge.guide/feature/real-estate-sale-final-tax-return-tax-accountant-merit-demerit.html",
@@ -60,25 +30,10 @@
             "objectId": "k8QsrxrfGn"
         },
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:22:55.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:22:55.000Z"
-            },
+            "published": "2021-07-29T06:22:55.000Z",
             "category": [],
-            "enclosures": [
-                {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1926699737.jpg"
-                }
-            ],
-            "media": {
-                "thumbnail": {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1926699737.jpg"
-                }
-            },
+            "enclosures": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1926699737.jpg",
+            "media": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1926699737.jpg",
             "title": "ウランバートル不動産投資のメリット・デメリットは？手順と注意点も",
             "url": "https://hedge.guide/feature/ulaanbaatar-real-estate-investment-merit-demerit-procedure.html",
             "link": "https://hedge.guide/feature/ulaanbaatar-real-estate-investment-merit-demerit-procedure.html",
@@ -89,25 +44,10 @@
             "objectId": "xCKXYhFH8b"
         },
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:18:02.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:18:02.000Z"
-            },
+            "published": "2021-07-29T06:18:02.000Z",
             "category": [],
-            "enclosures": [
-                {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2006335028.jpg"
-                }
-            ],
-            "media": {
-                "thumbnail": {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2006335028.jpg"
-                }
-            },
+            "enclosures": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2006335028.jpg",
+            "media": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2006335028.jpg",
             "title": "分散投資と集中投資どちらが良い？それぞれのメリットとデメリット",
             "url": "https://hedge.guide/feature/diversified-focus-investment-comparison.html",
             "link": "https://hedge.guide/feature/diversified-focus-investment-comparison.html",
@@ -118,25 +58,10 @@
             "objectId": "hFY0mPg1gK"
         },
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:15:22.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T06:15:22.000Z"
-            },
+            "published": "2021-07-29T06:15:22.000Z",
             "category": [],
-            "enclosures": [
-                {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1963272103.jpg"
-                }
-            ],
-            "media": {
-                "thumbnail": {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1963272103.jpg"
-                }
-            },
+            "enclosures": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1963272103.jpg",
+            "media": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1963272103.jpg",
             "title": "米国株価指数先物に投資するメリット・デメリットは？取扱証券会社も",
             "url": "https://hedge.guide/feature/stock-index-futures-trading-merit-demerit.html",
             "link": "https://hedge.guide/feature/stock-index-futures-trading-merit-demerit.html",
@@ -147,25 +72,10 @@
             "objectId": "aGv5mcQtlk"
         },
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:51:49.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:51:49.000Z"
-            },
+            "published": "2021-07-29T05:51:49.000Z",
             "category": [],
-            "enclosures": [
-                {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2007155177.jpg"
-                }
-            ],
-            "media": {
-                "thumbnail": {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2007155177.jpg"
-                }
-            },
+            "enclosures": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2007155177.jpg",
+            "media": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2007155177.jpg",
             "title": "dポイントで寄付する方法は？主な寄付先や交換の手順",
             "url": "https://hedge.guide/feature/d-point-donate-method-main-donations-procedure.html",
             "link": "https://hedge.guide/feature/d-point-donate-method-main-donations-procedure.html",
@@ -176,25 +86,10 @@
             "objectId": "FGrOCZ9cTR"
         },
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:50:01.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:50:01.000Z"
-            },
+            "published": "2021-07-29T05:50:01.000Z",
             "category": [],
-            "enclosures": [
-                {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_572692948.jpg"
-                }
-            ],
-            "media": {
-                "thumbnail": {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_572692948.jpg"
-                }
-            },
+            "enclosures": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_572692948.jpg",
+            "media": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_572692948.jpg",
             "title": "ステーブルコインPAXおよびBUSDが裏付け資産の内訳を公開、USDCおよびUSDTとの比較も",
             "url": "https://hedge.guide/news/assets-of-pax-and-busd-bc202107.html",
             "link": "https://hedge.guide/news/assets-of-pax-and-busd-bc202107.html",
@@ -205,25 +100,10 @@
             "objectId": "gLAUR9yJiy"
         },
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:48:06.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:48:06.000Z"
-            },
+            "published": "2021-07-29T05:48:06.000Z",
             "category": [],
-            "enclosures": [
-                {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1358899097.jpg"
-                }
-            ],
-            "media": {
-                "thumbnail": {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1358899097.jpg"
-                }
-            },
+            "enclosures": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1358899097.jpg",
+            "media": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1358899097.jpg",
             "title": "WARASHIBEの利回りやリスクは？募集ファンドの実績から検証",
             "url": "https://hedge.guide/feature/warashibe-yield-risk-recruitment-fund-result.html",
             "link": "https://hedge.guide/feature/warashibe-yield-risk-recruitment-fund-result.html",
@@ -234,25 +114,10 @@
             "objectId": "DRrGnieCLk"
         },
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:40:25.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:40:25.000Z"
-            },
+            "published": "2021-07-29T05:40:25.000Z",
             "category": [],
-            "enclosures": [
-                {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2012657138.jpg"
-                }
-            ],
-            "media": {
-                "thumbnail": {
-                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2012657138.jpg"
-                }
-            },
+            "enclosures": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2012657138.jpg",
+            "media": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2012657138.jpg",
             "title": "SBI証券、2021年8月のお得なキャンペーン情報まとめ",
             "url": "https://hedge.guide/feature/sbi-securities-2108-campaign.html",
             "link": "https://hedge.guide/feature/sbi-securities-2108-campaign.html",
@@ -263,24 +128,12 @@
             "objectId": "jYwFQO15vN"
         },
         {
-            "published": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:30:13.000Z"
-            },
-            "created": {
-                "__type": "Date",
-                "iso": "2021-07-29T05:30:13.000Z"
-            },
+            "published": "2021-07-29T05:30:13.000Z",
             "category": [
                 "ブロックチェーン",
                 "関連通貨：ONT"
             ],
-            "enclosures": [
-                {
-                    "type": "image/jpeg",
-                    "url": "https://imgs.coinpost-ext.com/uploads/2020/09/ontology20200902_4.jpg"
-                }
-            ],
+            "enclosures": "https://imgs.coinpost-ext.com/uploads/2020/09/ontology20200902_4.jpg",
             "title": "ユーザーデータとプライバシー保護に分散化が不可欠な理由とは｜Ontology（オントロジー）寄稿",
             "url": "https://coinpost.jp/?p=264189&from=noad",
             "link": "https://coinpost.jp/?p=264189&from=noad",
@@ -289,7 +142,8 @@
             "source": "coinpost",
             "createdAt": "2021-07-29T07:05:56.050Z",
             "updatedAt": "2021-07-29T07:05:56.050Z",
-            "objectId": "Qn1VoupGMn"
+            "objectId": "Qn1VoupGMn",
+            "media": "https://blog.btcbox.jp/wp2/wp-content/uploads/2021/04/logo-320x180.png"
         }
     ],
     "msg": ""
