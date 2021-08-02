@@ -1,0 +1,296 @@
+{
+    "success": 1,
+    "data": [
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:27:35.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:27:35.000Z"
+            },
+            "category": [],
+            "enclosures": [
+                {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/06/shutterstock_image_1994882570.jpg"
+                }
+            ],
+            "media": {
+                "thumbnail": {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/06/shutterstock_image_1994882570.jpg"
+                }
+            },
+            "title": "農地を相続するメリット・デメリットは？売却や相続放棄との比較も",
+            "url": "https://hedge.guide/feature/agricultural-land-inheritance-merit-demerit-sale-abandonment-of-inheritance.html",
+            "link": "https://hedge.guide/feature/agricultural-land-inheritance-merit-demerit-sale-abandonment-of-inheritance.html",
+            "author": "田中 あさみ",
+            "source": "hedge",
+            "createdAt": "2021-07-29T07:05:56.023Z",
+            "updatedAt": "2021-07-29T07:05:56.023Z",
+            "objectId": "Gs2xoV3JlC"
+        },
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:25:38.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:25:38.000Z"
+            },
+            "category": [],
+            "enclosures": [
+                {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2009737388.jpg"
+                }
+            ],
+            "media": {
+                "thumbnail": {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2009737388.jpg"
+                }
+            },
+            "title": "不動産売却の確定申告、税理士に依頼する費用は？メリット・デメリットも",
+            "url": "https://hedge.guide/feature/real-estate-sale-final-tax-return-tax-accountant-merit-demerit.html",
+            "link": "https://hedge.guide/feature/real-estate-sale-final-tax-return-tax-accountant-merit-demerit.html",
+            "author": "佐藤 永一郎",
+            "source": "hedge",
+            "createdAt": "2021-07-29T07:05:56.015Z",
+            "updatedAt": "2021-07-29T07:05:56.015Z",
+            "objectId": "k8QsrxrfGn"
+        },
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:22:55.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:22:55.000Z"
+            },
+            "category": [],
+            "enclosures": [
+                {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1926699737.jpg"
+                }
+            ],
+            "media": {
+                "thumbnail": {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1926699737.jpg"
+                }
+            },
+            "title": "ウランバートル不動産投資のメリット・デメリットは？手順と注意点も",
+            "url": "https://hedge.guide/feature/ulaanbaatar-real-estate-investment-merit-demerit-procedure.html",
+            "link": "https://hedge.guide/feature/ulaanbaatar-real-estate-investment-merit-demerit-procedure.html",
+            "author": "HEDGE GUIDE 編集部 不動産投資チーム",
+            "source": "hedge",
+            "createdAt": "2021-07-29T07:05:56.054Z",
+            "updatedAt": "2021-07-29T07:05:56.054Z",
+            "objectId": "xCKXYhFH8b"
+        },
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:18:02.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:18:02.000Z"
+            },
+            "category": [],
+            "enclosures": [
+                {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2006335028.jpg"
+                }
+            ],
+            "media": {
+                "thumbnail": {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2006335028.jpg"
+                }
+            },
+            "title": "分散投資と集中投資どちらが良い？それぞれのメリットとデメリット",
+            "url": "https://hedge.guide/feature/diversified-focus-investment-comparison.html",
+            "link": "https://hedge.guide/feature/diversified-focus-investment-comparison.html",
+            "author": "山下耕太郎",
+            "source": "hedge",
+            "createdAt": "2021-07-29T07:05:56.046Z",
+            "updatedAt": "2021-07-29T07:05:56.046Z",
+            "objectId": "hFY0mPg1gK"
+        },
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:15:22.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T06:15:22.000Z"
+            },
+            "category": [],
+            "enclosures": [
+                {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1963272103.jpg"
+                }
+            ],
+            "media": {
+                "thumbnail": {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1963272103.jpg"
+                }
+            },
+            "title": "米国株価指数先物に投資するメリット・デメリットは？取扱証券会社も",
+            "url": "https://hedge.guide/feature/stock-index-futures-trading-merit-demerit.html",
+            "link": "https://hedge.guide/feature/stock-index-futures-trading-merit-demerit.html",
+            "author": "藤井 理",
+            "source": "hedge",
+            "createdAt": "2021-07-29T07:05:56.049Z",
+            "updatedAt": "2021-07-29T07:05:56.049Z",
+            "objectId": "aGv5mcQtlk"
+        },
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:51:49.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:51:49.000Z"
+            },
+            "category": [],
+            "enclosures": [
+                {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2007155177.jpg"
+                }
+            ],
+            "media": {
+                "thumbnail": {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2007155177.jpg"
+                }
+            },
+            "title": "dポイントで寄付する方法は？主な寄付先や交換の手順",
+            "url": "https://hedge.guide/feature/d-point-donate-method-main-donations-procedure.html",
+            "link": "https://hedge.guide/feature/d-point-donate-method-main-donations-procedure.html",
+            "author": "田中 あさみ",
+            "source": "hedge",
+            "createdAt": "2021-07-29T07:05:56.018Z",
+            "updatedAt": "2021-07-29T07:05:56.018Z",
+            "objectId": "FGrOCZ9cTR"
+        },
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:50:01.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:50:01.000Z"
+            },
+            "category": [],
+            "enclosures": [
+                {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_572692948.jpg"
+                }
+            ],
+            "media": {
+                "thumbnail": {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_572692948.jpg"
+                }
+            },
+            "title": "ステーブルコインPAXおよびBUSDが裏付け資産の内訳を公開、USDCおよびUSDTとの比較も",
+            "url": "https://hedge.guide/news/assets-of-pax-and-busd-bc202107.html",
+            "link": "https://hedge.guide/news/assets-of-pax-and-busd-bc202107.html",
+            "author": "株式会社techtec リサーチチーム",
+            "source": "hedge",
+            "createdAt": "2021-07-29T07:05:56.055Z",
+            "updatedAt": "2021-07-29T07:05:56.055Z",
+            "objectId": "gLAUR9yJiy"
+        },
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:48:06.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:48:06.000Z"
+            },
+            "category": [],
+            "enclosures": [
+                {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1358899097.jpg"
+                }
+            ],
+            "media": {
+                "thumbnail": {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_1358899097.jpg"
+                }
+            },
+            "title": "WARASHIBEの利回りやリスクは？募集ファンドの実績から検証",
+            "url": "https://hedge.guide/feature/warashibe-yield-risk-recruitment-fund-result.html",
+            "link": "https://hedge.guide/feature/warashibe-yield-risk-recruitment-fund-result.html",
+            "author": "HEDGE GUIDE 編集部 ソーシャルレンディングチーム",
+            "source": "hedge",
+            "createdAt": "2021-07-29T07:05:55.992Z",
+            "updatedAt": "2021-07-29T07:05:55.992Z",
+            "objectId": "DRrGnieCLk"
+        },
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:40:25.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:40:25.000Z"
+            },
+            "category": [],
+            "enclosures": [
+                {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2012657138.jpg"
+                }
+            ],
+            "media": {
+                "thumbnail": {
+                    "url": "https://hedge.guide/wp-content/uploads/2021/07/shutterstock_image_2012657138.jpg"
+                }
+            },
+            "title": "SBI証券、2021年8月のお得なキャンペーン情報まとめ",
+            "url": "https://hedge.guide/feature/sbi-securities-2108-campaign.html",
+            "link": "https://hedge.guide/feature/sbi-securities-2108-campaign.html",
+            "author": "HEDGE GUIDE 編集部 株式投資チーム",
+            "source": "hedge",
+            "createdAt": "2021-07-29T07:05:56.047Z",
+            "updatedAt": "2021-07-29T07:05:56.047Z",
+            "objectId": "jYwFQO15vN"
+        },
+        {
+            "published": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:30:13.000Z"
+            },
+            "created": {
+                "__type": "Date",
+                "iso": "2021-07-29T05:30:13.000Z"
+            },
+            "category": [
+                "ブロックチェーン",
+                "関連通貨：ONT"
+            ],
+            "enclosures": [
+                {
+                    "type": "image/jpeg",
+                    "url": "https://imgs.coinpost-ext.com/uploads/2020/09/ontology20200902_4.jpg"
+                }
+            ],
+            "title": "ユーザーデータとプライバシー保護に分散化が不可欠な理由とは｜Ontology（オントロジー）寄稿",
+            "url": "https://coinpost.jp/?p=264189&from=noad",
+            "link": "https://coinpost.jp/?p=264189&from=noad",
+            "author": "CoinPost編集部",
+            "content_encoded": "分散型ソリューションの重要性 サイバーセキュリティに関する最近の統計では、2020年の上半期だけでも、データ侵害（データを盗む目的で行われた、Webサービスや企業に対する攻撃により、データが盗まれてしまうこと）による360億件のデータ流出が明らかになりました。少し立ち止まって考えてみると、これはまさに驚異的な数字です。 現在、ユーザーはかつてないほど無防備な状態に置かれています。世界的な感染症の大流行により、人々はますますオンラインでの活動を余儀なくされ、不正行為のリスクが深刻化しています。サービスのオンライン化に伴い、データ保存方法を管理する責任も、以前より大きくなっているのです。 こ...",
+            "source": "coinpost",
+            "createdAt": "2021-07-29T07:05:56.050Z",
+            "updatedAt": "2021-07-29T07:05:56.050Z",
+            "objectId": "Qn1VoupGMn"
+        }
+    ],
+    "msg": ""
+}
