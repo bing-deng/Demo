@@ -1,7 +1,8 @@
 #coding=utf-8
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
- 
+import time
+
 chrome_opt = Options()  # 创建参数设置对象.
 chrome_opt.add_argument('--headless')  # 无界面化.
 chrome_opt.add_argument('--disable-gpu')  # 配合上面的无界面化.
@@ -12,7 +13,7 @@ chrome_opt.add_argument("--no-sandbox") #使用沙盒模式运行
 
 
 while True:
-    browser = webdriver.Chrome(chrome_options=chrome_opt)
+    browser = webdriver.Chrome(chrome_options=chrome_opt,executable_path='/home/chrome-headless/chromedriver')
     #first page -------------------------------------------------
     browser.get("https://prtimes.jp/main/html/rd/p/000000003.000083628.html")
     browser.maximize_window() # 窗口最大化
