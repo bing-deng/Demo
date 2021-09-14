@@ -7,4 +7,4 @@ wget https://chromedriver.storage.googleapis.com/2.41/chromedriver_linux64.zip &
 apt --fix-broken install && apt install unzip
 sudo apt install python3-pip && pip3 install selenium
 cd /home/chrome-headless && unzip chromedriver_linux64.zip
-sh -c "$(curl -sSL https://raw.githubusercontent.com/bing-deng/Demo/master/ubuntu_headless.sh)"
+#sh -c "$(curl -sSL https://raw.githubusercontent.com/bing-deng/Demo/master/ubuntu_headless.sh)"
