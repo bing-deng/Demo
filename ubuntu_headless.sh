@@ -5,7 +5,7 @@ cd /home && mkdir chrome-headless && cd  chrome-headless
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome*.deb
 sudo apt install unzip
-wget https://chromedriver.storage.googleapis.com/2.41/chromedriver_linux64.zip && unzip chromedriver_linux64.zip
+wget wget https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_linux64.zip && unzip chromedriver_linux64.zip && unzip chromedriver_linux64.zip
 apt --fix-broken install 
 sudo apt install python3-pip && pip3 install selenium
 cd /home/chrome-headless && unzip chromedriver_linux64.zip
