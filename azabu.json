@@ -4,7 +4,7 @@
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Azabu_Junior_%26_Senior_High_School.jpg/540px-Azabu_Junior_%26_Senior_High_School.jpg",
   "found_date": "1985年",
   "post_code": "106-0046",
-  "official_url": "https://https://www.azabu-jh.ed.jp/",
+  "official_url": "https://www.azabu-jh.ed.jp/",
   "deviation_value": "68",
   "information": {
     "entry_fee": "10000",
@@ -69,10 +69,26 @@
     "bus": "・ [橋86 目黒駅東口〜東京タワー・新橋駅]行バス乗車　「愛育病院前」下車 徒歩2分\n・ [黒77 目黒駅東口〜千駄ヶ谷駅 / 品97 新宿駅西口〜品川車庫]行バス乗車　「日赤医療センター下」下車 徒歩8分",
     "google_map": "https://maps.google.co.jp/maps?&output=embed&q=loc:35.6545095, 139.7279987&z=17"
   },
-  "schedule": {
-    "sport": "9月末~10月初",
-    "cultural_festival": "2022年10月23日（土）～11月7日（日）",
-    "school_briefing": "2022年7月9日(土)開催の学校見学会について"
-  },
-  "sns_judgment_url": "https://twitter.com/55chju/status/1504646710328397825"
+  "schedule": [
+    {
+      "sport": "9月末~10月初",
+      "cultural_festival": "2022年10月23日（土）～11月7日（日）",
+      "school_briefing": "2022年7月9日(土)開催の学校見学会について"
+    },
+    {
+      "sport": "9月末~10月初",
+      "cultural_festival": "2022年10月23日（土）～11月7日（日）",
+      "school_briefing": "2022年7月9日(土)開催の学校見学会について"
+    },
+    {
+      "sport": "9月末~10月初",
+      "cultural_festival": "2022年10月23日（土）～11月7日（日）",
+      "school_briefing": "2022年7月9日(土)開催の学校見学会について"
+    }
+  ],
+  "sns_judgment_url": [
+    "1530054228655362048",
+    "1529996557289893888",
+    "1529998663036043264"
+  ]
 }
