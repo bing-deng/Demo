@@ -1,10 +1,14 @@
 {
   "name": "麻布中学校",
+  "en_name": "Azabu Junior High School",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Azabu_Junior_%26_Senior_High_School.jpg/540px-Azabu_Junior_%26_Senior_High_School.jpg",
   "found_date": "1985年",
   "post_code": "106-0046",
-  "officiall_url": "https://https://www.azabu-jh.ed.jp/",
+  "official_url": "https://https://www.azabu-jh.ed.jp/",
   "deviation_value": "68",
   "information": {
+    "entry_fee": "10000",
+    "year_fee": "9000",
     "gender_type": "男子校",
     "student_num": [
       300,
@@ -38,17 +42,20 @@
     {
       "year": "2022年",
       "rate": "3.1倍",
-      "volunteer_num": "943名"
+      "volunteer_num": "943名",
+      "qualified_num": "243名"
     },
     {
       "year": "2022年",
       "rate": "3.1倍",
-      "volunteer_num": "943名"
+      "volunteer_num": "943名",
+      "qualified_num": "243名"
     },
     {
       "year": "2022年",
       "rate": "3.1倍",
-      "volunteer_num": "943名"
+      "volunteer_num": "943名",
+      "qualified_num": "243名"
     }
   ],
   "sns": {
@@ -56,8 +63,8 @@
     "facebook_url": "https://www.facebook.com/azabu.jh.ed.jp/",
     "instagram_url": "https://www.instagram.com/explore/tags/%E9%BA%BB%E5%B8%83%E5%AD%A6%E5%9C%92/"
   },
-  "accesss": {
-    "adddress": "東京都港区元麻布2-3-29",
+  "access": {
+    "address": "東京都港区元麻布2-3-29",
     "subway": "・日比谷線「広尾駅」より徒歩10分\n\n・各線「麻布十番駅」より徒歩15分\n\n・各線「六本木駅」より徒歩15分\n\n・千代田線「乃木坂駅」より徒歩20分\n",
     "bus": "・ [橋86 目黒駅東口〜東京タワー・新橋駅]行バス乗車　「愛育病院前」下車 徒歩2分\n・ [黒77 目黒駅東口〜千駄ヶ谷駅 / 品97 新宿駅西口〜品川車庫]行バス乗車　「日赤医療センター下」下車 徒歩8分",
     "googleMap": "https://maps.google.co.jp/maps?&output=embed&q=loc:35.6545095, 139.7279987&z=17"
@@ -66,5 +73,6 @@
     "sport": "9月末~10月初",
     "cultural_festival": "2022年10月23日（土）～11月7日（日）",
     "school_briefing": "2022年7月9日(土)開催の学校見学会について"
-  }
+  },
+  "sns_judgment_url": "https://twitter.com/55chju/status/1504646710328397825"
 }
