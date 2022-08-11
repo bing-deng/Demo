@@ -1,0 +1,74 @@
+[{
+	"company_id": 88876,
+	"og_image_url": null,
+	"cover_image_url": null,
+	"logo_image_url": null,
+	"company_name_origin": "株式会社シーズメン",
+	"company_name": "株式会社シーズメン",
+	"description": null,
+	"supporter_flg": true,
+	"industry_kbn_name": "商業（卸売業、小売業）",
+	"address": "東京都中央区日本橋馬喰町1-5-4",
+	"address_2": "中庄ビル2階",
+	"phone": "03-5623-3781",
+	"president_name": "三河　宏彰",
+	"ipo_kbn_name": "JASDAQスタンダード",
+	"capital": "5000万円",
+	"foundation_date": {
+		"year": "1989",
+		"month": "03"
+	},
+	"url": "http://www.csmen.co.jp/ir/",
+	"twitter_screen_name": null,
+	"facebook_page_url": null,
+	"youtube_channel_url": null,
+	"follower_num": 2,
+	"updated_at": {
+		"origin": "2021-10-20 16:49:23",
+		"time_iso_8601": "2021-10-20T16:49:23+0900",
+		"unixtime": 1634716163
+	},
+	"released_year": [
+		2022,
+		2021
+	],
+	"is_press_kit_public": true
+}, {
+	"company_id": 88878,
+	"og_image_url": "https://prtimes.jp/data/corp/88878/ogp/d91f0c1cd364003e608fb2fb626bd8f9-cd5631a5c1bca103373d0ceb19994942.jpeg",
+	"cover_image_url": null,
+	"logo_image_url": {
+		"pc": "https://prtimes.jp/data/corp/88878/logo/pc-d91f0c1cd364003e608fb2fb626bd8f9-cd5631a5c1bca103373d0ceb19994942.jpeg",
+		"sp": "https://prtimes.jp/data/corp/88878/logo/sp-d91f0c1cd364003e608fb2fb626bd8f9-cd5631a5c1bca103373d0ceb19994942.jpeg"
+	},
+	"company_name_origin": "株式会社ダブルエム",
+	"company_name": "ダブルエム",
+	"description": null,
+	"supporter_flg": true,
+	"industry_kbn_name": "製造業",
+	"address": "東京都港区南青山2-2-15",
+	"address_2": "ウィン青山942",
+	"phone": "050-3612-7800",
+	"president_name": "千原真実",
+	"ipo_kbn_name": "未上場",
+	"capital": "900万円",
+	"foundation_date": {
+		"year": "2021",
+		"month": "01"
+	},
+	"url": "https://store.soopee.tokyo/",
+	"twitter_screen_name": null,
+	"facebook_page_url": null,
+	"youtube_channel_url": null,
+	"follower_num": 4,
+	"updated_at": {
+		"origin": "2022-07-19 23:09:58",
+		"time_iso_8601": "2022-07-19T23:09:58+0900",
+		"unixtime": 1658239798
+	},
+	"released_year": [
+		2022,
+		2021
+	],
+	"is_press_kit_public": true
+}]
