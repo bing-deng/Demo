@@ -1,0 +1,39 @@
+{
+    "company_id": 88875,
+    "og_image_url": "https://prtimes.jp/data/corp/88875/ogp/2b206d6d346b241b3e8f4ad2afb2c958-5d51a75f822452cd32ee17eb21e5b48a.png",
+    "cover_image_url": {
+        "pc": "https://prtimes.jp/data/corp/88875/cover/pc-cf808d6339d2b8356c03ad9f8ae6cc7c-597e690728885d4208dfbbad810bc81c.jpeg",
+        "sp": "https://prtimes.jp/data/corp/88875/cover/sp-cf808d6339d2b8356c03ad9f8ae6cc7c-597e690728885d4208dfbbad810bc81c.jpeg"
+    },
+    "logo_image_url": {
+        "pc": "https://prtimes.jp/data/corp/88875/logo/pc-2b206d6d346b241b3e8f4ad2afb2c958-5d51a75f822452cd32ee17eb21e5b48a.png",
+        "sp": "https://prtimes.jp/data/corp/88875/logo/sp-2b206d6d346b241b3e8f4ad2afb2c958-5d51a75f822452cd32ee17eb21e5b48a.png"
+    },
+    "company_name_origin": "大阪誠和食品株式会社",
+    "company_name": "大阪誠和食品株式会社",
+    "description": "立ち食いそば・うどん店の都そば（みやこそば）を展開する企業。近畿地方での出店では最大規模を誇り、特に京阪神の駅前や商店街等に出店している。",
+    "supporter_flg": true,
+    "industry_kbn_name": "飲食店・宿泊業",
+    "address": "大阪府大阪市北区芝田",
+    "address_2": "２丁目９−２０",
+    "phone": "06-6372-2061",
+    "president_name": "渡辺　勝仁",
+    "ipo_kbn_name": "未上場",
+    "capital": "2000万円",
+    "foundation_date": null,
+    "url": "https://unisonas.com/detail.php?pg=65776",
+    "twitter_screen_name": null,
+    "facebook_page_url": null,
+    "youtube_channel_url": null,
+    "follower_num": 1,
+    "updated_at": {
+        "origin": "2021-10-19 15:47:27",
+        "time_iso_8601": "2021-10-19T15:47:27+0900",
+        "unixtime": 1634626047
+    },
+    "released_year": [
+        2022,
+        2021
+    ],
+    "is_press_kit_public": true
+}
