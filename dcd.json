@@ -1,0 +1,2681 @@
+{
+    "prompts": "",
+    "status": 0,
+    "message": "success",
+    "data": {
+        "jia_su": [
+            {
+                "series_id": 145,
+                "series_name": "宝马3系",
+                "car_id": 36263,
+                "car_name": "2020款 325Li M运动曜夜套装",
+                "eval_id": 1082,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "采用弹射起步的方式进行百公里加速测试，起步瞬间，轮胎突破抓地极限，短暂打滑后车辆开始全力加速，加速成绩慢于奥迪A4L 40TFSI，但已经能够超越很多功率更高的对手，这一点非常难得，而如果电子稳定系统可以更有效的控制打滑，加速表现会更好。",
+                "data": "7.61s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eb90000bt6v99emf1ui5ci884jg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/a184a0056d9035d0c6b89d5353037758~tplv-resize:640:0.png?x-expires=1660804508&x-signature=XG0L4AKXLSv0vHRkMNEbuFiMx9Q%3D",
+                    "duration": 28.608,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800639104&video_id=%!s(*string=0xc000fe3c40)&cover_url=tos-cn-i-0000%2F65fe12335e3a4a72ab233dcc6212a3c3",
+                    "group_id": 6926483447242686983
+                }
+            },
+            {
+                "series_id": 212,
+                "series_name": "奔驰C级",
+                "car_id": 55286,
+                "car_name": "2022款 C 260 L 运动版",
+                "eval_id": 2449,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "新C级依然采用了1.5T发动机+48V电机的轻混动力系统，但电机升级为ISG，现在对车辆的驱动作用更加明显；经测试，百公里加速平均时间为7.94秒，该成绩已经和使用低功率2.0T的对手没有明显差距，而在1.5T车型阵营中更是可以排在前列；在电机的助力下，新车相比老款可以更快地完成起步，而且优势可一直持续到中后段。",
+                "data": "7.94s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c4qc0e3c77u99gqulieg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/2c6c7906ed434a868b50a034bf420857~tplv-resize:640:0.png?x-expires=1660804508&x-signature=93tiDhHLrohZI2gNIx4%2FVwJu0Fs%3D",
+                    "duration": 66.688,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799132288&video_id=%!s(*string=0xc00679e3d0)&cover_url=tos-cn-i-0000%2F803e628abdcb4b9dbbbfe3a2c9568e27",
+                    "group_id": 7004431584283804168
+                }
+            },
+            {
+                "series_id": 289,
+                "series_name": "雅阁",
+                "car_id": 56597,
+                "car_name": "2022款 锐·混动 2.0L 幻夜·锐智版",
+                "eval_id": 2615,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "中期改款的雅阁混动版在动力方面与之前并无差异，发动机最大功率146马力，最大扭矩175牛·米，电机最大功率184马力，最大扭矩315牛·米；在加速初段，得益于电机瞬间的扭矩输出，初段加速很迅猛，不过到了中后段加速，动力感受变得一般；经多次测试，该车百公里加速平均用时7.92秒，其中最短用时7.84秒，加速性能良好。",
+                "data": "7.92s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c60g2bbc77u97qf69qm0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/4556973c4b8047ffdcb9dbad8d6e6317~tplv-resize:640:0.png?x-expires=1660804508&x-signature=p0rSCTAkjLGVCeFRdygr%2BRjt3gM%3D",
+                    "duration": 65.835,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799126576&video_id=%!s(*string=0xc00ac9b460)&cover_url=tos-cn-i-0000%2F89793c5c28694427814adc249b3fb387",
+                    "group_id": 7025899226010075655
+                }
+            },
+            {
+                "series_id": 4865,
+                "series_name": "宋PLUS DM-i",
+                "car_id": 50997,
+                "car_name": "2021款 DM-i 110KM 两驱旗舰 PLUS",
+                "eval_id": 2090,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "8.73秒的破百能力在当今自主SUV中算是合格水平，而且得益于以电为主的驱动特性，宋PLUS DM-i加速初段有着相当不错的轻快感，日常代步也很惬意。",
+                "data": "8.73s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c829uarc77u5krie4egg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/d79222bc9317a3675b825b62f3f774a5~tplv-resize:640:0.png?x-expires=1660804508&x-signature=FmoB54d7IYafSpSquwguJ4zzHM8%3D",
+                    "duration": 79.595,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824858925824&video_id=%!s(*string=0xc008d71260)&cover_url=tos-cn-p-0030%2Fbd1fbc057aaafce3669539641793011d",
+                    "group_id": 7062945326172439054
+                }
+            },
+            {
+                "series_id": 96,
+                "series_name": "奥迪A4L",
+                "car_id": 43998,
+                "car_name": "2020款 45 TFSI quattro 臻选动感型",
+                "eval_id": 1230,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "45 TFSI车型使用的2.0T发动机最大功率为252马力，配合传动高效的7速双离合变速箱，最终跑出了5.79秒的百公里加速最好成绩，比官方的6.6秒破百成绩还要快出不少；起步瞬间，在quattro四驱的帮助下，轮胎未出现打滑，动力全部用于驱动车辆，没有一丝浪费，到了中后段推背感依然强烈；最终成绩在同级别已经算得上相当快了，值得获得优秀评价。",
+                "data": "5.79s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301e890000bt8bk6gat6454ir7a480",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/a4b554f8146c4164c70fd623040f3228~tplv-resize:640:0.png?x-expires=1660804508&x-signature=xCvrJzlVwxfro786rCH9wxQJx4g%3D",
+                    "duration": 21.525,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799468752&video_id=%!s(*string=0xc00f024060)&cover_url=tos-cn-i-0000%2Fda7a7785903b49728940e3e8b51e2d5c",
+                    "group_id": 6926487772987441677
+                }
+            },
+            {
+                "series_id": 535,
+                "series_name": "凯美瑞",
+                "car_id": 51686,
+                "car_name": "2021款 双擎 2.5HGVP 领先版",
+                "eval_id": 2103,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "2.5L发动机在加入电机辅助后依然没有让凯美瑞获得太出彩的加速成绩，经多次测试，百公里加速平均时间为8.64秒，该成绩在同级中排在中下水平，整体评价一般；起步瞬间，纵向加速度接近0.5g，很快便下滑到0.4g以下，到了中后段2.5L发动机和电机很难再提供持续的推背感。",
+                "data": "8.64s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c2sh0m3jb56mntf1neog",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/7bfc893c1efa3daecf968933e60ea8a5~tplv-resize:640:0.png?x-expires=1660804508&x-signature=5TQAbbjmm9zGMBLH%2B9FqntlUaTc%3D",
+                    "duration": 41.493,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799949952&video_id=%!s(*string=0xc00f025200)&cover_url=tos-cn-p-0030%2F9890dd99036b97024b0397bd11c582ea",
+                    "group_id": 6970018444297142798
+                }
+            },
+            {
+                "series_id": 4300,
+                "series_name": "汉EV",
+                "car_id": 45670,
+                "car_name": "2020款 超长续航版尊贵型",
+                "eval_id": 2140,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "汉EV超长续航版并不主打性能，8.1秒的破百时间算是中规中矩，但满足日常使用已经没有问题。牺牲部分性能，换来更长的续航才是重点。",
+                "data": "8.10s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c399q0a5p1aqbh6jd95g",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/93f083dcd206b5b49f7e9c3778327c3c~tplv-resize:640:0.png?x-expires=1660804508&x-signature=dfuFpYHKSNuVXJZ%2FVf4nZqT4ODo%3D",
+                    "duration": 43.52,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800416688&video_id=%!s(*string=0xc000fe2280)&cover_url=tos-cn-i-0000c0030%2Fae2fd93b5afd41348962f20dc060a3a0",
+                    "group_id": 6977068782074233375
+                }
+            },
+            {
+                "series_id": 99,
+                "series_name": "奥迪A6L",
+                "car_id": 49138,
+                "car_name": "2021款 40 TFSI 豪华致雅型",
+                "eval_id": 2324,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "A6L 40 TFSI车型搭载的2.0T发动机有190马力的最大功率和320牛·米的最大扭矩，匹配7速双离合变速箱，经多次测试，该车百公里加速平均用时8.01秒，其中最短用时7.85秒，该成绩可在同级中排在中游，整体评价良好。",
+                "data": "8.01s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5tls2jc77u84ubk8uag",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/d1c761332e234bf7a9a9cd9838289bc0~tplv-resize:640:0.png?x-expires=1660804508&x-signature=HgrTpN%2FA4FcS3ZSweJISrpIKNJg%3D",
+                    "duration": 67.371,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824798257808&video_id=%!s(*string=0xc008d71a00)&cover_url=tos-cn-p-0030%2Fea8962905fa5ea9c62f59411414567a9",
+                    "group_id": 7024312013505495589
+                }
+            },
+            {
+                "series_id": 4857,
+                "series_name": "星越L",
+                "car_id": 57062,
+                "car_name": "2022款 1.5T 雷神Hi·F油电混动版 Super迅",
+                "eval_id": 2943,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "实测百公里加速双向最佳平均用时8.32s，多次测试中，最快的一次是7.83s，和官方7.9s的破百成绩差异不大，这个加速能力和本次对比的几台车相当，而和燃油版相比，虽然发动机排量变小了，但动力没有明显缩水，不过多次测试我们发现，星越L雷神版的加速成绩并不稳定，最差一次竟跑出了10s多。",
+                "data": "8.32s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000cbpiohrc77u057g9qq5g",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/fa244cc97d8297a29422ae29120e355f~tplv-resize:640:0.png?x-expires=1660804508&x-signature=s%2Bn%2Bf6GJaq3LucBPr0vBX0lDySU%3D",
+                    "duration": 63.04,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824798261952&video_id=%!s(*string=0xc00ac9a7a0)&cover_url=tos-cn-i-0000c0030%2Ff347bb8281364910a2c14597cbd7af12",
+                    "group_id": 7130091792086827551
+                }
+            },
+            {
+                "series_id": 146,
+                "series_name": "宝马5系",
+                "car_id": 54057,
+                "car_name": "2021款 改款 525Li M运动套装",
+                "eval_id": 2810,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "宝马525Li使用的发动机拥有184马力的最大功率，和290牛·米的最大扭矩。经测试，这台车的零百加速平均成绩为8.08秒，属于同级中等水平，整体评价一般。但比同样定位的奥迪A6L快0.82秒。",
+                "data": "8.08s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c7mqj03c77uacm3qdsag",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/ab7811d28b27798a1a018e80b5abd5bb~tplv-resize:640:0.png?x-expires=1660804508&x-signature=N7%2FoNCrn5J8sx6GHq297SyT3ylE%3D",
+                    "duration": 62.955,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800633904&video_id=%!s(*string=0xc000fe2d70)&cover_url=tos-cn-i-0000c0030%2Fa07c98e4f28b44be8fb41edf685dcc92",
+                    "group_id": 7056482688332513828
+                }
+            },
+            {
+                "series_id": 393,
+                "series_name": "朗逸",
+                "car_id": 48251,
+                "car_name": "2021款 280TSI DSG豪华版",
+                "eval_id": 2813,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "大众朗逸2021款 280TSI DSG 豪华版车型驱动形式为前置前驱，发动机最大功率150马力，朗逸百公里加速最短用时8.71s，多次测试数据变化不大，朗逸初段加速爆发感不错，但后段动力感受一般。",
+                "data": "8.84s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c7mr443c77uate4v9osg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/ab824216e643d919aa0195baba7a6ba7~tplv-resize:640:0.png?x-expires=1660804508&x-signature=VDBF8fFL9OZeBnHWi7bdpjMg4jg%3D",
+                    "duration": 59.2,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802475792&video_id=%!s(*string=0xc00e6f0f90)&cover_url=tos-cn-i-0000c0030%2Fb54cdadfcb134dbb830434d8b5230f05",
+                    "group_id": 7056492097246872077
+                }
+            },
+            {
+                "series_id": 398,
+                "series_name": "帕萨特",
+                "car_id": 55691,
+                "car_name": "2022款 330TSI 星空尊贵版",
+                "eval_id": 2454,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "新帕萨特330TSI车型使用了低功率2.0T发动机，最大功率186马力，最大扭矩320牛·米，相比380TSI使用的高功率2.0T发动机，该机型更强调燃油经济性；在百公里加速测试中用S挡和M挡分别做了尝试，最后在使用M挡的情况下，获得了最佳成绩，多次测试后平均成绩为8.23秒，表现符合预期；起步瞬间可感受到发动机有一定爆发力，加速过程中7速双离合变速箱换挡迅速，运动性能出众。",
+                "data": "8.23s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c4qs1f3c77u1ba94ppn0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/78ffa015475f48af99f333b1002d8b62~tplv-resize:640:0.png?x-expires=1660804508&x-signature=mUBiDT%2F5kAfmdP%2FLDjLm9I%2B7Amc%3D",
+                    "duration": 70.763,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804276864&video_id=%!s(*string=0xc00b4ba250)&cover_url=tos-cn-i-0000%2Fc761717ae56e47d79e1f65ac00143d40",
+                    "group_id": 7004715906895118879
+                }
+            },
+            {
+                "series_id": 3736,
+                "series_name": "凯迪拉克CT5",
+                "car_id": 53799,
+                "car_name": "2021款 28T 尊贵型",
+                "eval_id": 2511,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "CT5所使用的2.0T发动机拥有237马力的最大功率和350牛·米的最大扭矩，变速箱为10AT，经测试，该车百公里加速平均用时为7.82秒，在同级中该成绩中规中矩；关闭电子稳定系统，采用弹射的起步方式，起步瞬间轮胎会短暂打滑，加速g值突破0.75，推背感强烈，但转速达到5000rpm变速箱就会升至2挡，感觉因为变速箱发动机动力没有得到充分发挥。",
+                "data": "7.82s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5849p3c77udd93vk2k0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/b6a4b48d0e144ea9971fc8c349dfcab8~tplv-resize:640:0.png?x-expires=1660804508&x-signature=nNoq6YQPVuFn5O80GWDdpEjx0rc%3D",
+                    "duration": 66.24,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804370784&video_id=%!s(*string=0xc00b4bac90)&cover_url=tos-cn-i-0000%2F5ae855bdcc0d42588d3be717a6c7e970",
+                    "group_id": 7012180472503501348
+                }
+            },
+            {
+                "series_id": 3476,
+                "series_name": "星瑞",
+                "car_id": 49678,
+                "car_name": "2020款 2.0T 尊贵型",
+                "eval_id": 2522,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "吉利星瑞搭载了2.0T四缸发动机，0-100km/h的加速时间为8.18秒，日常代步的速度区间里这台发动机还是称职的，与变速箱匹配出色，平顺高效；中后段加速乏力是明显的动力短板。",
+                "data": "8.18s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c59dcarc77uca1isoo70",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/3f277478e69f28083deee3041bf5be08~tplv-resize:640:0.png?x-expires=1660804508&x-signature=7eKHEJgxVtwqPOUndSb5s%2F0dRfw%3D",
+                    "duration": 36.931,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804374512&video_id=%!s(*string=<nil>)&cover_url=",
+                    "group_id": 7012903158540354061
+                }
+            },
+            {
+                "series_id": 214,
+                "series_name": "奔驰E级",
+                "car_id": 52115,
+                "car_name": "2021款 改款 E 260 L 轿车",
+                "eval_id": 2533,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "在发动机最大功率只有197马力的情况下，一台中大型车百公里加速还能跑出7.69秒的平均用时，实属难得，可见奔驰对动力总成的调校足够到位；开启运动增强模式，憋住油门，起步瞬间车轮会打滑，有一定推背感，随后的加速过程持续有力，最后0-400米加速尾速为141.91公里/小时，说明动力储备良好。",
+                "data": "7.69s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5aptvrc77u8u46ei060",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/950519a3940c43109bf028d3cc09d7d3~tplv-resize:640:0.png?x-expires=1660804508&x-signature=RpsV7xldCJihucV6hwqzsoOZp3g%3D",
+                    "duration": 72.853,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824774564152&video_id=%!s(*string=0xc00e68cb30)&cover_url=tos-cn-i-0000%2Fb7e18a65964d4e5d995144a668dbf532",
+                    "group_id": 7013686772517356040
+                }
+            },
+            {
+                "series_id": 415,
+                "series_name": "迈腾",
+                "car_id": 42214,
+                "car_name": "2020款 380TSI DSG 旗舰型",
+                "eval_id": 1274,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "380TSI车型搭载的是第三代EA888高功率2.0T发动机，这是大众的看家机型，动力数据并不十分出色，最大功率220马力，最大扭矩350牛·米，但得益于7速双离合变速箱换挡速度很快，这台家用车跑出了不俗的加速成绩；经多次测试，百公里加速最佳成绩为7.3秒，该成绩可在同级车中排在前列。",
+                "data": "7.30s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301ef60000bt90g820kjs9n53mh40g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/7588a70cb41d1df0efdf01809d119d1d~tplv-resize:640:0.png?x-expires=1660804508&x-signature=nWZqZ0tDFZRvd7omcLWlR%2BK1whQ%3D",
+                    "duration": 15.765,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802104624&video_id=%!s(*string=0xc00e68dd80)&cover_url=tos-cn-i-0000%2Fbe33b61da33d48a0aa8e4cd586da97de",
+                    "group_id": 6926488368381444616
+                }
+            },
+            {
+                "series_id": 276,
+                "series_name": "思域",
+                "car_id": 56409,
+                "car_name": "2022款 240TURBO CVT劲动版",
+                "eval_id": 2493,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "新思域换用了新款1.5T发动机，最大马力相比老款发动机略有提升，这在起步瞬间有所体现，新思域比老款起步更快；不过新车的CVT变速箱调校有所调整，模拟换挡导致第一次换挡后加速g值下跌明显，动力优势被老款追平，而略微落后于老款的状态一直保持到了破百完成；虽模拟了换挡，但体感上不会察觉有换挡动作，加速过程依然非常平顺。",
+                "data": "8.10s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c559h4bc77u9cj8898ug",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/5e5798bc82de4cbc922bf4b65207a3fb~tplv-resize:640:0.png?x-expires=1660804508&x-signature=uwc94Gb5TBNCqyD6BTtzpznUN%2Bs%3D",
+                    "duration": 66.197,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802105632&video_id=%!s(*string=0xc00e68df20)&cover_url=tos-cn-i-0000%2F17aa5395a3594f84aff16c4d0db4e08d",
+                    "group_id": 7010583493323604517
+                }
+            },
+            {
+                "series_id": 4363,
+                "series_name": "Model Y",
+                "car_id": 54996,
+                "car_name": "2021款 标准续航后轮驱动版",
+                "eval_id": 2791,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "Model Y后驱标准续航版的车型后电机的最大功率299马力,最大扭矩440牛·米。别看比起全驱版少了前电机，但凭借着较轻的车重，它依然以5.88秒的百公里加速成绩进入了5秒俱乐部，加速表现仅比全驱版慢0.78秒，足够满足日常使用。从加速曲线可以看出，在时速80公里之前，加速g值始终稳定在0.5g，推背感十足，这种感觉十分上头。",
+                "data": "5.88s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c7d4t2jc77u3aee3blv0",
+                    "cover": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/b9eb9d6d7daa4be2b0451633331f282e~tplv-resize:640:0.png",
+                    "duration": 65.365,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802471360&video_id=%!s(*string=0xc00e6f0360)&cover_url=tos-cn-i-0000c0030%2F53b36d9d66a446e8ba2b226ddcaf1110",
+                    "group_id": 7051041321657565733
+                }
+            },
+            {
+                "series_id": 5288,
+                "series_name": "长安UNI-V",
+                "car_id": 71919,
+                "car_name": "2022款 1.5T 尊贵型",
+                "eval_id": 2859,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "UNI-V的加速成绩亮眼，但变速箱性能发挥不够稳定。在16度的气候条件下，本次实测的量产车，百公里加速平均用时7.29s，和之前测试的试装车差异不大，其他同样使用1.5T的对手，加速普遍超过8s，UNI-V的性能优势明显。不足是，UNI-V不能像思域一样进行连续多次弹射，经过几次弹射起步后，加速中动力出现了短暂中断，跑出的时间比最佳成绩要差得多。",
+                "data": "7.29s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c9lluirc77udd31oojp0",
+                    "cover": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/e8ab47ba0b02417ba5a2a3a84dfa811e~tplv-resize:640:0.png",
+                    "duration": 67.115,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816073144&video_id=%!s(*string=0xc00b840fe0)&cover_url=tos-cn-i-0000c0030%2F093e924cc275402cba83bfce48ae8ba3",
+                    "group_id": 7091867175002112548
+                }
+            },
+            {
+                "series_id": 280,
+                "series_name": "本田CR-V",
+                "car_id": 46623,
+                "car_name": "2021款 锐·混动 2.0L 四驱净享版",
+                "eval_id": 2135,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "CR-V锐·混动版本的百公里加速平均时间为9.58秒，该成绩在同级中并不突出。日常驾驶中，CR-V锐·混动的动力属于够用水平，满足不了太高期待，但得益于电机的输出特性，中低速下动力响应性可以给到良好评价。",
+                "data": "9.58s",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c321giebjr1klcni0c60",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/7d51d2597b679a0dca408e00f66f86cd~tplv-resize:640:0.png?x-expires=1660804508&x-signature=A8yVUv4O3qO%2FMSA8S6iscqLzLBo%3D",
+                    "duration": 41.835,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816387040&video_id=%!s(*string=0xc00b8417c0)&cover_url=tos-cn-i-0000%2F07d8926e6346474aa65448b4d43657ed",
+                    "group_id": 6972986892425888264
+                }
+            }
+        ],
+        "zhi_dong": [
+            {
+                "series_id": 145,
+                "series_name": "宝马3系",
+                "car_id": 36263,
+                "car_name": "2020款 325Li M运动曜夜套装",
+                "eval_id": 1082,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "作为备受关注的热门运动家轿，这台325Li并没能交出太出色的制动答卷，多次测试后，最佳制动距离为38.73米，这仅是及格水平，而我们对它的期待显然要比这个数字低；虽然后轮胎宽为255毫米，但前轮胎宽仅为225毫米，在全力制动时，表现有些吃力。",
+                "data": "38.73m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301e690000bt6vaqia6r2ql9a963kg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/aed5c018ed9f18b1821d38793b8aa680~tplv-resize:640:0.png?x-expires=1660804508&x-signature=489tMRV5dMOV5ACBZ7SiDTxlOD4%3D",
+                    "duration": 13.525,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800639104&video_id=%!s(*string=0xc000fe3c40)&cover_url=tos-cn-i-0000%2F65fe12335e3a4a72ab233dcc6212a3c3",
+                    "group_id": 6926484852833255944
+                }
+            },
+            {
+                "series_id": 212,
+                "series_name": "奔驰C级",
+                "car_id": 55286,
+                "car_name": "2022款 C 260 L 运动版",
+                "eval_id": 2449,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "经多次测试，奔驰新C级的最佳制动距离为36.26米，但测试发现，该车制动表现并不稳定，最佳成绩在第一次测试时获得，后面成绩多在40米左右；新车前轮胎宽度为225毫米，不算突出，这多少影响了制动成绩，但测试中车辆未出现跑偏，双闪也可以自动点亮。",
+                "data": "36.26m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c4qcaabc77u4qtn2fcog",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/e815a267ed0c4194aad1a6b5a51b823f~tplv-resize:640:0.png?x-expires=1660804508&x-signature=IIPU13b2xanAArGChVUTlBqTK08%3D",
+                    "duration": 36.693,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799132288&video_id=%!s(*string=0xc00679e3d0)&cover_url=tos-cn-i-0000%2F803e628abdcb4b9dbbbfe3a2c9568e27",
+                    "group_id": 7004436703989531143
+                }
+            },
+            {
+                "series_id": 289,
+                "series_name": "雅阁",
+                "car_id": 56597,
+                "car_name": "2022款 锐·混动 2.0L 幻夜·锐智版",
+                "eval_id": 2615,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "本次测试车辆使用的轮胎为优科豪马ADVAN DB DECIBEL，规格为235/45 R18；测试中，ABS作用良好，制动姿态也十分稳健，最终该车取得38.28米的最佳制动距离，成绩不算很出色，但经过多次测试后未出现明显的制动热衰退，基于以上结果，该车制动表现可以获得良好评价。",
+                "data": "38.28m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c60g6pbc77u3v4ovkn3g",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/67c4a167fc56d7a42b2a998fd69f19c1~tplv-resize:640:0.png?x-expires=1660804508&x-signature=izsFy0zSOidAJ4dS%2BZz7l816Qag%3D",
+                    "duration": 32.917,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799126576&video_id=%!s(*string=0xc00ac9b460)&cover_url=tos-cn-i-0000%2F89793c5c28694427814adc249b3fb387",
+                    "group_id": 7025900811855249934
+                }
+            },
+            {
+                "series_id": 4865,
+                "series_name": "宋PLUS DM-i",
+                "car_id": 50997,
+                "car_name": "2021款 DM-i 110KM 两驱旗舰 PLUS",
+                "eval_id": 2090,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "即便是宋PLUS DM-i也无法打破比亚迪车型普遍制动距离40米以上的规律，表现十分不理想",
+                "data": "41.75m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c2obprpd9if6169odrvg",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/75744338ee846a9a7c957bd003f8d0bc~tplv-resize:640:0.png?x-expires=1660804508&x-signature=GFSAQwwhuPLu2YWhH5%2BOw3n53x8%3D",
+                    "duration": 39.488,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824858925824&video_id=%!s(*string=0xc008d71260)&cover_url=tos-cn-p-0030%2Fbd1fbc057aaafce3669539641793011d",
+                    "group_id": 6968162915849339429
+                }
+            },
+            {
+                "series_id": 96,
+                "series_name": "奥迪A4L",
+                "car_id": 43998,
+                "car_name": "2020款 45 TFSI quattro 臻选动感型",
+                "eval_id": 1230,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "奥迪A4L作为国产奥迪的中级家用轿车，其35.08米的刹车成绩属于非常优秀的表现，在同级中处于中上水平，所以总体评价优秀。",
+                "data": "35.08m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201e6b0000bt8bkfg3hufrjct5s71g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/b476417d2775a32dc6d0471038b89efd~tplv-resize:640:0.png?x-expires=1660804508&x-signature=IYlkdrceQrlSwkfc5Ixl7zXa%2BOY%3D",
+                    "duration": 12.693,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799468752&video_id=%!s(*string=0xc00f024060)&cover_url=tos-cn-i-0000%2Fda7a7785903b49728940e3e8b51e2d5c",
+                    "group_id": 6926487493193826830
+                }
+            },
+            {
+                "series_id": 535,
+                "series_name": "凯美瑞",
+                "car_id": 51686,
+                "car_name": "2021款 双擎 2.5HGVP 领先版",
+                "eval_id": 2103,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "38.1米的最佳制动距离只能算勉强及格水平，迈腾、雅阁等对手的表现要比凯美瑞出色很多；测试车辆搭载的轮胎宽度仅为215毫米，对于中型车来说显然不太够用，而且随着测试次数增多，刹车系统的热衰减越来越明显。",
+                "data": "38.10m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c2sh6rfn5kb8p5bbu0vg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/0d2468c472ea63866c986ab6e935aa31~tplv-resize:640:0.png?x-expires=1660804508&x-signature=zG1vFkgGaiwbIHlAWxpaE9eIUv8%3D",
+                    "duration": 35.051,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799949952&video_id=%!s(*string=0xc00f025200)&cover_url=tos-cn-p-0030%2F9890dd99036b97024b0397bd11c582ea",
+                    "group_id": 6970018809604227621
+                }
+            },
+            {
+                "series_id": 4300,
+                "series_name": "汉EV",
+                "car_id": 45670,
+                "car_name": "2020款 超长续航版尊贵型",
+                "eval_id": 2140,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "考虑到较大的整备质量，38.87米的制动成绩已经实属不错，但和小鹏P7相比还是有明显差距。此外，连续测试后刹车有些热衰减，稳定性有待提升。",
+                "data": "38.87m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c399qnbch8suq30deob0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/d3ff32a5a2b3406298bd5634121e040a~tplv-resize:640:0.png?x-expires=1660804508&x-signature=HJqoDzU3QFu9pJyfx3846aqtJWY%3D",
+                    "duration": 35.605,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800416688&video_id=%!s(*string=0xc000fe2280)&cover_url=tos-cn-i-0000c0030%2Fae2fd93b5afd41348962f20dc060a3a0",
+                    "group_id": 6977068770627977742
+                }
+            },
+            {
+                "series_id": 99,
+                "series_name": "奥迪A6L",
+                "car_id": 49138,
+                "car_name": "2021款 40 TFSI 豪华致雅型",
+                "eval_id": 2324,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "40 TFSI车型的最佳制动距离为38.86米，属于中规中矩的水平。多次测试后，成绩波动不大，没有出现明显热衰。",
+                "data": "38.86m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c3siltrc77u77oog1f40",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/eac863911b11bda5253e541fecb953f7~tplv-resize:640:0.png?x-expires=1660804508&x-signature=028Hc6Lo21XOvKKlgIUtsXjS8Nc%3D",
+                    "duration": 36.053,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824798257808&video_id=%!s(*string=0xc008d71a00)&cover_url=tos-cn-p-0030%2Fea8962905fa5ea9c62f59411414567a9",
+                    "group_id": 6987830753656586760
+                }
+            },
+            {
+                "series_id": 4857,
+                "series_name": "星越L",
+                "car_id": 57062,
+                "car_name": "2022款 1.5T 雷神Hi·F油电混动版 Super迅",
+                "eval_id": 2943,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "实测百公里刹停最短距离为39.78m，接近40m的制动距离，只能排在本次对比车型靠后的位置，当然，不排除是轮胎的原因，本次测试车使用了固特异品牌的原厂轮胎，连续多次测试后，成绩都是40m左右，没有明显的制动热衰退，这一点值得肯定。",
+                "data": "39.78m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000cbpiqh3c77u6jjg7o7gg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/6a354fc84fab70f0955e719d9cdaeca3~tplv-resize:640:0.png?x-expires=1660804508&x-signature=Vs1Utg5mMFLIT%2F0cn0bZoLj1s0Y%3D",
+                    "duration": 29.355,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824798261952&video_id=%!s(*string=0xc00ac9a7a0)&cover_url=tos-cn-i-0000c0030%2Ff347bb8281364910a2c14597cbd7af12",
+                    "group_id": 7130092548248322597
+                }
+            },
+            {
+                "series_id": 146,
+                "series_name": "宝马5系",
+                "car_id": 54057,
+                "car_name": "2021款 改款 525Li M运动套装",
+                "eval_id": 2810,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "本次测试车辆使用的是米其林的PRIMACY 3ST 轮胎，规格为 245/45 R18，经过多次测试，该车取得了36.43米的最佳制动距离，成绩良好，测试期间ABS作用良好，成绩稳定，多次大力制动下也未出现明显的制动热衰退。",
+                "data": "36.43m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c7mqk8jc77u4ul1nv0f0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/a35128337a86c7035ef08f6be0a503f0~tplv-resize:640:0.png?x-expires=1660804508&x-signature=a%2FTnRMoBX%2FA%2F7UsYGCqLFCi4uHY%3D",
+                    "duration": 41.877,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800633904&video_id=%!s(*string=0xc000fe2d70)&cover_url=tos-cn-i-0000c0030%2Fa07c98e4f28b44be8fb41edf685dcc92",
+                    "group_id": 7056483307042685470
+                }
+            },
+            {
+                "series_id": 393,
+                "series_name": "朗逸",
+                "car_id": 48251,
+                "car_name": "2021款 280TSI DSG豪华版",
+                "eval_id": 2813,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "本次测试车辆使用的是邓禄普SP SPORT MAXX 050+轮胎，规格为 225/45 R17，经过多次测试，该车取得了38.49米的最佳制动距离，成绩良好，测试期间ABS作用良好，成绩稳定，多次大力制动下也未出现明显的制动热衰退。",
+                "data": "38.49m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c7mr5ajc77uas0bjkdrg",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/114270bae0355853c76990b9f4fd7e0e~tplv-resize:640:0.png?x-expires=1660804508&x-signature=7mXFutUoIF%2BwaGcvZuvwmmgxHPI%3D",
+                    "duration": 33.963,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802475792&video_id=%!s(*string=0xc00e6f0f90)&cover_url=tos-cn-i-0000c0030%2Fb54cdadfcb134dbb830434d8b5230f05",
+                    "group_id": 7056492972493308452
+                }
+            },
+            {
+                "series_id": 398,
+                "series_name": "帕萨特",
+                "car_id": 55691,
+                "car_name": "2022款 330TSI 星空尊贵版",
+                "eval_id": 2454,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "新帕萨特的制动表现在可接受范围内，多次测试后，最佳制动成绩为37.43米，可排在同级中游水平；而且制动成绩比较稳定，未出现明显的制动热衰退。",
+                "data": "37.43m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c4qs373c77u9m5bp6m3g",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-i-0000/05311e6c0be5468097e8c74a6b6e316e~tplv-resize:640:0.png?x-expires=1660804508&x-signature=aAN26uQxj90OU%2FllZz6M7WYsvA0%3D",
+                    "duration": 35.371,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804276864&video_id=%!s(*string=0xc00b4ba250)&cover_url=tos-cn-i-0000%2Fc761717ae56e47d79e1f65ac00143d40",
+                    "group_id": 7004716792861999646
+                }
+            },
+            {
+                "series_id": 3736,
+                "series_name": "凯迪拉克CT5",
+                "car_id": 53799,
+                "car_name": "2021款 28T 尊贵型",
+                "eval_id": 2511,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "本次测试车辆搭载了米其林PILOT SPORT 4S轮胎，轮胎具有出色的抓地表现，加上制动卡钳规格也很高，两方面共同作用下，测试车辆取得了33.8米的优异制动距离，该成绩远超同级车；此外得益于电磁悬架的良好支撑性，车辆制动前倾也不明显，姿态很好。",
+                "data": "33.80m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c584bfbc77u5d7g5n0eg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/17e247940dc2470a950b3762d9e7b104~tplv-resize:640:0.png?x-expires=1660804508&x-signature=zX%2B%2BdOe7MfVOCF%2Bt6K7a0urK6rg%3D",
+                    "duration": 33.963,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804370784&video_id=%!s(*string=0xc00b4bac90)&cover_url=tos-cn-i-0000%2F5ae855bdcc0d42588d3be717a6c7e970",
+                    "group_id": 7012181537856717343
+                }
+            },
+            {
+                "series_id": 3476,
+                "series_name": "星瑞",
+                "car_id": 49678,
+                "car_name": "2020款 2.0T 尊贵型",
+                "eval_id": 2522,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "吉利星瑞的制动成绩并不令人满意，最佳制动距离未能进40米作为一款紧凑级轿车属实低于预期。",
+                "data": "40.70m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c59dd83c77u9n88o9bk0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/dc296a3fbae8ee506559dbe4b9a1dee4~tplv-resize:640:0.png?x-expires=1660804508&x-signature=fh8GAPGBoR8cc6wwfWWEAMkifnA%3D",
+                    "duration": 22.062,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804374512&video_id=%!s(*string=<nil>)&cover_url=",
+                    "group_id": 7012903603413565989
+                }
+            },
+            {
+                "series_id": 214,
+                "series_name": "奔驰E级",
+                "car_id": 52115,
+                "car_name": "2021款 改款 E 260 L 轿车",
+                "eval_id": 2533,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "E 260 L的制动表现良好，多次测试后最佳制动距离为37.48米，该成绩不是同级最好，算是主流水平；另外，该车未出现严重的制动热衰退，刹车系统稳定性不错。",
+                "data": "37.48m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c5apv3bc77u57uc61rq0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/5aae726cace34e7ba8d184712773e307~tplv-resize:640:0.png?x-expires=1660804508&x-signature=5woEJBZx9jzELPC%2F5WLrZfRWUXc%3D",
+                    "duration": 36.288,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824774564152&video_id=%!s(*string=0xc00e68cb30)&cover_url=tos-cn-i-0000%2Fb7e18a65964d4e5d995144a668dbf532",
+                    "group_id": 7013687268854514190
+                }
+            },
+            {
+                "series_id": 415,
+                "series_name": "迈腾",
+                "car_id": 42214,
+                "car_name": "2020款 380TSI DSG 旗舰型",
+                "eval_id": 1274,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "迈腾的制动成绩令人满意，多次测试后，最佳制动成绩为35.96米，这样的成绩已经超过同级别平均水平，完全可以给优秀评价；测试中，轮胎抓地表现出色，刹车系统可提供充沛制动力，而且制动热衰减不明显。",
+                "data": "35.96m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201ec60000bt90gi1t4rmq02hs12g0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/c6bfe48183874a468bad645be68a7c9c~tplv-resize:640:0.png?x-expires=1660804508&x-signature=T3wjd%2B0sDRP1DLCc0gCCGT8uzA8%3D",
+                    "duration": 5.568,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802104624&video_id=%!s(*string=0xc00e68dd80)&cover_url=tos-cn-i-0000%2Fbe33b61da33d48a0aa8e4cd586da97de",
+                    "group_id": 6926487697112465927
+                }
+            },
+            {
+                "series_id": 276,
+                "series_name": "思域",
+                "car_id": 56409,
+                "car_name": "2022款 240TURBO CVT劲动版",
+                "eval_id": 2493,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "新思域的制动表现良好，多次测试后，取得了38.2米的最佳制动成绩，而且未出现严重的制动热衰退；本次参与测试车辆使用了MAXXIS VICTRA 510轮胎，规格为215/55 R16，轮胎宽度并没有优势，如果换用更宽的轮胎或性能更好的胎款，制动成绩或许会有提升。",
+                "data": "38.20m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c559htjc77u2081slrq0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/9306285775a446d18a0986d6ed37c93c~tplv-resize:640:0.png?x-expires=1660804508&x-signature=AAkhHAAX6JZT3MFe%2F1dl7b4yQOw%3D",
+                    "duration": 33.963,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802105632&video_id=%!s(*string=0xc00e68df20)&cover_url=tos-cn-i-0000%2F17aa5395a3594f84aff16c4d0db4e08d",
+                    "group_id": 7010583942223200776
+                }
+            },
+            {
+                "series_id": 4363,
+                "series_name": "Model Y",
+                "car_id": 54996,
+                "car_name": "2021款 标准续航后轮驱动版",
+                "eval_id": 2791,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "Model Y的原厂轮胎规格为255/40 R20，品牌为米其林的PILOT SPORT EV；经过多次测试，百公里刹停最短距离为35.53米，该成绩在同级中处于前列，制动表现优秀，此外制动热衰退控制出色，连续高强度刹车，成绩波动幅度仅在0.5米左右，刹车脚感没有明显变化。",
+                "data": "35.53m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c7d50kbc77u655bocvu0",
+                    "cover": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/e0b942afe0f64524adaf33e26ce9a955~tplv-resize:640:0.png",
+                    "duration": 34.56,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802471360&video_id=%!s(*string=0xc00e6f0360)&cover_url=tos-cn-i-0000c0030%2F53b36d9d66a446e8ba2b226ddcaf1110",
+                    "group_id": 7051041609986671134
+                }
+            },
+            {
+                "series_id": 5288,
+                "series_name": "长安UNI-V",
+                "car_id": 71919,
+                "car_name": "2022款 1.5T 尊贵型",
+                "eval_id": 2859,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "在17度的气候条件下，实测百公里刹停最短距离为35.50m，成绩在同级中能排在靠前位置。对比影豹，制动距离短出3m多，轮胎对成绩的影响不小，本次实测的UNI-V，原厂配备了235/45 R18的马牌MC6轮胎，比起影豹的225/45 R18 GITICOMFORT F22轮胎，抓地力好很多。此外，多次测试后，平均成绩为36.39m，未出现明显的制动热衰退迹象。",
+                "data": "35.50m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c9llvl3c77u3u83mq5e0",
+                    "cover": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/67113d2067ac4fccaf086475b5f1bd2b~tplv-resize:640:0.png",
+                    "duration": 39.317,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816073144&video_id=%!s(*string=0xc00b840fe0)&cover_url=tos-cn-i-0000c0030%2F093e924cc275402cba83bfce48ae8ba3",
+                    "group_id": 7091867529064284679
+                }
+            },
+            {
+                "series_id": 280,
+                "series_name": "本田CR-V",
+                "car_id": 46623,
+                "car_name": "2021款 锐·混动 2.0L 四驱净享版",
+                "eval_id": 2135,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "本次参与测试的这台CR-V锐·混动经过8次测试并没有出现严重的热衰减，但38.67米的平均制动距离在同级中也仅处于中游水平。相比燃油版，锐·混动版本的整备质量更高，这对刹车成绩产生一些影响。",
+                "data": "38.28m",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c321i2ch87fpbm4hcl2g",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/6553b88a2a649ec61056172f1250be88~tplv-resize:640:0.png?x-expires=1660804508&x-signature=1%2F5o9TZjwuVQjpqfUYtg8rxM1n8%3D",
+                    "duration": 33.685,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816387040&video_id=%!s(*string=0xc00b8417c0)&cover_url=tos-cn-i-0000%2F07d8926e6346474aa65448b4d43657ed",
+                    "group_id": 6972986893151683108
+                }
+            }
+        ],
+        "mi_lu": [
+            {
+                "series_id": 145,
+                "series_name": "宝马3系",
+                "car_id": 36263,
+                "car_name": "2020款 325Li M运动曜夜套装",
+                "eval_id": 1082,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "高速紧急避让时转向无虚位，指向性佳，支撑充足但抓地力表现较差，电子稳定系统作用效果一般，可实现的减速能力较弱，最终只取得了同级中等偏下的成绩。",
+                "data": "72.6km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201e5b0000bt6v9eplshkp6f53a0rg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/2c843a8261fbca255ce28f0fb77c6696~tplv-resize:640:0.png?x-expires=1660804508&x-signature=ovab9uIfOkDXM2kFdcwPKXbZVn0%3D",
+                    "duration": 22.848,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800639104&video_id=%!s(*string=0xc000fe3c40)&cover_url=tos-cn-i-0000%2F65fe12335e3a4a72ab233dcc6212a3c3",
+                    "group_id": 6926468218144064013
+                }
+            },
+            {
+                "series_id": 212,
+                "series_name": "奔驰C级",
+                "car_id": 55286,
+                "car_name": "2022款 C 260 L 运动版",
+                "eval_id": 2449,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "在紧急避让时，新C级车身姿态稳定，车身晃动不大，在车内感觉驾驶信心良好；该车虽是后轮驱动，但测试中并未出现甩尾姿态，转向比较中性，驾驶员控车难度不大；电子稳定系统在检测到危险状态后会及时介入进行降速，但降速效果并不明显，车辆进入B区后需要驾驶员非常快地做出响应，来完成变线动作，而且尝试不同驾驶模式，电子稳定系统的作用效果没有明显差异，不过最终成绩可在同级中排在中游，整体评价良好。",
+                "data": "75.8km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c4qc8v3c77u6vaqj0m4g",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/027c2aa7fecd4707bdca79375f6d52fc~tplv-resize:640:0.png?x-expires=1660804508&x-signature=GeyGQZytHAXJleqJDWhDzkm3quE%3D",
+                    "duration": 85.995,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799132288&video_id=%!s(*string=0xc00679e3d0)&cover_url=tos-cn-i-0000%2F803e628abdcb4b9dbbbfe3a2c9568e27",
+                    "group_id": 7004436547248374279
+                }
+            },
+            {
+                "series_id": 289,
+                "series_name": "雅阁",
+                "car_id": 56597,
+                "car_name": "2022款 锐·混动 2.0L 幻夜·锐智版",
+                "eval_id": 2615,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "新款本田雅阁混动版在高速紧急避让时整体稳定性出色，新车底盘有着良好的紧凑感，悬架可提供良好的支撑性，车辆对转向的响应及时，驾驶者很容易判断紧急避让的时机；新车的电子稳定系统介入及时，作用时不会影响控车，但可实现的减速效果一般，车速提高后对驾驶者的反应能力和控车能力要求较高。新款雅阁混动版通过麋鹿实测最高车速为76.7公里/小时，属同级中等水准，整体表现良好。",
+                "data": "76.7km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c60g4vjc77ua54vkals0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/0a4656332b18eab9034f634eddcb62c6~tplv-resize:640:0.png?x-expires=1660804508&x-signature=jteIWAwfyTvWLw8EjBH9wTNOBNk%3D",
+                    "duration": 81.451,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799126576&video_id=%!s(*string=0xc00ac9b460)&cover_url=tos-cn-i-0000%2F89793c5c28694427814adc249b3fb387",
+                    "group_id": 7025900348787180062
+                }
+            },
+            {
+                "series_id": 4865,
+                "series_name": "宋PLUS DM-i",
+                "car_id": 50997,
+                "car_name": "2021款 DM-i 110KM 两驱旗舰 PLUS",
+                "eval_id": 2090,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "比亚迪宋PLUS DM-i在麋鹿测试表现出不错的操控性能，转向稍有虚位但指向很精准，操控很灵敏，电子稳定系统工作很高效，可惜车身高大，悬挂支撑力不足，宋PLUS DM-i最终通过麋鹿测试最快车速为74.5km/h，测试时有抬轮现象，悬挂支撑力不足限制了麋鹿测试成绩。",
+                "data": "74.5km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c2obpin6da3idep10fng",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/a9c9fcf41f6b039cec821c76a8b002d5~tplv-resize:640:0.png?x-expires=1660804508&x-signature=A7x4X8fveZ%2BIHspOQK%2BA%2Btebk80%3D",
+                    "duration": 92.373,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824858925824&video_id=%!s(*string=0xc008d71260)&cover_url=tos-cn-p-0030%2Fbd1fbc057aaafce3669539641793011d",
+                    "group_id": 6968162993351688741
+                }
+            },
+            {
+                "series_id": 96,
+                "series_name": "奥迪A4L",
+                "car_id": 43998,
+                "car_name": "2020款 45 TFSI quattro 臻选动感型",
+                "eval_id": 1230,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "奥迪A4L 2020款 45 TFSI quattro车型转向手感沉稳扎实，精准度高，高速紧急变线时很容易把控车身动态的变化；底盘极限很高，悬架可提供充足的支撑力，车尾灵活稍有侧滑，由于侧倾幅度不大很容易控车，极限状态时也没有出现转向不足的趋势；电子稳定系统介入及时，减速效果明显，且作用时不会干扰驾驶者。2020款奥迪A4L 45 TFSI quattro车型通过麋鹿测试最高车速77.3km/h，",
+                "data": "77.3km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201ebc0000bt8bkck3hk8vvj6ots70",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/eab813248e8e13c2f3f880e19e771eb0~tplv-resize:640:0.png?x-expires=1660804508&x-signature=hqw%2FH%2FxvSfFjz0CfnvhnLPw5ZkU%3D",
+                    "duration": 21.675,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799468752&video_id=%!s(*string=0xc00f024060)&cover_url=tos-cn-i-0000%2Fda7a7785903b49728940e3e8b51e2d5c",
+                    "group_id": 6926488086222225927
+                }
+            },
+            {
+                "series_id": 535,
+                "series_name": "凯美瑞",
+                "car_id": 51686,
+                "car_name": "2021款 双擎 2.5HGVP 领先版",
+                "eval_id": 2103,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "广汽丰田凯美瑞基础性能调校十分均衡，即使转向虚位较大，较长的车身依然灵活，侧倾控制很出色，电子稳定系统介入时作用力度较小，对于麋鹿测试的辅助作用较小，最终凯美瑞通过麋鹿测试最快车速为78.3km/h，表现不错。",
+                "data": "78.3km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c2sh2dj1e3p1fgi29rag",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/61b4ed7d0d2d8acc3d7d549e2564a68f~tplv-resize:640:0.png?x-expires=1660804508&x-signature=YaGw%2FXG2kHEG4qngi%2FEPPq%2B6I5A%3D",
+                    "duration": 92.16,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799949952&video_id=%!s(*string=0xc00f025200)&cover_url=tos-cn-p-0030%2F9890dd99036b97024b0397bd11c582ea",
+                    "group_id": 6970018316962267662
+                }
+            },
+            {
+                "series_id": 4300,
+                "series_name": "汉EV",
+                "car_id": 45670,
+                "car_name": "2020款 超长续航版尊贵型",
+                "eval_id": 2140,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "比亚迪汉EV超长续航版在麋鹿测试中表现较差，电子稳定系统介入虽然及时，但对操控影响过大，转向锁止明显，很容易转向不足，难以控车，在测试中表现狼狈，日常驾驶如遇到紧急避让也比较危险。汉EV通过麋鹿测试最快车速为74.3km/h，综合表现平平。",
+                "data": "74.3km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c399qcohaupgj9ltqju0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/8288ea1c290cab38852ea69306000875~tplv-resize:640:0.png?x-expires=1660804508&x-signature=usukRy5EyCwTFRa8iP9omhWcdkA%3D",
+                    "duration": 78.208,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800416688&video_id=%!s(*string=0xc000fe2280)&cover_url=tos-cn-i-0000c0030%2Fae2fd93b5afd41348962f20dc060a3a0",
+                    "group_id": 6977068761492800036
+                }
+            },
+            {
+                "series_id": 99,
+                "series_name": "奥迪A6L",
+                "car_id": 49138,
+                "car_name": "2021款 40 TFSI 豪华致雅型",
+                "eval_id": 2324,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "奥迪A6L的转向有明显虚位，但指向精准性较高。在缺少四驱的帮助后，快速避让时车身稳定性相对差一些。最后测试成绩并不高，主要原因在于电子稳定系统介入不及时，介入后力度偏小，不能实现有效降速。",
+                "data": "74.9km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c3sil0bc77u2holqs04g",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/3d565acd0f8bfb1860b08906e950ba27~tplv-resize:640:0.png?x-expires=1660804508&x-signature=AUxX31%2Bm%2Bta9H0QeEgaoq4VS14E%3D",
+                    "duration": 89.771,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824798257808&video_id=%!s(*string=0xc008d71a00)&cover_url=tos-cn-p-0030%2Fea8962905fa5ea9c62f59411414567a9",
+                    "group_id": 6987830751370691086
+                }
+            },
+            {
+                "series_id": 4857,
+                "series_name": "星越L",
+                "car_id": 57062,
+                "car_name": "2022款 1.5T 雷神Hi·F油电混动版 Super迅",
+                "eval_id": 2943,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "经专业车手多次测试，星越L雷神版取得了77.9km/h的最佳成绩，测试过程中，未出现一侧两个车轮同时离地的危险姿态，车身稳定性良好，之所以成绩比较高，是因为紧急避让时，电子稳定系统的减速效果明显，而且不会影响驾驶员控制方向，不过，速度太高后，会出现明显的转向不足，受此影响，多次尝试，成绩很难再提高。",
+                "data": "77.9km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000cbpipmbc77uaeil2kvsg",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/e88310f22f1abd3f4b374aa4fe598aaa~tplv-resize:640:0.png?x-expires=1660804508&x-signature=s3JMWvLzhaanCl8QUpYT3ki23%2FI%3D",
+                    "duration": 47.531,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824798261952&video_id=%!s(*string=0xc00ac9a7a0)&cover_url=tos-cn-i-0000c0030%2Ff347bb8281364910a2c14597cbd7af12",
+                    "group_id": 7130092208727802375
+                }
+            },
+            {
+                "series_id": 146,
+                "series_name": "宝马5系",
+                "car_id": 54057,
+                "car_name": "2021款 改款 525Li M运动套装",
+                "eval_id": 2810,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "华晨宝马525Li虽然是后驱车型，但在高速紧急变线时会表现出明显的转向不足趋势，姿态十分纠结，电子稳定系统谈不上保守，介入时机较晚，介入力度小，可实现的减速效果微弱，525Li麋鹿测试更考验驾驶者的控车水平，当车速稍高，推头就更加明显。宝马525Li通过麋鹿测试最高车速71.5km/h，麋鹿测试整体表现不佳。",
+                "data": "71.5km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c7mqjmbc77u37ai7rff0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/fc60d150e52242348910079b1f01952b~tplv-resize:640:0.png?x-expires=1660804508&x-signature=7Q3f2MYzSTA9fdUVtStcVTQfH2E%3D",
+                    "duration": 80.171,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800633904&video_id=%!s(*string=0xc000fe2d70)&cover_url=tos-cn-i-0000c0030%2Fa07c98e4f28b44be8fb41edf685dcc92",
+                    "group_id": 7056483059129958919
+                }
+            },
+            {
+                "series_id": 393,
+                "series_name": "朗逸",
+                "car_id": 48251,
+                "car_name": "2021款 280TSI DSG豪华版",
+                "eval_id": 2813,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "上汽大众朗逸在高速紧急变线时转向过度明显，车尾频频侧滑，且电子稳定系统介入后可实现的减速效果非常微弱，麋鹿测试对驾驶者控车要求较高。朗逸通过麋鹿测试最高车速为74.8km/h，在同级别车型排名中游水准。",
+                "data": "74.8km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c7mr4pbc77u1r57l0jj0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/7beb53b32118cc1cb094b8e5987a2557~tplv-resize:640:0.png?x-expires=1660804508&x-signature=gcxjcbvtHreCrjnKNHSfHSGGJM0%3D",
+                    "duration": 88.32,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802475792&video_id=%!s(*string=0xc00e6f0f90)&cover_url=tos-cn-i-0000c0030%2Fb54cdadfcb134dbb830434d8b5230f05",
+                    "group_id": 7056492466001674760
+                }
+            },
+            {
+                "series_id": 398,
+                "series_name": "帕萨特",
+                "car_id": 55691,
+                "car_name": "2022款 330TSI 星空尊贵版",
+                "eval_id": 2454,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "在紧急避让时，电子稳定系统不会非常积极地介入进行降速，这缩短了紧急情况下驾驶员的反应时间，但好在该车底盘很紧凑，虽然轴距长，但紧急避让时感觉车身依然灵活；另外，连续快速变线时车辆更容易出现甩尾姿态，加大了驾驶员的控车难度，最终成绩在同级中处于中等水平，整体评价良好。",
+                "data": "76.7km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c4qs283c77u36gh6nll0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-i-0000/803c421402c9469f98221c1b47ba0e0f~tplv-resize:640:0.png?x-expires=1660804508&x-signature=pXJMGnfo1lZJ3zeUcJyvxXcQiYY%3D",
+                    "duration": 80.917,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804276864&video_id=%!s(*string=0xc00b4ba250)&cover_url=tos-cn-i-0000%2Fc761717ae56e47d79e1f65ac00143d40",
+                    "group_id": 7004716597092860430
+                }
+            },
+            {
+                "series_id": 3736,
+                "series_name": "凯迪拉克CT5",
+                "car_id": 53799,
+                "car_name": "2021款 28T 尊贵型",
+                "eval_id": 2511,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "本次测试车款配有电磁悬架，非常快的阻尼调节速度保证了紧急避让时也可以有非常稳定的车身姿态；虽然车辆为后轮驱动，但转向十分中性，测试中未出现严重的甩尾问题，整体上车辆非常可控；因为底盘素质优秀，电子稳定系统更倾向于较少的介入进行降速，以避免影响驾驶者对车身动态做准确的判断；最终成绩可在同级中排在上游，整体评价优秀。",
+                "data": "79.3km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c584ae3c77u4djr7b2gg",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/067a0d8ed6a1488fa3d23741d9eb257d~tplv-resize:640:0.png?x-expires=1660804508&x-signature=w3ycvZif1kvGr0%2FtTwsm4AAIJ4A%3D",
+                    "duration": 85.995,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804370784&video_id=%!s(*string=0xc00b4bac90)&cover_url=tos-cn-i-0000%2F5ae855bdcc0d42588d3be717a6c7e970",
+                    "group_id": 7012181081906512398
+                }
+            },
+            {
+                "series_id": 3476,
+                "series_name": "星瑞",
+                "car_id": 49174,
+                "car_name": "2020款 2.0T 设计师推荐款",
+                "eval_id": 1803,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "在麋鹿测试时，星瑞的车尾过于活跃，最终取得了75.1公里/小时的通过成绩，表现中等。转向的手感沉稳，但是并不能清楚的传递车身的动态，操控感不算强。悬架的支撑稍显不足，抓地力不够，车尾会出现一定幅度的滑动。好在车身稳定系统工作尽职尽责，能有效控制住车身姿态。",
+                "data": "75.1km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301e070000bvlhdiul4u1ml5rb8a40",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/9bb1260aa2bb5e1cca8d153a6146b77f~tplv-resize:640:0.png?x-expires=1660804508&x-signature=mPYebyo5KmIggF22M8HdyLHKLN4%3D",
+                    "duration": 66.475,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804376336&video_id=%!s(*string=0xc00b4bbc40)&cover_url=tos-cn-i-0000%2F7d8df3b6aa2b4e71890fd6ae7473d3b4",
+                    "group_id": 6926489382535004685
+                }
+            },
+            {
+                "series_id": 214,
+                "series_name": "奔驰E级",
+                "car_id": 52115,
+                "car_name": "2021款 改款 E 260 L 轿车",
+                "eval_id": 2533,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "2021款北京奔驰改款E 260 L车型在麋鹿实测紧急变线过程中稳定性表现良好，连续避让过程中并未出现大幅度侧倾；E 260 L的电子稳定系统介入时机较晚，可实现的减速效果微弱，电子稳定系统对于麋鹿测试起到的辅助作用较小。改款E 260 L通过麋鹿实测最高车速为74.8公里/小时，属同级车中游水平，麋鹿实测整体表现一般。",
+                "data": "74.8km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5apuibc77uc6i396090",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/828a8b19b6374da59e2521832a7f2f7e~tplv-resize:640:0.png?x-expires=1660804508&x-signature=BeB5rojvlE9z8zOl%2Bqs4gharDC0%3D",
+                    "duration": 80.917,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824774564152&video_id=%!s(*string=0xc00e68cb30)&cover_url=tos-cn-i-0000%2Fb7e18a65964d4e5d995144a668dbf532",
+                    "group_id": 7013687170150138382
+                }
+            },
+            {
+                "series_id": 415,
+                "series_name": "迈腾",
+                "car_id": 42214,
+                "car_name": "2020款 380TSI DSG 旗舰型",
+                "eval_id": 1274,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "底盘扎实，电子稳定系统介入效果明显，最终取得了同级中等偏上的成绩。",
+                "data": "76.7km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301e340000bt90gglvgjv7bkdgldd0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/c937f6a67b06c16d1285903965ba3817~tplv-resize:640:0.png?x-expires=1660804508&x-signature=clXca2N17SkRXNigVPx5rB%2F1wvg%3D",
+                    "duration": 8.085,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802104624&video_id=%!s(*string=0xc00e68dd80)&cover_url=tos-cn-i-0000%2Fbe33b61da33d48a0aa8e4cd586da97de",
+                    "group_id": 6926488116883243528
+                }
+            },
+            {
+                "series_id": 276,
+                "series_name": "思域",
+                "car_id": 56409,
+                "car_name": "2022款 240TURBO CVT劲动版",
+                "eval_id": 2493,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "相比上代三厢版车型，新思域在极限状态下可控性更高；测试中，悬架支撑充足，没有出现多余弹跳等危险状态，同时电子稳定系统相较上一代介入的时机更准确，而且减速效果更明显，这是新车能取得更安全成绩的关键因素，最终成绩可在同级中排在上游，综合评价优秀；不过，随着车速提高，电子稳定系统介入后会导致转向不足变得更加严重，提高了驾驶员控车难度。",
+                "data": "78.9km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c559hgrc77uevqr4tcfg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/abe3f25404801d0a4d769233bf1719b3~tplv-resize:640:0.png?x-expires=1660804508&x-signature=dWFcac2KuHmFKTktj8ODWM9lcaQ%3D",
+                    "duration": 85.995,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802105632&video_id=%!s(*string=0xc00e68df20)&cover_url=tos-cn-i-0000%2F17aa5395a3594f84aff16c4d0db4e08d",
+                    "group_id": 7010583682721268232
+                }
+            },
+            {
+                "series_id": 4363,
+                "series_name": "Model Y",
+                "car_id": 54996,
+                "car_name": "2021款 标准续航后轮驱动版",
+                "eval_id": 2791,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "特斯拉Model Y长续航版后驱车型在麋鹿实测行驶稳定性表现亮眼，紧急避让时车辆未出现严重侧倾，紧凑感与灵活性表现出色；电子稳定系统介入及时，可实现明显的减速效果，辅助作用明显，不会对避让控车产生影响。特斯拉Model Y的相较于Model 3的底盘升高且尺寸加大，但取得了几乎和Model 3一样的成绩，整体操控属同级优秀表现。",
+                "data": "81.0km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c7d500bc77u3a7dn9kpg",
+                    "cover": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/a17abaca7a394da780256e9c05e77a25~tplv-resize:640:0.png",
+                    "duration": 79.637,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802471360&video_id=%!s(*string=0xc00e6f0360)&cover_url=tos-cn-i-0000c0030%2F53b36d9d66a446e8ba2b226ddcaf1110",
+                    "group_id": 7051041494592979487
+                }
+            },
+            {
+                "series_id": 5288,
+                "series_name": "长安UNI-V",
+                "car_id": 71919,
+                "car_name": "2022款 1.5T 尊贵型",
+                "eval_id": 2859,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "经过懂车帝专业车手多次测试，UNI-V取得了80.4km/h的最佳通过速度。过程中没有出现双轮离地、严重甩尾等危险姿态。紧急避让时，电子稳定系统能让车速明显降低，且稳定车身姿态的效果，好于之前测试的影豹，降低了驾驶者的控车难度。此外也得益于轮胎抓地表现良好，帮助UNI-V取得了比很多同级车都要高的通过速度。",
+                "data": "80.4km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c9llvcbc77uaghiq2qg0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/58dbc91a37590590b95e72b028f7019c~tplv-resize:640:0.png?x-expires=1660804508&x-signature=DcsHJtVWfXcv7mT0LfDglM1xfzs%3D",
+                    "duration": 41.28,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816073144&video_id=%!s(*string=0xc00b840fe0)&cover_url=tos-cn-i-0000c0030%2F093e924cc275402cba83bfce48ae8ba3",
+                    "group_id": 7091867349426422302
+                }
+            },
+            {
+                "series_id": 280,
+                "series_name": "本田CR-V",
+                "car_id": 46623,
+                "car_name": "2021款 锐·混动 2.0L 四驱净享版",
+                "eval_id": 2135,
+                "eval_type": 1,
+                "outter_eval_type": 3,
+                "description": "CR-V锐·混动获得了比很多同级车都好的麋鹿成绩，入桩速度最高达到77.1公里/小时，整体评价良好。如果ESP再聪明一些，减少在B区中因为锁止车轮造成的转向不足，成绩可能会更好。",
+                "data": "77.1km/h",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c37arco5h10p7ivam12g",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/d0f50e5af4ffb79dbb4964c8f096ba76~tplv-resize:640:0.png?x-expires=1660804508&x-signature=DFg%2BdC6I6UwaW7a%2FApWgWBLHa54%3D",
+                    "duration": 78.208,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816387040&video_id=%!s(*string=0xc00b8417c0)&cover_url=tos-cn-i-0000%2F07d8926e6346474aa65448b4d43657ed",
+                    "group_id": 6975786318466941470
+                }
+            }
+        ],
+        "zhu_dong_an_quan": [
+            {
+                "series_id": 145,
+                "series_name": "宝马3系",
+                "car_id": 48198,
+                "car_name": "2021款 325Li M运动曜夜套装",
+                "eval_id": 2311,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能较为良好，对人和对车均具有很强的识别能力，多项测试工况均达到最高测试速度，美中不足是对人和车的识别速度偏慢，使得消失的前车和儿童鬼探头工况得分偏低",
+                "data": "47.4/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c3ql78rc77u4pimu5i40",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/502ffacfb673ea99d805ddc304e3c2a7~tplv-resize:640:0.png?x-expires=1660804508&x-signature=dDsQflFeK%2B%2B7472HTrNX3lQsbMk%3D",
+                    "duration": 134.357,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800640640&video_id=%!s(*string=0xc000fe3fc0)&cover_url=tos-cn-p-0030%2F502ffacfb673ea99d805ddc304e3c2a7",
+                    "group_id": 6986717449630581278
+                }
+            },
+            {
+                "series_id": 212,
+                "series_name": "奔驰C级",
+                "car_id": 55286,
+                "car_name": "2022款 C 260 L 运动版",
+                "eval_id": 2583,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能来看，假车车尾及较难的车侧工况均通过60km/h的最高测试车速，隧道工况也能通过40km/h速度，车头工况以30km/h通过，且均有警告和减速，儿童横穿能通过50km/h的较高测试速度，更高的速度下警告较晚，来不及减速，无法避免碰撞，儿童鬼探头项目测试失败，门槛测试速度下警告较晚，来不及减速，无法避免碰撞",
+                "data": "33.1/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c5p2tfjc77u9ac943l3g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/4f3c57c13d93d11119de65a6a79b03ad~tplv-resize:640:0.png?x-expires=1660804508&x-signature=Hs0sitSfGEWW7UD4MUZl%2FyAltdk%3D",
+                    "duration": 134.955,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799462512&video_id=%!s(*string=0xc00679ea30)&cover_url=tos-cn-p-0030%2F4f3c57c13d93d11119de65a6a79b03ad",
+                    "group_id": 7021726621405364743
+                }
+            },
+            {
+                "series_id": 289,
+                "series_name": "雅阁",
+                "car_id": 56597,
+                "car_name": "2022款 锐·混动 2.0L 幻夜·锐智版",
+                "eval_id": 2629,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能方面，假车正面和侧面测试均失败，无警告和制动，车尾测试以60km/h的最高测试速度通过，消失的前车和隧道工况均测试失败，无明显警告和减速，儿童行人横穿通过50km/h的测试速度，更高速度时无明显警告和减速，儿童鬼探头测试失败，有警告无明显减速",
+                "data": "18.0/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c61noc3c77ub4eea3i00",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/11fdaa5e29954a2c9bfb1ccb2eebd05f~tplv-resize:640:0.png?x-expires=1660804508&x-signature=JD1IKsLLHLc%2FsdW1QRQgix07FLs%3D",
+                    "duration": 185.365,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799130512&video_id=%!s(*string=0xc00ac9be00)&cover_url=tos-cn-i-0000%2F11fdaa5e29954a2c9bfb1ccb2eebd05f",
+                    "group_id": 7026605451320017444
+                }
+            },
+            {
+                "series_id": 96,
+                "series_name": "奥迪A4L",
+                "car_id": 43998,
+                "car_name": "2020款 45 TFSI quattro 臻选动感型",
+                "eval_id": 2312,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】2020款奥迪A4L整体AEB测试表现一般，对静态假车正面工况达到了50公里/小时，对于车尾和车侧测试均失败，其中车头和车尾工况有安全带收紧功能。A4L对人识别局限于标准的近端横穿工况，表现尚可。鬼探头仅能通过20公里/小时测试，好在仍有安全带收紧功能。",
+                "data": "29.6/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c3qmji3c77u1pd4p4kcg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/97570caf0ff4706074fb2a145108259b~tplv-resize:640:0.png?x-expires=1660804508&x-signature=MH2vDE2jtjByhAB0kcTcX0Q1P5Q%3D",
+                    "duration": 158.763,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799945888&video_id=%!s(*string=0xc00f0245d0)&cover_url=tos-cn-p-0030%2F97570caf0ff4706074fb2a145108259b",
+                    "group_id": 6986717458602148382
+                }
+            },
+            {
+                "series_id": 535,
+                "series_name": "凯美瑞",
+                "car_id": 51686,
+                "car_name": "2021款 双擎 2.5HGVP 领先版",
+                "eval_id": 2649,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能方面，假车正面和车尾工况分别达到50km/h和40km/h的测试速度，更高速度时均有警告和减速，无法避撞，侧面工况测试失败，无警告和减速，消失的前车通过30km/h的门槛测试速度，更高速度时无警告和减速，隧道工况通过40km/h的测试速度，更高速度时有警告无明显减速，儿童行人横穿通过60km/h的最高测试速度，儿童鬼探头测试失败，无警告和减速",
+                "data": "30.9/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c65jhi3c77ue59sco1k0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/3ee303808326f87fbf145db6506ef580~tplv-resize:640:0.png?x-expires=1660804508&x-signature=Nf9T%2B8MoIRkkIia03NXLJInz28k%3D",
+                    "duration": 183.445,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800224912&video_id=%!s(*string=0xc00f025ed0)&cover_url=tos-cn-p-0030%2F3ee303808326f87fbf145db6506ef580",
+                    "group_id": 7028774509700219429
+                }
+            },
+            {
+                "series_id": 4300,
+                "series_name": "汉EV",
+                "car_id": 45670,
+                "car_name": "2020款 超长续航版尊贵型",
+                "eval_id": 2208,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】对车头、车尾都能够有效识别，AEB自动紧急制动极限较高，无法识别车辆侧面，无法通过隧道AEB，消失前车速度达到50km/h时系统无反应；对儿童行人识别两极化，无遮挡情况下识别较好，AEB有警告、制动，但是在懂车帝儿童鬼探头PLUS测试中，AEB多次测试无响应，无法识别。",
+                "data": "27.1/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c3hgjjrc77u4nmed5a3g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/aa79a0aea1604e878fdf93272818ed15~tplv-resize:640:0.png?x-expires=1660804508&x-signature=qUUZvWwQqDCx3ZsvnTMjIKf3inM%3D",
+                    "duration": 152.363,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800418544&video_id=%!s(*string=0xc000fe26f0)&cover_url=tos-cn-i-0000%2Faa79a0aea1604e878fdf93272818ed15",
+                    "group_id": 6981521881669075470
+                }
+            },
+            {
+                "series_id": 99,
+                "series_name": "奥迪A6L",
+                "car_id": 49151,
+                "car_name": "2021款 45 TFSI quattro 臻选致雅型",
+                "eval_id": 2126,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全性能一般，对车工况中，仅对车尾有一定识别，能通过门槛测试速度，车头、车侧和隧道工况均测试失败；对人识别能力较强，近端横穿能以50公里/小时通过，但识别速度偏慢，鬼探头工况仅能达到门槛测试速度",
+                "data": "36.7/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c2uabqt68ocg3iajhpe0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/699f16760cca1643c8d9c269a19840e1~tplv-resize:640:0.png?x-expires=1660804508&x-signature=JkaIw%2F8cNILAsmbHuDOt0UK3c0o%3D",
+                    "duration": 154.411,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824798260256&video_id=%!s(*string=0xc00ac9a1e0)&cover_url=tos-cn-p-0030%2F699f16760cca1643c8d9c269a19840e1",
+                    "group_id": 6970760460622643742
+                }
+            },
+            {
+                "series_id": 4857,
+                "series_name": "星越L",
+                "car_id": 52089,
+                "car_name": "2021款 2.0TD 高功自动四驱旗舰型",
+                "eval_id": 2587,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能来看，对假车项目，消失的前车和隧道工况能通过40km/h的测试速度，50km/h测试速度下有碰撞预警提示和减速，但未能实现避撞，其他假车工况在30km/h速度下未能避免碰撞，儿童横穿工况能识别假人，有警告和减速，无法避免碰撞，儿童鬼探头工况仅有警告，无法避免碰撞",
+                "data": "14.3/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5ra1crc77u9ga64vik0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/ef405392b66c228473983bd35c20ea3c~tplv-resize:640:0.png?x-expires=1660804508&x-signature=K1CV3bYWswarPqRwZ2IubmtOZoc%3D",
+                    "duration": 136.277,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824798265104&video_id=%!s(*string=0xc00ac9b060)&cover_url=tos-cn-p-0030%2Fef405392b66c228473983bd35c20ea3c",
+                    "group_id": 7022977035324637704
+                }
+            },
+            {
+                "series_id": 146,
+                "series_name": "宝马5系",
+                "car_id": 46773,
+                "car_name": "2021款 530Li 尊享型 豪华套装",
+                "eval_id": 2171,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】2021款宝马5系整体测试表现优秀，在车对车正面与车尾碰撞以及行人近端横穿三项测试中，均达到了我们测试项目的最高通过速度，在升级后的儿童鬼探头工况表现也很亮眼。",
+                "data": "71.8/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c38u8lumi8istok8813g",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/6ac05898d11d54101184340bfffd0e2e~tplv-resize:640:0.png?x-expires=1660804508&x-signature=e1nfrjbM7D5ARs8%2FLDLI1fEfV74%3D",
+                    "duration": 132.757,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800636912&video_id=%!s(*string=0xc000fe35d0)&cover_url=tos-cn-p-0030%2F6ac05898d11d54101184340bfffd0e2e",
+                    "group_id": 6976698287365587464
+                }
+            },
+            {
+                "series_id": 393,
+                "series_name": "朗逸",
+                "car_id": 48109,
+                "car_name": "2021款 1.5L 自动舒适版",
+                "eval_id": 2255,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能方面，对车仅能通过正面和隧道测试工况，且通过速度不高；对人也仅能通过30km/h的近端横穿工况，且对人和车的识别速度偏慢，鬼探头和消失的前车工况测试均失败",
+                "data": "11.7/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c3k4cmjc77u8p02k0i5g",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/f9e2e61f1bc03924a3093328ba52e758~tplv-resize:640:0.png?x-expires=1660804508&x-signature=TBUI9nUludPytgjv2ijdfdOO0pE%3D",
+                    "duration": 141.077,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804273408&video_id=%!s(*string=0xc00e6f1880)&cover_url=tos-cn-p-0030%2Ff9e2e61f1bc03924a3093328ba52e758",
+                    "group_id": 6984490885044011528
+                }
+            },
+            {
+                "series_id": 398,
+                "series_name": "帕萨特",
+                "car_id": 55690,
+                "car_name": "2022款 330TSI 尊贵版",
+                "eval_id": 2596,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能来看，除了假车正面工况以门槛速度通过测试外，其他工况均未能通过测试，且多数工况无警告和减速，儿童假人工况也全部测试失败，无警告和减速",
+                "data": "4.9/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c5qj6pjc77u0khmkvk50",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/2cde3829ab3c0276f340ed8c2707a08a~tplv-resize:640:0.png?x-expires=1660804508&x-signature=CZh%2BHaUeiOyFLagPnFQBHeBk2R8%3D",
+                    "duration": 126.165,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804369504&video_id=%!s(*string=0xc00b4ba890)&cover_url=tos-cn-p-0030%2F2cde3829ab3c0276f340ed8c2707a08a",
+                    "group_id": 7022964231972749831
+                }
+            },
+            {
+                "series_id": 3736,
+                "series_name": "凯迪拉克CT5",
+                "car_id": 53800,
+                "car_name": "2021款 28T 铂金型",
+                "eval_id": 2314,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能方面，对车的车头和车尾工况可识别，但只能通过较低的测试速度，车侧和隧道工况对车无识别；对人的识别能力也比较一般，只能通过较低的测试速度，且识别速度偏慢",
+                "data": "24.8/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c3r795bc77u2ntbrpjp0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/0b3236db2bda2ad23455901b5bc07ab4~tplv-resize:640:0.png?x-expires=1660804508&x-signature=s1maHRedwxcK1k4sN3dztCqoRto%3D",
+                    "duration": 157.12,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804373296&video_id=%!s(*string=0xc00b4bb2d0)&cover_url=tos-cn-p-0030%2F0b3236db2bda2ad23455901b5bc07ab4",
+                    "group_id": 6987089518784430623
+                }
+            },
+            {
+                "series_id": 3476,
+                "series_name": "星瑞",
+                "car_id": 36183,
+                "car_name": "2020款 2.0T 旗舰型",
+                "eval_id": 2209,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】星瑞AEB整体表现不太理想，在静态车侧和50%偏置追尾以及隧道AEB三项测试中，对于前车毫无反应。在鬼探头、消失的前车以及静态前车正面测试中，系统能够进行识别并进行警告，但是无法有效降速，均未能通过相应工况的门槛速度测试。仅在近端行人横穿项目通过了40公里时速测试。",
+                "data": "8.8/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c3i74ebc77u3nrkdpt6g",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/09cab23c4a002635340c529d48dd727b~tplv-resize:640:0.png?x-expires=1660804508&x-signature=Fi0NyKJVo2ipKPavTWMoX%2BXPxwg%3D",
+                    "duration": 124.395,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804672288&video_id=%!s(*string=0xc00b4bbef0)&cover_url=tos-cn-p-0030%2F09cab23c4a002635340c529d48dd727b",
+                    "group_id": 6981893032228438564
+                }
+            },
+            {
+                "series_id": 214,
+                "series_name": "奔驰E级",
+                "car_id": 52124,
+                "car_name": "2021款 改款 E 300 L 尊贵型 运动轿车",
+                "eval_id": 2144,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】奔驰E级运动版与豪华版的毫米波雷达方案布局有差异，以及测试车辆软件版本有一定区别，整体AEB性能不如豪华版，各项测试都有FCW警告，部分项目有减速，但在较低速度下仍无法避免碰撞，极限较低",
+                "data": "13.0/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c37a34hhj3h91aa98820",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/edaffcdc6c714b40b5f3aa67083c1c20~tplv-resize:640:0.png?x-expires=1660804508&x-signature=ULxvHkOVssucl3cRREYXgMNiN9c%3D",
+                    "duration": 84.651,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802101872&video_id=%!s(*string=0xc00e68d560)&cover_url=tos-cn-p-0030%2Fedaffcdc6c714b40b5f3aa67083c1c20",
+                    "group_id": 6975786365741105700
+                }
+            },
+            {
+                "series_id": 276,
+                "series_name": "思域",
+                "car_id": 56406,
+                "car_name": "2022款 240TURBO CVT燃擎版",
+                "eval_id": 2599,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能方面，假车静态的车头和车尾都以40km/h的测试速度通过，更高测试速度时，有警告和减速，无法避免碰撞，假车侧面工况测试失败，无警告和制动反应，消失的前车测试失败，有警告和制动，隧道只能通过门槛速度，更高速度下，有制动反应，但无法避免碰撞；儿童横穿以60km/h的最高测试速度通过，儿童鬼探头达到30km/h，更高速度时，有警告和制动，无法避免碰撞",
+                "data": "34.5/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c5t8bh3c77u9186p9asg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/1c01ca4419dd7dc8a9b7d7099fbcaea7~tplv-resize:640:0.png?x-expires=1660804508&x-signature=KTfBy7mlLKIIIznNjgGPqJmz5oA%3D",
+                    "duration": 148.203,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802273088&video_id=%!s(*string=0xc00a68e870)&cover_url=tos-cn-p-0030%2F1c01ca4419dd7dc8a9b7d7099fbcaea7",
+                    "group_id": 7024077101020021255
+                }
+            },
+            {
+                "series_id": 4363,
+                "series_name": "Model Y",
+                "car_id": 47905,
+                "car_name": "2021款 长续航全轮驱动版",
+                "eval_id": 2118,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】AEB对儿童能够识别，在无遮挡下儿童横穿项目较2020年底有较大改进，但是在儿童鬼探头项目中表现非常一般，缺乏有效改进，识别速度较慢；对车识别能力较强，能达到较高的测试车速，制动力度较为柔和，车距控制较2020年底有较大变化，整体综合评价为一般水平。",
+                "data": "40.8/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c2u8m3ipq957a1vioad0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/9dbd6f829ac74c3cab4018835ce7fb48~tplv-resize:640:0.png?x-expires=1660804508&x-signature=s1D8DqLPLpMkiBkY4fN0PteDg80%3D",
+                    "duration": 132.395,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802473440&video_id=%!s(*string=0xc00e6f0980)&cover_url=tos-cn-i-0000%2F9dbd6f829ac74c3cab4018835ce7fb48",
+                    "group_id": 6970625640328364581
+                }
+            },
+            {
+                "series_id": 280,
+                "series_name": "本田CR-V",
+                "car_id": 46622,
+                "car_name": "2021款 240TURBO CVT四驱尊耀版",
+                "eval_id": 2093,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体表现方面，对车的车头、侧面识别能力较差，对应工况测试均失败，对车尾有一定识别，能达到40km/h的测试速度，隧道工况能通过门槛测试速度；对人的识别能力较强，能达到50km/h的测试速度，但识别速度偏慢，鬼探头工况测试失败。",
+                "data": "20.0/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c2q5t57684uoe7bn30t0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/dbb43fb9297252d1984cc902ae43591d~tplv-resize:640:0.png?x-expires=1660804508&x-signature=gcyYSPJ18wJnJBdkKaZ%2BkvFLEd8%3D",
+                    "duration": 160.96,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816389248&video_id=%!s(*string=0xc00b841fa0)&cover_url=tos-cn-p-0030%2Fdbb43fb9297252d1984cc902ae43591d",
+                    "group_id": 6969276022579544606
+                }
+            },
+            {
+                "series_id": 1145,
+                "series_name": "轩逸",
+                "car_id": 48030,
+                "car_name": "2021款 1.6L TOP CVT奢享版",
+                "eval_id": 2143,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】对儿童行人识别较好，能在接近现实中的复杂工况有效避免、降低与行人碰撞几率，对车辆识别常规工况尚可，但无法适应稍复杂场景。",
+                "data": "13.0/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c379p306qk9h3c0e8r90",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/c618cad86ce1c2ac66023bd00446747a~tplv-resize:640:0.png?x-expires=1660804508&x-signature=A%2FhLZ03w%2BkqX6wmZkrFhTMSiOjk%3D",
+                    "duration": 109.845,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816643152&video_id=%!s(*string=0xc00ab69550)&cover_url=tos-cn-p-0030%2Fc618cad86ce1c2ac66023bd00446747a",
+                    "group_id": 6975786359906648590
+                }
+            },
+            {
+                "series_id": 2916,
+                "series_name": "奥迪Q5L",
+                "car_id": 52470,
+                "car_name": "2021款 40 TFSI 豪华动感型",
+                "eval_id": 2580,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体性能来看，假车工况只有车头工况在40km/h速度下实现制动避撞，更高测试速度有警告和减速，无法避免碰撞，其他假车工况均测试失败，多数工况有警告和减速反应，无法避免碰撞；儿童假人横穿通过40km/h测试速度，更高速度下有减速，无法避免碰撞，儿童鬼探头也能通过30km/h测试速度",
+                "data": "26.5/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c5p2esjc77u9n4ic4j80",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/bb456606caa98d0e0b0dbe7c70ec07ce~tplv-resize:640:0.png?x-expires=1660804508&x-signature=xGZPbhouvefoJcNUhaNld95%2BX04%3D",
+                    "duration": 139.648,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824815876416&video_id=%!s(*string=0xc0037591d0)&cover_url=tos-cn-p-0030%2Fbb456606caa98d0e0b0dbe7c70ec07ce",
+                    "group_id": 7021718220671468046
+                }
+            },
+            {
+                "series_id": 404,
+                "series_name": "途观L",
+                "car_id": 55683,
+                "car_name": "2022款 380TSI 自动四驱R-Line旗舰版7座",
+                "eval_id": 2579,
+                "eval_type": 7,
+                "outter_eval_type": 1,
+                "description": "【2021新版懂车帝主动安全测试】主动安全整体表现来看，所有假车工况均测试失败，其中车尾和隧道工况有减速和警告，无法避免碰撞，车头和车侧无任何反应，直接发生碰撞，对儿童横穿和鬼探头项目也是无任何反应，直接在门槛测试速度下发生碰撞",
+                "data": "1.9/100",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5p26h3c77u1cqvo16c0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/7d7cc569ab8ddb93713bf293fd72c975~tplv-resize:640:0.png?x-expires=1660804508&x-signature=5pTWQCN%2BEDeFHM0YY%2BXTvR9r3O4%3D",
+                    "duration": 116.075,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816855936&video_id=%!s(*string=0xc00c1a8f30)&cover_url=tos-cn-p-0030%2F7d7cc569ab8ddb93713bf293fd72c975",
+                    "group_id": 7021714051730309669
+                }
+            }
+        ],
+        "sai_dao_quan_su": [
+            {
+                "series_id": 145,
+                "series_name": "宝马3系",
+                "car_id": 36263,
+                "car_name": "2020款 325Li M运动曜夜套装",
+                "eval_id": 1415,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "2020款宝马325Li驾驶起来轻盈感出色，赛道测试中控制加速踏板开合需非常细腻，车尾易滑动且车尾动态反馈迟滞感十分明显，一旦侧滑控车修正的过程比较纠结；悬架设定偏软，弯道中车身晃动明显，赛道表现可以看出长轴三系更加注重驾驶舒适性，发动机动力输出虽不暴躁，但与变速箱配合默契，最终圈速01:27.49,同级别属中上等水准。",
+                "data": "1:27.49s",
+                "data_more": "141.65km/h",
+                "video": {
+                    "vid": "v0201ef00000bt75a6sjn2aqjt3bfjmg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-i-0000/8bc76eb54e604550ad57f8b367bdee9a~tplv-resize:640:0.png?x-expires=1660804508&x-signature=T1uqS9d%2FLBAJXOV4ho3GmfrwDNc%3D",
+                    "duration": 94.443,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800842128&video_id=v0201ef00000bt75a6sjn2aqjt3bfjmg&cover_url=tos-cn-i-0000%2F8bc76eb54e604550ad57f8b367bdee9a",
+                    "group_id": 6926767509890712078
+                }
+            },
+            {
+                "series_id": 212,
+                "series_name": "奔驰C级",
+                "car_id": 55286,
+                "car_name": "2022款 C 260 L 运动版",
+                "eval_id": 2450,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "2022款奔驰C级，整体的机械素质较老款有较大提升，动力和底盘稳定性尤为明显，整体圈速较老款提升2秒，综合性能达到了同级的中上水平；新款C级的整车调校依然是舒适取向，悬架设定较软，赛道测试全程都伴有明显的左右晃动，但悬架压缩后段的支撑力出色，极限状态时侧倾控制良好，底盘极限较高，后驱特性不明显，不会出现严重的尾部失控和滑移状态，稳定性有明显提升，整体赛道测试表现可以给出优秀的评价。",
+                "data": "1:25.68s",
+                "data_more": "142.74km/h",
+                "video": {
+                    "vid": "v0301eg10000c4qce9bc77u2g7bqovt0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-i-0000/459a5f25a1874173888e0fe1d120d16c~tplv-resize:640:0.png?x-expires=1660804508&x-signature=u7y0wDfmCI9%2Ftk14k1DKq6Nxa70%3D",
+                    "duration": 136.64,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799467856&video_id=v0301eg10000c4qce9bc77u2g7bqovt0&cover_url=tos-cn-i-0000%2F459a5f25a1874173888e0fe1d120d16c",
+                    "group_id": 7004439105127891492
+                }
+            },
+            {
+                "series_id": 289,
+                "series_name": "雅阁",
+                "car_id": 56597,
+                "car_name": "2022款 锐·混动 2.0L 幻夜·锐智版",
+                "eval_id": 2616,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "本田雅阁2022款 锐·混动2.0L车型整体调校偏向于舒适性，相比老款车型机械素质有明显提升，紧凑感出色，发动机噪音改善明显，驾驶质感上乘。赛道实测中雅阁2.0L车型动力表现有惊喜，初段有明显的推背感，混动系统工作高效；雅阁虽定位家用车，但赛道测试中灵活性表现十分出色，出弯后动力衔接顺畅，在非常考验稳定性与车辆极限的懂车帝下坡弯道和右右组合弯中新雅阁甚至可以全油门通过，操控性表现出色。雅阁2022款2.0L混动车型赛道实测最佳圈速为01:28.49s，属同级车中等水准，抛开动力面雅阁操控性表现亮眼，赛道测试整体表现出色。",
+                "data": "01:28.49s",
+                "data_more": "130.89km/h",
+                "video": {
+                    "vid": "v0301eg10000c9sbdvjc77u7n0uck9lg",
+                    "cover": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/4b9e4e10fda74538a96e51e13bb38767~tplv-resize:640:0.png",
+                    "duration": 151.189,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799130864&video_id=v0301eg10000c9sbdvjc77u7n0uck9lg&cover_url=tos-cn-i-0000c0030%2F4b9e4e10fda74538a96e51e13bb38767",
+                    "group_id": 7095623051647140382
+                }
+            },
+            {
+                "series_id": 4865,
+                "series_name": "宋PLUS DM-i",
+                "car_id": 50997,
+                "car_name": "2021款 DM-i 110KM 两驱旗舰 PLUS",
+                "eval_id": 2091,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "比亚迪宋PLUS DM-i在赛道测试中饱受电子稳定系统干扰，稍有侧滑电控马上介入，对出弯的动力衔接影响很大。宋PLUS DM-i最佳测试圈速为1:32.16，路感清晰，底盘极限高，可惜电子稳定系统干扰过大，圈速表现平平。",
+                "data": "1:32.16s",
+                "data_more": "136.67km/h",
+                "video": {
+                    "vid": "v0301eg10000c2obqcfv147qd6ehb8k0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/e28b2aab426f189f5370160cbe2653c5~tplv-resize:640:0.png?x-expires=1660804508&x-signature=2IRb3yfZ4RN366y%2FiyNDoIS3mwY%3D",
+                    "duration": 139.797,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824858926240&video_id=v0301eg10000c2obqcfv147qd6ehb8k0&cover_url=tos-cn-p-0030%2Fe28b2aab426f189f5370160cbe2653c5",
+                    "group_id": 6968162841836716580
+                }
+            },
+            {
+                "series_id": 96,
+                "series_name": "奥迪A4L",
+                "car_id": 43998,
+                "car_name": "2020款 45 TFSI quattro 臻选动感型",
+                "eval_id": 1563,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "2020款奥迪A4L 45TFSI四驱车型在经过中期改款之后，更像是经历了一次更新换代。转向手感在动态模式下十分沉稳，路感清晰，虚位小，操控非常精准；动力表现其实并不是A4L 45TFSI quattro车型的亮点，反而底盘的高极限和四驱系统的高效更加亮眼。最佳圈速01:21.76，傲视同级的表现可以给到优秀评价。",
+                "data": "1:21.76s",
+                "data_more": "151.14km/h",
+                "video": {
+                    "vid": "v0301e9f0000bt71c0kgf0e2hc17vlqg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/f7699203be444ff4a403aeaa5b5fc387~tplv-resize:640:0.png?x-expires=1660804508&x-signature=xJPSOcmFOthmXMW7kYzEWyg4Cgc%3D",
+                    "duration": 89.877,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799948992&video_id=v0301e9f0000bt71c0kgf0e2hc17vlqg&cover_url=tos-cn-i-0000%2Ff7699203be444ff4a403aeaa5b5fc387",
+                    "group_id": 6926769496212554248
+                }
+            },
+            {
+                "series_id": 535,
+                "series_name": "凯美瑞",
+                "car_id": 51686,
+                "car_name": "2021款 双擎 2.5HGVP 领先版",
+                "eval_id": 2105,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "广汽丰田凯美瑞双擎版在赛道测试中动力表现依然不及搭载涡轮增压发动机的同级对手，懂车帝赛道长直线最大加速G值仅有0.250g，但凯美瑞的驾驶质感很不错，初段的加速感明显，动力足以应付日常使用；转向手感随驾驶模式的更改会有明显变化，路感十分清晰，底盘极限很高，弯道灵活，电子稳定系统关闭后也不会再开启干预。凯美瑞最佳圈速为1:29.76，过长的制动距离对圈速的发挥影响很大。",
+                "data": "1:29.76s",
+                "data_more": "143.80km/h",
+                "video": {
+                    "vid": "v0301eg10000c2sgu4ffh5pnfjevmni0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/85020189c9eab0413f3f935bf02ea6e5~tplv-resize:640:0.png?x-expires=1660804508&x-signature=GyooaR53b2DJ9SCSejOGMSY4eHE%3D",
+                    "duration": 134.08,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800225696&video_id=v0301eg10000c2sgu4ffh5pnfjevmni0&cover_url=tos-cn-p-0030%2F85020189c9eab0413f3f935bf02ea6e5",
+                    "group_id": 6970018302986863141
+                }
+            },
+            {
+                "series_id": 4300,
+                "series_name": "汉EV",
+                "car_id": 45670,
+                "car_name": "2020款 超长续航版尊贵型",
+                "eval_id": 2139,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "比亚迪汉EV超长续航版动力输出依然强悍，踩下加速踏板的瞬间也会有很强的推背体感，中后段加速感较弱；转向手感可调，较大回馈模式下转向沉重，但路感很差，汉EV在赛道中的动态变化很难感知；最佳圈速1:28.25，频繁介入的电子稳定系统对圈速影响非常大。",
+                "data": "1:28.25s",
+                "data_more": "133.99km/h",
+                "video": {
+                    "vid": "v0301eg10000c399nj1459v8v0i99ulg",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/ed79f5400e0df4fd2b306d25e2094fc8~tplv-resize:640:0.png?x-expires=1660804508&x-signature=OWbHZyIJ7lVUAOs17%2BqTD%2FLV4Ms%3D",
+                    "duration": 132.117,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800418864&video_id=v0301eg10000c399nj1459v8v0i99ulg&cover_url=tos-cn-p-0030%2Fed79f5400e0df4fd2b306d25e2094fc8",
+                    "group_id": 6977068792929059364
+                }
+            },
+            {
+                "series_id": 99,
+                "series_name": "奥迪A6L",
+                "car_id": 49138,
+                "car_name": "2021款 40 TFSI 豪华致雅型",
+                "eval_id": 2325,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "奥迪A6L 2021款40TFSI豪华致雅型在赛道测试中呈现出很强的紧凑感，整车完整度高，有着不错的驾驶质感。长直线最大加速度0.251g，动力谈不上强劲，但驾驶轻盈感出色，初段的动力爆发有明显的推背感；转向手感沉稳，路感非常清晰，底盘极限很高，动态表现非常灵活；A6L最佳圈速为1:27.85，中后段加速弱是影响圈速最大因素，赛道测试整体表现良好。",
+                "data": "1:27.85s",
+                "data_more": "138.04km/h",
+                "video": {
+                    "vid": "v0301eg10000c3sips3c77u9k9f31hb0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/bbd93e308fe0ecaa9bd3170f51e7864b~tplv-resize:640:0.png?x-expires=1660804508&x-signature=siNq9xIXF2G6IDdEfOcoWpTdaHc%3D",
+                    "duration": 136.491,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824798261024&video_id=v0301eg10000c3sips3c77u9k9f31hb0&cover_url=tos-cn-p-0030%2Fbbd93e308fe0ecaa9bd3170f51e7864b",
+                    "group_id": 6987830732471190030
+                }
+            },
+            {
+                "series_id": 4857,
+                "series_name": "星越L",
+                "car_id": 52089,
+                "car_name": "2021款 2.0TD 高功自动四驱旗舰型",
+                "eval_id": 2404,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "星越L四驱版与前驱版赛道测试驾驶感区别明显，四驱版的8AT变速箱相比两驱版的7速双离合变速箱，出弯之后的动力衔接迟滞感明显，但四驱系统工作高效，即使在半湿滑路面，圈速还是快于前驱版本。星越L四驱版紧凑感良好，车身虽大，但在过弯时并不会受到高重心影响，最佳圈速1:27.60，赛道测试整体表现出色。",
+                "data": "1:27.60s",
+                "data_more": "139.41km/h",
+                "video": {
+                    "vid": "v0301eg10000c4cvtobc77u3jd8l0o2g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/1fd9e2b5df9740d68550ff6b7934bdf3~tplv-resize:640:0.png?x-expires=1660804508&x-signature=hz6PQmkPPpMN%2Fh0Qy7PGusXhf0g%3D",
+                    "duration": 130.155,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799125616&video_id=v0301eg10000c4cvtobc77u3jd8l0o2g&cover_url=tos-cn-i-0000%2F1fd9e2b5df9740d68550ff6b7934bdf3",
+                    "group_id": 6996902558291755528
+                }
+            },
+            {
+                "series_id": 146,
+                "series_name": "宝马5系",
+                "car_id": 46770,
+                "car_name": "2021款 530Li 领先型 M运动套装",
+                "eval_id": 1831,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "2021款530Li整体调校更偏向舒适性，软绵的悬架并没有降低5系的运动属性，最佳圈速01:23.66，同级圈速成绩位于前排，赛道测试整体表现出色。530Li于赛道中最大优点就是连贯顺畅，动力充足线性，变速箱工作高效，出弯动力衔接顺畅，530Li操控性能调校均衡，悬架初段虽软，但压缩之后后段的支撑力充足，虽然向舒适有所妥协，但宝马5系依然是同级别标杆，在驾乘舒适与运动性能之间找到独有的平衡点。",
+                "data": "1:23.66s",
+                "data_more": "150.7km/h",
+                "video": {
+                    "vid": "v0201e620000bv9enopd5clte0lemdbg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/9e3ba8936ff1619bf6d79095653dd76f~tplv-resize:640:0.png?x-expires=1660804508&x-signature=gDdFQdpNjq4sCRHq2g2QUX%2BmPEU%3D",
+                    "duration": 119.445,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800637200&video_id=v0201e620000bv9enopd5clte0lemdbg&cover_url=tos-cn-p-0030%2F9e3ba8936ff1619bf6d79095653dd76f",
+                    "group_id": 6926774727008649736
+                }
+            },
+            {
+                "series_id": 393,
+                "series_name": "朗逸",
+                "car_id": 48109,
+                "car_name": "2021款 1.5L 自动舒适版",
+                "eval_id": 1889,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "上汽大众朗逸2021款1.5L车型动力看似最大短板，账面数据最大功率113马力，最大扭矩145牛米，但发动机与变速箱配合高效，赛道实测中懂车帝赛道长直线最大加速度还是达到了0.216g，日常驾驶轻松，轻盈感良好，在初段加速时动力不会成为明显的短板表现；最可惜的是电子稳定系统会频繁介入，尽管朗逸1.5L车型底盘极限非常高，转向过度的设定充满驾驶乐趣，但电控介入后对弯道速度产生巨大影响。朗逸1.5L最佳圈速01:33.12，赛道测试整体表现不佳。",
+                "data": "1:33.12s",
+                "data_more": "131.25km/h",
+                "video": {
+                    "vid": "v0201e8e0000bvlggg2slb72ips69280",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/78ec60ec3f734b018ab2a04ec3d2c296~tplv-resize:640:0.png?x-expires=1660804508&x-signature=XsldXwnPgQJVwH9e%2Fgs1F4RpUG8%3D",
+                    "duration": 132.437,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804275904&video_id=v0201e8e0000bvlggg2slb72ips69280&cover_url=tos-cn-i-0000%2F78ec60ec3f734b018ab2a04ec3d2c296",
+                    "group_id": 6926774307691495950
+                }
+            },
+            {
+                "series_id": 398,
+                "series_name": "帕萨特",
+                "car_id": 55691,
+                "car_name": "2022款 330TSI 星空尊贵版",
+                "eval_id": 2455,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "上汽大众2022款帕萨特330TSI定位中型车，星空尊贵版外观十分年轻化，不仅外观动感，赛道测试同样表现出色。帕萨特转向虚位较大，但操控精准度出色，对转向的响应迅速，路感十分清晰，赛道测试车辆动态变化的感知非常直接，但帕萨特在懂车帝下坡弯道还有高速弯入弯时，稍有转向不足趋势。2022款帕萨特的电子稳定系统不能完全关闭，选择TCS关闭后，车辆出现大幅度侧滑时电控会果断介入，瞬间降速明显，虽然电控介入不频繁，但对高速弯弯中速度和出弯动力衔接产生影响。2022款帕萨特330TSI最佳圈速1:25.94，整体表现良好。",
+                "data": "1:25.94s",
+                "data_more": "141.44km/h",
+                "video": {
+                    "vid": "v0201eg10000c4qsg0rc77u1je78sl80",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/98a141e908892fca8cdba574d0f3b0d2~tplv-resize:640:0.png?x-expires=1660804508&x-signature=x3fmrzvg88uRmuevi83oT3QaQc0%3D",
+                    "duration": 130.283,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804369856&video_id=v0201eg10000c4qsg0rc77u1je78sl80&cover_url=tos-cn-p-0030%2F98a141e908892fca8cdba574d0f3b0d2",
+                    "group_id": 7004723819906777613
+                }
+            },
+            {
+                "series_id": 3736,
+                "series_name": "凯迪拉克CT5",
+                "car_id": 53799,
+                "car_name": "2021款 28T 尊贵型",
+                "eval_id": 2512,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "2021款凯迪拉克CT5 28T车型在场地积水较严重条件下最佳圈速01:22.78s，对比老款车型圈速提升明显，整体表现强势。对比测试数据，2021款CT5每通过弯角便可与老款车型拉开秒差，由于右右组合弯道横向积水必须减速，老款车型在此扳平劣势，但随后三段直线与高速弯通过之后，新款CT5最终拉开1.47S的秒差。2021款CT5操控性能表现出色，遇到积水产生侧滑后已完全关闭的电子稳定系统不会再进行干预，反打修正过程十分顺畅。场地条件受限并没有阻止CT5圈速的提升，赛道测试整体表现优秀。",
+                "data": "1:22.78s",
+                "data_more": "143.31km/h",
+                "video": {
+                    "vid": "v0301eg10000c584fvrc77u79mkn82og",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/6e5d6567bd4846398624770faf1ff115~tplv-resize:640:0.png?x-expires=1660804508&x-signature=LhgBSo28aJUkbgqsgxjaIgnDdpY%3D",
+                    "duration": 133.717,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804373600&video_id=v0301eg10000c584fvrc77u79mkn82og&cover_url=tos-cn-i-0000%2F6e5d6567bd4846398624770faf1ff115",
+                    "group_id": 7012183926236381703
+                }
+            },
+            {
+                "series_id": 3476,
+                "series_name": "星瑞",
+                "car_id": 49678,
+                "car_name": "2020款 2.0T 尊贵型",
+                "eval_id": 2523,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "2020款吉利星瑞2.0T尊贵型在懂车帝赛道成绩较之前测试车型有所提升，出于行车安全考虑，星瑞的电子稳定系统不能关闭，虽然介入力度不大，但在赛道测试中电子稳定系统的频繁介入掩盖了星瑞不错的机械素质，频繁介入的同时也影响到了制动系统，半个飞行圈制动系统出现了明显的制动热衰退现象；星瑞充满设计感，日常代步舒适，但并不适合暴躁驾驶，模糊的动态表现和极容易衰减的刹车系统严重影响星瑞的圈速表现，2020款吉利星瑞2.0T尊贵型最佳圈速01:28.84，赛道测试整体表现良好。",
+                "data": "1:28.84s",
+                "data_more": "140.46km/h",
+                "video": {
+                    "vid": "v0d01eg10000c59dfnbc77ubj9k8kpgg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/29f4a83ce5f255149ae9f2c0cd6b1078~tplv-resize:640:0.png?x-expires=1660804508&x-signature=MJwV2DyKBv0v43biZs0ROLydVaU%3D",
+                    "duration": 129.4,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804675808&video_id=v0d01eg10000c59dfnbc77ubj9k8kpgg&cover_url=tos-cn-p-0030%2F29f4a83ce5f255149ae9f2c0cd6b1078",
+                    "group_id": 7012906025749611045
+                }
+            },
+            {
+                "series_id": 214,
+                "series_name": "奔驰E级",
+                "car_id": 52115,
+                "car_name": "2021款 改款 E 260 L 轿车",
+                "eval_id": 2534,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "2021款北京奔驰改款E260L车型整体调校偏向于舒适性，实测最佳圈速01:27.71s，属同级上游水准，整体表现良好。改款E260L动力响应迅速，变速箱工作高效，赛道实测整体顺畅度表现亮眼；出于行车安全考虑，E260L的电子稳定系统在察觉到极限状态会果断介入，起到了良好的辅助作用；较软的悬架设定，依然给改款E260L车型在赛道实测中带来困扰，当车辆高速通过高耸的路肩时，车辆出现明显的弹跳现象，快速驶入高速弯，车尾也有明显后塌的现象。E260L明显偏向舒适的设定更多考虑日常代步使用场景，但在实测过程中，依然表现出不错的操控性能，最终圈速达到同级前排水准。",
+                "data": "01:26.71s",
+                "data_more": "140.60km/h",
+                "video": {
+                    "vid": "v0d01eg10000c5aq18bc77ubj9kobnf0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/9add74dec430483c996e74f00148d34b~tplv-resize:640:0.png?x-expires=1660804508&x-signature=Zc77wqG0NLx5tWo5g2vE4QzZV5U%3D",
+                    "duration": 130.197,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802102240&video_id=v0d01eg10000c5aq18bc77ubj9kobnf0&cover_url=tos-cn-i-0000%2F9add74dec430483c996e74f00148d34b",
+                    "group_id": 7013688659907985956
+                }
+            },
+            {
+                "series_id": 276,
+                "series_name": "思域",
+                "car_id": 56409,
+                "car_name": "2022款 240TURBO CVT劲动版",
+                "eval_id": 2494,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "本田思域2022款 240TURBO CVT低配基本型圈速成绩较之前测试的上一代三厢版本提升了1.68秒，新车底盘极限更高，而且经过多个飞行圈之后未出现明显的制动热衰退现象，整体机械素质提升明显。新思域的电子稳定系统可给予驾驶者更高的自由度，不再轻易干预，新车车尾灵活性有了大幅提升，过弯十分顺畅。赛道测试新思域整体驾控感较老款提升变化明显，由于低配车型16寸轮胎抓地力较差，新思域在高尾速情况下制动距离较长，即便如此，低配版新思域最佳圈速01:25.90，已是同级标杆水准，赛道测试整体表现优秀。",
+                "data": "1:25.90s",
+                "data_more": "140.29km/h",
+                "video": {
+                    "vid": "v0201eg10000c559jcjc77ub14akktn0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/7ae500a9151c4d8382a199aab416e1cd~tplv-resize:640:0.png?x-expires=1660804508&x-signature=ii80Qscp9TknqrNrvv%2FYJ0VQ428%3D",
+                    "duration": 146.837,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802273744&video_id=v0201eg10000c559jcjc77ub14akktn0&cover_url=tos-cn-i-0000%2F7ae500a9151c4d8382a199aab416e1cd",
+                    "group_id": 7010584810452353566
+                }
+            },
+            {
+                "series_id": 4363,
+                "series_name": "Model Y",
+                "car_id": 54996,
+                "car_name": "2021款 标准续航后轮驱动版",
+                "eval_id": 2790,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "特斯拉Model Y 2021款标准续航版后驱车型整体调校偏向于舒适性，适合用来短途代步使用，紧凑感出色，拥有上乘的驾驶质感。该车驾驶轻盈感出色，动力响应快，推背感明显，日常代步或中途超车动力表现绰绰有余，激烈驾驶需适应该车的转向角度，较小的转向动作都会对车辆行驶重心产生影响。特斯拉Model Y标准续航后驱版车型赛道实测最佳圈速01:24.96s，属同级中上水准，整体表现出色。",
+                "data": "1:24.96s",
+                "data_more": "151.77km/h",
+                "video": {
+                    "vid": "v0301eg10000c7d4p7bc77u8kkh8ih10",
+                    "cover": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/7ce12bf7a38346568990a92977241f73~tplv-resize:640:0.png",
+                    "duration": 128.363,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802473760&video_id=v0301eg10000c7d4p7bc77u8kkh8ih10&cover_url=tos-cn-i-0000c0030%2F7ce12bf7a38346568990a92977241f73",
+                    "group_id": 7051040865862730254
+                }
+            },
+            {
+                "series_id": 5288,
+                "series_name": "长安UNI-V",
+                "car_id": 71919,
+                "car_name": "2022款 1.5T 尊贵型",
+                "eval_id": 2863,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "长安UNI-V赛道实测最佳圈速为01:24.47s,大幅领先于本田思域、广汽传祺影豹等同级车型。UNI-V装配的MC6轮胎规格为235/45 R18，宽大的轮胎保证了抓地性能，弯道表现非常出色；选择SUPER RACE模式后，ESC可以选择关闭，而当车辆出现大幅度侧滑后，车身稳定系统依然会介入，极限驾驶UNI-V出弯时要耐心控制加速踏板，以防侧滑出现影响出弯速度。UNI-V出色的加速能力和制动性能延续到了赛道中，赛道驾驶流畅度高，机械极限高，赛道测试整体表现出色。",
+                "data": "1:24.47s",
+                "data_more": "142.21km/h",
+                "video": {
+                    "vid": "v0301eg10000c9mfu3bc77u9ksjhblf0",
+                    "cover": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000c0030/a7506a2065f942698d7ab64f7c76c8dd~tplv-resize:640:0.png",
+                    "duration": 220.864,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816074144&video_id=v0301eg10000c9mfu3bc77u9ksjhblf0&cover_url=tos-cn-i-0000c0030%2Fa7506a2065f942698d7ab64f7c76c8dd",
+                    "group_id": 7092325528052466189
+                }
+            },
+            {
+                "series_id": 280,
+                "series_name": "本田CR-V",
+                "car_id": 46623,
+                "car_name": "2021款 锐·混动 2.0L 四驱净享版",
+                "eval_id": 2136,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "2021款东风本田CR-V锐·混动在赛道测试中操控性能表现不错，抛开动力短板，高大车身的高重心并没有对操控产生影响，变速箱工作高效，出弯时动力衔接非常顺畅，电子稳定系统可完全关闭，最佳圈速1:33.72，动力较弱是影响圈速的最大因素。",
+                "data": "1:33.72s",
+                "data_more": "125.79km/h",
+                "video": {
+                    "vid": "v0301eg10000c321l69m0tke71imgn6g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/3b122152cf33d117ba490f7f9dcb8be6~tplv-resize:640:0.png?x-expires=1660804508&x-signature=SvTz7XvqSqFyVjXf2zKjVwMlfTw%3D",
+                    "duration": 138.923,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816391640&video_id=v0301eg10000c321l69m0tke71imgn6g&cover_url=tos-cn-p-0030%2F3b122152cf33d117ba490f7f9dcb8be6",
+                    "group_id": 6972986856665317902
+                }
+            },
+            {
+                "series_id": 1145,
+                "series_name": "轩逸",
+                "car_id": 48028,
+                "car_name": "2021款 1.6L XL CVT悦享版",
+                "eval_id": 2536,
+                "eval_type": 2,
+                "outter_eval_type": 4,
+                "description": "日产轩逸1.6L车型动力表现较差，轻盈感虽然不错，日常代步驾驶轻松，但加速能力很差，发动机噪音很大；出弯之后的动力衔接不够顺畅，迟滞感十分明显；轩逸底盘极限较高，设定更偏向于转向过度，但轩逸的车尾总是突然滑动，很容易在弯中发生明显的重心变化从而影响弯速。轩逸1.6L车型最佳圈速1:34.81，赛道测试整体表现不佳。",
+                "data": "1:34.81s",
+                "data_more": "127.82km/h",
+                "video": {
+                    "vid": "v0301eg10000c5ar7kjc77u3022ucpj0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/fb31aa9af1094d5fab487548f05117c9~tplv-resize:640:0.png?x-expires=1660804508&x-signature=cRuyfomZud7t7X8RF%2FYKvxz0HfY%3D",
+                    "duration": 140.843,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816647560&video_id=v0301eg10000c5ar7kjc77u3022ucpj0&cover_url=tos-cn-i-0000%2Ffb31aa9af1094d5fab487548f05117c9",
+                    "group_id": 7013709180787753485
+                }
+            }
+        ],
+        "xia_ji_xu_hang": [
+            {
+                "series_id": 4300,
+                "series_name": "汉EV",
+                "car_id": 45670,
+                "car_name": "2020款 超长续航版尊贵型",
+                "eval_id": 2336,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "续航扎实，里程相当长，电耗控制合理，但是电量50%以下续航的预估不够精准。",
+                "data": "526.1km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c43ol8bc77ubia5eehj0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/f7d50fb06ec26c67a0c8f5685246d175~tplv-resize:640:0.png?x-expires=1660804508&x-signature=wDm1DXTXYkExW1%2BERBqvYuCSDsA%3D",
+                    "duration": 96,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800414880&video_id=v0d01eg10000c4dlamjc77u7qc6qf2tg&cover_url=tos-cn-i-0000%2F7c01c9d7ca1f494e9786af87ef4b54a7",
+                    "group_id": 6991708665656934920
+                }
+            },
+            {
+                "series_id": 4363,
+                "series_name": "Model Y",
+                "car_id": 54996,
+                "car_name": "2021款 标准续航后轮驱动版",
+                "eval_id": 2490,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "续航达成率不够理想，但高速能耗控制较好。",
+                "data": "416.4km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c52pskjc77u6c0b7k660",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/277a135f26d461f95fc133d096cd2390~tplv-resize:640:0.png?x-expires=1660804508&x-signature=VcvyjFUgOiJ0rJE%2BPJTYFDfyWtA%3D",
+                    "duration": 92.288,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824802469920&video_id=v0d01eg10000c52pqsrc77u8go7ni770&cover_url=tos-cn-i-0000%2Fe500a80877a04d39ab7fd148354fa705",
+                    "group_id": 7009182482721456677
+                }
+            },
+            {
+                "series_id": 3762,
+                "series_name": "Model 3",
+                "car_id": 50885,
+                "car_name": "2021款 标准续航后驱升级版",
+                "eval_id": 2239,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "不到400的实际续航算是平均水准，但是毕竟电池容量只有54度，能耗，特别是高速能耗称得上出色。",
+                "data": "373.9km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c3qktebc77u5epof8hlg",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/40e1149c142eee5c3850077d4ce1c9fd~tplv-resize:640:0.png?x-expires=1660804508&x-signature=6GquJZ8VWS7%2FEZ8Wqx39LSbedPg%3D",
+                    "duration": 92.117,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824813343568&video_id=v0201eg10000c3qkr23c77ue1p9i6acg&cover_url=tos-cn-i-0000%2F9ad4620e4b7e4ac19aba3b7f806c1fff",
+                    "group_id": 6986717419427332638
+                }
+            },
+            {
+                "series_id": 5015,
+                "series_name": "ZEEKR 001",
+                "car_id": 52697,
+                "car_name": "2021款 超长续航双电机 YOU版",
+                "eval_id": 2638,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "续航有竞争力，但考虑到电池容量有100度，达成率没有惊喜，拥堵和高速路段的能耗较高",
+                "data": "519.7km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c85287bc77ucvh5gth3g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/31e4efbe8d761fa7282605b009cbedd8~tplv-resize:640:0.png?x-expires=1660804508&x-signature=5AJsQtClfxfX4LwLGdN4Uhd34DY%3D",
+                    "duration": 99.648,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824809961600&video_id=v0d01eg10000c8526vjc77u43nlfajm0&cover_url=tos-cn-i-0000%2F6cf4ab505f3242eb82a41129d46c810f",
+                    "group_id": 7064498793667920392
+                }
+            },
+            {
+                "series_id": 5008,
+                "series_name": "海豚",
+                "car_id": 55736,
+                "car_name": "2021款 时尚版",
+                "eval_id": 2554,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "综合能耗较低，续航达成率较高，希望后期能增加容量更大的电池版本来增加续航。",
+                "data": "375.2km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5l42brc77u801qha6gg",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/f9672151187f63813f73992fb44fdb26~tplv-resize:640:0.png?x-expires=1660804508&x-signature=jWg7PcQ8tTMrgsKQSyrP9JyHp8Q%3D",
+                    "duration": 95.125,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824807286944&video_id=v0301eg10000c5l3t0bc77ue6pti74m0&cover_url=tos-cn-i-0000%2F99d02e1d05dc4de887318c692f3c4cc3",
+                    "group_id": 7019494747030995469
+                }
+            },
+            {
+                "series_id": 4499,
+                "series_name": "五菱宏光MINIEV",
+                "car_id": 52565,
+                "car_name": "2021款 马卡龙时尚款 磷酸铁锂",
+                "eval_id": 2368,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "虽然续航短，但达成率够高，能耗也非常低。不过低电量的电池监测不准确，日常驾驶需要注意。",
+                "data": "108.4km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c4d3vhrc77u85h3g4hpg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/4416d4ae7f5029b1ab44cdd0210beedf~tplv-resize:640:0.png?x-expires=1660804508&x-signature=O7eCflf%2Bi%2F6pQ0jHLBz6GTsA%2FOY%3D",
+                    "duration": 110.443,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824794970288&video_id=v0d01eg10000c4d42kjc77u5b4hkf1m0&cover_url=tos-cn-i-0000%2F9a7973790d724372a06aa7fac1847f50",
+                    "group_id": 6996974938783547934
+                }
+            },
+            {
+                "series_id": 3352,
+                "series_name": "小鹏汽车P7",
+                "car_id": 52061,
+                "car_name": "2021款 480N",
+                "eval_id": 2556,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "实测续航刚刚突破400公里大关，续航还算扎实，但还有进步空间。",
+                "data": "400.2km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c86uq3rc77u0p1m1rjr0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-i-0000/1fe6561e8beb46fe9c997bd297ba9b20~tplv-resize:640:0.png?x-expires=1660804508&x-signature=xmPUD8EikwGatt3nmdzSRumqRQc%3D",
+                    "duration": 93.76,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824645942480&video_id=v0301eg10000c86um2rc77ubhdlkjadg&cover_url=tos-cn-i-0000%2Fddfe479ebd5e4c53835ce8d219673e93",
+                    "group_id": 7065564287137415688
+                }
+            },
+            {
+                "series_id": 4586,
+                "series_name": "ID.4 CROZZ",
+                "car_id": 50578,
+                "car_name": "2021款 曜夜首发两驱版",
+                "eval_id": 2244,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "能耗控制合理，续航达成率高，预估准确，实际续航很够用。低电量下虽然动力受限，但依然能正常行驶。",
+                "data": "521.1km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c4acf4rc77u8tj3ge6og",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/6fb8176ede3f09a099fc1fb4aee884e1~tplv-resize:640:0.png?x-expires=1660804508&x-signature=8O6lvGyB0bWNmxZtOlb0ZsWF6bs%3D",
+                    "duration": 86.848,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824855257376&video_id=v0301eg10000c4ac073c77u49fn8d3ig&cover_url=tos-cn-i-0000%2F5b4b4659d4f54315b06a27f5bbafd72c",
+                    "group_id": 6995438986533585445
+                }
+            },
+            {
+                "series_id": 3077,
+                "series_name": "唐EV",
+                "car_id": 47765,
+                "car_name": "2021款 四驱高性能版创世旗舰型",
+                "eval_id": 2281,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "双电机在提升动力的同时对续航也影响明显，低速和高速的能耗都不低。测试时路况较为拥堵，续航里程受到一定影响，但保障日常出行不成问题。",
+                "data": "352.0km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c3s0ol3c77u9eatoadng",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/6cd6901f972a9bc4797089519243cf6b~tplv-resize:640:0.png?x-expires=1660804508&x-signature=KXMV2C%2FlpTTD3ySQqCwLZH%2FhX2U%3D",
+                    "duration": 103.957,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824792691888&video_id=v0d01eg10000c3rvn7bc77udnktahaig&cover_url=tos-cn-i-0000%2F100bac50b805434f88dc71b433aa823c",
+                    "group_id": 6987459562643194381
+                }
+            },
+            {
+                "series_id": 4258,
+                "series_name": "ID.4 X",
+                "car_id": 51294,
+                "car_name": "2021款 Pro 极智长续航版",
+                "eval_id": 2388,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "续航长，达成率高，能耗合理，低电量时动力无衰减，给驾驶者的信心强",
+                "data": "520.0km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c4kdbg3c77u4s69q7g2g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/43da14fa13adfb3537380ca3d879e1fa~tplv-resize:640:0.png?x-expires=1660804508&x-signature=jMgF3c9Mh5CjZDdD9Ks98IEqNoU%3D",
+                    "duration": 94.677,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824818251728&video_id=v0301eg10000c4kd2prc77ubnjp2moa0&cover_url=tos-cn-i-0000%2F00c5022a1a1f4a47959df54c38a18f3a",
+                    "group_id": 7001084078715879950
+                }
+            },
+            {
+                "series_id": 3101,
+                "series_name": "AION S",
+                "car_id": 54690,
+                "car_name": "2021款 Plus 80 超长续航版",
+                "eval_id": 2572,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "续航有一定竞争力，能耗合理，但是续航达成率还有一定的进步空间。",
+                "data": "527.0km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5nr8u3c77ubv4jb0cfg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/c44562f2210385ead80ba76b1aad9a99~tplv-resize:640:0.png?x-expires=1660804508&x-signature=fpvI8j2qu8UXGSHN7LPnoXITjdc%3D",
+                    "duration": 99.84,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824871841040&video_id=v0301eg10000c866ibrc77ue8p2h14p0&cover_url=tos-cn-i-0000%2F4cde61304a1e47a6b012312e2823a5d3",
+                    "group_id": 7021028869373215268
+                }
+            },
+            {
+                "series_id": 4814,
+                "series_name": "AION Y",
+                "car_id": 52658,
+                "car_name": "2021款 70 悦享科技版",
+                "eval_id": 2242,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "不到400公里的续航算是意料之中的表现，低速能耗控制得不错。低电量表现让人揪心，掉电不线性，“0”续航之后立即无法行驶。",
+                "data": "387.0km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c8upkbbc77ua6k60n0q0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/7e61fb6d513929dc832c36bfc98cd514~tplv-resize:640:0.png?x-expires=1660804508&x-signature=z6VDWMY2eWPic8UcmNmzyeFS94M%3D",
+                    "duration": 91.648,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824782861376&video_id=v0301eg10000c8upj7rc77u79jdklq30&cover_url=tos-cn-i-0000%2Fdc3dabc9664b492c95f5d4d34cd01663",
+                    "group_id": 7078983811366650399
+                }
+            },
+            {
+                "series_id": 4540,
+                "series_name": "宋PLUS EV",
+                "car_id": 52740,
+                "car_name": "2021款 旗舰型",
+                "eval_id": 2484,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "续航里程长，续航达成率超过100%，综合能耗不高。",
+                "data": "570.9km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c52ogbbc77u8eutp2mkg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/319999443262c8e631122d8e3aa185c2~tplv-resize:640:0.png?x-expires=1660804508&x-signature=mk2IRDbTyKZfKRkmY8ZK48o%2B1cQ%3D",
+                    "duration": 94.891,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824645266704&video_id=v0201eg10000c52o8urc77u80jmc5hc0&cover_url=tos-cn-i-0000%2F2bdf0e07cb06425db2de99c92f401343",
+                    "group_id": 7009157838845051405
+                }
+            },
+            {
+                "series_id": 2843,
+                "series_name": "蔚来ES6",
+                "car_id": 45355,
+                "car_name": "2020款 420KM 运动版",
+                "eval_id": 2344,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "续航里程并不长，但是标称数值相对保守，达成率反而很高。作为双电机四驱的中型SUV，能耗高也在意料之中。",
+                "data": "386.8km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c43nv93c77uai8m06lm0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/a38e314cec003018e8c1b7d10ec27205~tplv-resize:640:0.png?x-expires=1660804508&x-signature=JqSpvYC9BrqC3wS2WdlVXtDfU1k%3D",
+                    "duration": 91.051,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824775344288&video_id=v0301eg10000c86e6crc77u0jpif3g6g&cover_url=tos-cn-i-0000%2F557d4769b2c04035a0282cb1b39a37eb",
+                    "group_id": 6991698021159485960
+                }
+            },
+            {
+                "series_id": 4635,
+                "series_name": "欧拉好猫",
+                "car_id": 52334,
+                "car_name": "2021款 400km标准续航 雅典娜版 三元锂电池",
+                "eval_id": 2434,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "由于其电池电量不高，所以续航里程一般，夏季续航达成率还有提升空间",
+                "data": "346.5km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c86c3e3c77u2a9e1rscg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/c33c82c97cc85b66061d1e4bcecf25f2~tplv-resize:640:0.png?x-expires=1660804508&x-signature=6WmYMOzKDEmJlwKHzr2nlDKMO3M%3D",
+                    "duration": 100.8,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824807063472&video_id=v0d01eg10000c86c2g3c77u0p97vvjo0&cover_url=tos-cn-i-0000%2F94371d34dbe04ac5a0a3abbd3b35ded2",
+                    "group_id": 7065235334799344136
+                }
+            },
+            {
+                "series_id": 5004,
+                "series_name": "小鹏汽车P5",
+                "car_id": 55144,
+                "car_name": "2021款 600P",
+                "eval_id": 2471,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "续航里程长且续航达成率高，不过选装大轮辋降低了续航成绩。",
+                "data": "537.5km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c50cet3c77u3ije7iefg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/372b3ebc74b58aafd079b8d18daf4e55~tplv-resize:640:0.png?x-expires=1660804508&x-signature=TtJwM8aujxY8c%2Brp%2FFaIQ%2Fj76uM%3D",
+                    "duration": 97.173,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824796782624&video_id=v0301eg10000c50cc6rc77u579g8sjag&cover_url=tos-cn-i-0000%2Fbb12594a7b2b488eb51aa11772bc7e79",
+                    "group_id": 7007820626291655181
+                }
+            },
+            {
+                "series_id": 4899,
+                "series_name": "秦PLUS EV",
+                "car_id": 52911,
+                "car_name": "2021款 600KM 旗舰型",
+                "eval_id": 2306,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "夏季真实续航达成率不高，实际续航与标称续航有一定差距，车辆能耗控制还有提升空间",
+                "data": "443.7km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c4d4mfjc77u88h5phsjg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/c179ebcd551232891972016d944bd329~tplv-resize:640:0.png?x-expires=1660804508&x-signature=1ljY4FCTtToFmVrDwnqiwBRsFHo%3D",
+                    "duration": 100.48,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824740135312&video_id=v0301eg10000c4d4d9jc77u2q53s0as0&cover_url=tos-cn-i-0000%2F81411473d0f844f3a62f9eacf947207b",
+                    "group_id": 6996987850579427854
+                }
+            },
+            {
+                "series_id": 1101,
+                "series_name": "小蚂蚁",
+                "car_id": 52138,
+                "car_name": "2021款 15万蚁粉款 新蚁炫版 三元锂",
+                "eval_id": 2451,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "续航里程短，达成率高，但是低电量时动力受限比较严重，甚至必须关掉空调才能移动。",
+                "data": "295.5km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c4qqnj3c77u16kr731bg",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/51403eb2dae63d16e822d447d184d818~tplv-resize:640:0.png?x-expires=1660804508&x-signature=jdMU3qv9jwLmqpfIo%2FQK%2FHoc6us%3D",
+                    "duration": 140.053,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824811295792&video_id=v0d01eg10000c4qqm0rc77udil8p7fu0&cover_url=tos-cn-i-0000%2Fd84b41565ca447a5a381c0f360b72d07",
+                    "group_id": 7004700780628296223
+                }
+            },
+            {
+                "series_id": 4760,
+                "series_name": "岚图FREE",
+                "car_id": 52741,
+                "car_name": "2021款 四驱纯电版专属豪华套装",
+                "eval_id": 2457,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "实测续航和夏季续航达成率表现都不错，但是跟竞争对手相比，还有提升空间，尤其是在能耗的控制上还有优化的可能。",
+                "data": "415.8km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c4ri9v3c77u5m64na7f0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/0cac918ed8f0513eeb6e5774288f9a0b~tplv-resize:640:0.png?x-expires=1660804508&x-signature=HgJeE6Q4NKExhlgPSuiaMJlf6%2FU%3D",
+                    "duration": 102.123,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824726787056&video_id=v0301eg10000c4rhvt3c77u9oft1e8k0&cover_url=tos-cn-i-0000%2Ffa76c73e8ae24611b7ae7a8ce324fd06",
+                    "group_id": 7005107634856739335
+                }
+            },
+            {
+                "series_id": 3663,
+                "series_name": "Taycan",
+                "car_id": 46471,
+                "car_name": "2020款 Taycan",
+                "eval_id": 2421,
+                "eval_type": 8,
+                "outter_eval_type": 12,
+                "description": "实际续航距离并不长，但是夏季续航达成率相当高，能耗控制优秀",
+                "data": "433.0km",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c4kbij3c77u1shv6a220",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/99c8065ff39cbc262db57320753ff067~tplv-resize:640:0.png?x-expires=1660804508&x-signature=YTnGatyjaxtss5eiUACYrt%2FI5hs%3D",
+                    "duration": 113.493,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824751839440&video_id=v0d01eg10000c4kbgurc77u3dev6egug&cover_url=tos-cn-i-0000%2Fe5b072c786844a94822d56d8ddb1d56a",
+                    "group_id": 7001048214203990564
+                }
+            }
+        ],
+        "chai_che": [
+            {
+                "series_id": 145,
+                "series_name": "宝马3系",
+                "car_id": 48196,
+                "car_name": "2021款 325Li M运动套装",
+                "eval_id": 1932,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，宝马3系发动机技术先进，底盘结构优秀，细节用料扎实，车身用料也没什么问题，在我们拆过的车型属于非常优秀的车型。至于短板，车玻璃配置、车内线束包裹有待提升，国产版本覆盖件铝换钢有减配嫌疑，其它方面没有硬伤。",
+                "data": "4.4/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000capd8nrc77u4jn8odjr0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/00dbffeaf5bd6e407ec5540b6a99bc2f~tplv-resize:640:0.png?x-expires=1660804508&x-signature=YQ8grEAU3AVvR3E6Wt92YsRzegY%3D",
+                    "duration": 625.96,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824800640944&video_id=%!s(*string=0xc00fa5c060)&cover_url=tos-cn-p-0030%2F00dbffeaf5bd6e407ec5540b6a99bc2f",
+                    "group_id": 7111980915014205989
+                }
+            },
+            {
+                "series_id": 212,
+                "series_name": "奔驰C级",
+                "car_id": 48246,
+                "car_name": "2021款 C 260 L 运动版",
+                "eval_id": 1930,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，奔驰C全车的用料符合预期，底盘结构属于民用车中比较高级的一类，发动机技术先进性也不错。但相比于海外版，车身覆盖件从铝合金换为传统钢制，存在一定的减配嫌疑。另外，在车身材料强度测试取样的过程中，我们发现奔驰的车架内部有轻微浮锈，虽然短时间内不影响使用，但基础防锈工艺出现这样的问题实属不该。",
+                "data": "4.2/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c2bn6u7saj2v3hvp4r0g",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/588b10530adf4f2bb7018b9ef610f077~tplv-resize:640:0.png?x-expires=1660804508&x-signature=wLTgMSaHYiSTugmX8Eqa7ToquIk%3D",
+                    "duration": 558.037,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799463168&video_id=%!s(*string=0xc00679eb30)&cover_url=tos-cn-i-0000%2F588b10530adf4f2bb7018b9ef610f077",
+                    "group_id": 6960369624550539812
+                }
+            },
+            {
+                "series_id": 96,
+                "series_name": "奥迪A4L",
+                "car_id": 43994,
+                "car_name": "2020款 40 TFSI 豪华动感型",
+                "eval_id": 2034,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "奥迪A4L从拆解的维度来看，整体用料要比之前我们拆过的大众的车好不少，隔音材料、防撞梁的材料都有提升，但车门内部依然是没有隔音棉的。底盘的部分，奥迪A4L基本是普通民用车中的满配结构，前后均为五连杆悬架，并且前悬架五连杆均为铝合金材质，后悬架也有几根连杆采用铝合金材质，大量铝制部件的使用让A4L这套复杂的悬架结构并没有太沉，簧下质量的占比相对还是比较小的。发动机是EA888，技术先进性不错，整个结构跟之前大众用的EA888没什么区别。至于问题，A4L的漆面均匀程度确实比较差，跟认知中奥迪做工好这事儿有些背离。",
+                "data": "4.1/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c2bn6sqho6fpp31ub8eg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/0cff9da856484d6891c70debbf30459b~tplv-resize:640:0.png?x-expires=1660804508&x-signature=%2Bsk6eDU%2BRDH3kl0HAUz4Tg%2B6twQ%3D",
+                    "duration": 569.963,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824799946208&video_id=%!s(*string=0xc00f024650)&cover_url=tos-cn-i-0000%2F0cff9da856484d6891c70debbf30459b",
+                    "group_id": 6960370116362027528
+                }
+            },
+            {
+                "series_id": 393,
+                "series_name": "朗逸",
+                "car_id": 35183,
+                "car_name": "2019款 1.5L 自动舒适版 国VI",
+                "eval_id": 2006,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，朗逸这台车依然有非常浓的大众风格。虽然是国内特供车，但依托于大众成熟的MQB平台，整个在底盘设计基础工艺层面都没什么问题，这种入门合资品牌车型最大的优势基本就在这了。用料方面，朗逸跟之前拆过的很多大众车型一样，车门内部没有隔音棉，底盘隔音棉也是最基础的回收棉，全车止振板都是不太环保的沥青材质。像这种不怎么考验技术水准，单纯堆料的细节，朗逸表现就不太好了。在对发动机进行拆解的时候，我们发现这台1.5L发动机虽然也是EA211但整体技术水准跟1.4T版本要差不少，并且新车的轴瓦出现了比较明显的磨损，属于质量问题，希望产商在生产过程中品控再严格一些。",
+                "data": "3.3/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c2b44ho4lqmh73afdms0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/84300561078a4ea0a277b4fdab1f5076~tplv-resize:640:0.png?x-expires=1660804508&x-signature=Z99yMh%2FCX%2FnAAR8rhhHexg8wdHo%3D",
+                    "duration": 348.971,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804273728&video_id=%!s(*string=0xc00e6f1900)&cover_url=tos-cn-i-0000%2F84300561078a4ea0a277b4fdab1f5076",
+                    "group_id": 6960370240542769671
+                }
+            },
+            {
+                "series_id": 3476,
+                "series_name": "星瑞",
+                "car_id": 49678,
+                "car_name": "2020款 2.0T 尊贵型",
+                "eval_id": 2159,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，星瑞的整个做工用料都没有什么问题，符合预期。由于星瑞采用了CMA平台，整个底盘设计也挑不出毛病，底盘很平整，防护做的也不错。发动机直接搭载沃尔沃的2.0T发动机，实际马力达成率以及动力体验在这个价位的车型中都属上乘。唯一可以吐槽的细节就是，星瑞的后防撞梁的钢材用料比较弱，整个防护能力也算不上优秀。不过，在影响安全性的车身框架上，星瑞用料并不含糊，关键部位所用的钢材强度都比较高。整体来看，星瑞表现不错，配得上“国货之光”的名号。",
+                "data": "3.9/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c3aagkb8tbtd5obr34a0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/39301905739f4caf8dd7940aa8657667~tplv-resize:640:0.png?x-expires=1660804508&x-signature=7wkGV5etRT5aNU5C8fURIdB2O1E%3D",
+                    "duration": 553.4,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824804672640&video_id=%!s(*string=0xc00b4bbf70)&cover_url=tos-cn-i-0000%2F39301905739f4caf8dd7940aa8657667",
+                    "group_id": 6977736918410756621
+                }
+            },
+            {
+                "series_id": 280,
+                "series_name": "本田CR-V",
+                "car_id": 33392,
+                "car_name": "2019款 240TURBO CVT两驱舒适版 国VI",
+                "eval_id": 2010,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，本田CR-V的整体表现还可以，但并没有什么惊喜。在基础设计层面存在一些问题。比如说底盘，CR-V的整个底盘设计有些随意，平整度并不好，再加上护板面积小，给人的视觉观感比较差，不像是国际大厂的产品。另外还有个细节，虽然CR-V的发动机上写着VTEC TURBO，但实际拆开发动机之后，并没有看到可变气门升程的结构。",
+                "data": "2.9/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c2b7eq13minth4gnp7j0",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/0cdbde96852843418a30244fc4409548~tplv-resize:640:0.png?x-expires=1660804508&x-signature=LEP25fXsPAIxndBQn0oY0h3RD9c%3D",
+                    "duration": 371.68,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816389552&video_id=%!s(*string=0xc00ab68020)&cover_url=tos-cn-i-0000%2F0cdbde96852843418a30244fc4409548",
+                    "group_id": 6960370210058535455
+                }
+            },
+            {
+                "series_id": 1145,
+                "series_name": "轩逸",
+                "car_id": 48028,
+                "car_name": "2021款 1.6L XL CVT悦享版",
+                "eval_id": 1936,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，轩逸表现比较两级分化，相比于前代车型，这一代轩逸在基础防护以及车身用料上有明显的进步，但在细节处，依然能看出严格的成本控制，比如说泡沫塑料的底盘隔音棉材料，在我们测过的车型中，轩逸是独一份。除此之外，包裹不够完全的车内线束，非独立的后悬架，过软的漆面，相对一般的发动机技术以及后排座椅钢板的缺失，都让轩逸失分不少。总的来说，轩逸还是有比较大的进步空间。",
+                "data": "3.6/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c2b92kpqkt4rj05ehc20",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/1e9e5b1700a84f9a9db3c5276aa6378d~tplv-resize:640:0.png?x-expires=1660804508&x-signature=rM%2BWRWGontiHDSsEad98LyGHKss%3D",
+                    "duration": 653.52,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816643504&video_id=%!s(*string=0xc00ab695d0)&cover_url=tos-cn-i-0000%2F1e9e5b1700a84f9a9db3c5276aa6378d",
+                    "group_id": 6959999088293102117
+                }
+            },
+            {
+                "series_id": 414,
+                "series_name": "速腾",
+                "car_id": 49591,
+                "car_name": "2021款 280TSI DSG豪华智联版",
+                "eval_id": 2156,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，速腾跟之前我们拆过的很多大众车型十分类似，从结构设计以及工艺层面能看出大众集团非常深厚的造车功底，底盘非常平整，发动机技术也依然算先进，祖传的激光焊接、空腔注蜡也没有因为压缩成本而有所舍弃。但从用料维度来看，速腾各方面表现就比较一般了，车门内部没有隔音棉，沥青止振板也没有被替换，车内线束依然包裹不全。不过，有一说一，在车身材料强度测试的部分，速腾整体表现还是非常不错的，超越了我们的预期。",
+                "data": "3.6/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c3bbvt27ofba8b5l16g0",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-i-0000/f5eda6fc2f494c8a8d3f3533cd2e915d~tplv-resize:640:0.png?x-expires=1660804508&x-signature=xND46XNaR8qE4Jw9R61SRvI0iAs%3D",
+                    "duration": 606.037,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824817190736&video_id=%!s(*string=0xc0091667a0)&cover_url=tos-cn-i-0000%2Ff5eda6fc2f494c8a8d3f3533cd2e915d",
+                    "group_id": 6978182137677611550
+                }
+            },
+            {
+                "series_id": 404,
+                "series_name": "途观L",
+                "car_id": 34131,
+                "car_name": "2019款 330TSI 自动两驱风尚版 国V",
+                "eval_id": 1975,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "途观L从拆解的维度来看，整体表现中规中矩，跟同价位的自主品牌比，用料确实比较一般，跟进口版本也有一些差别。不过，好在整个平台非常成熟，做工水平也算上乘，从设计层面来看也没有什么硬伤。核心的动力总成部分，代号为EA888的这台2.0T发动机整体的先进程度也非常不错，该有的主流技术基本都有覆盖，在动力与油耗之间取到了一个很好的平衡，算是途观L一个非常大的卖点。",
+                "data": "3.8/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c2b936iphnararifg3bg",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/554a8b746641717070838434c3666c4c~tplv-resize:640:0.png?x-expires=1660804508&x-signature=Jf4HtK8bBFl6j4LzOaStjBfbcOo%3D",
+                    "duration": 435.157,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824816856304&video_id=%!s(*string=0xc00c1a8fb0)&cover_url=tos-cn-p-0030%2F554a8b746641717070838434c3666c4c",
+                    "group_id": 6960370626410316319
+                }
+            },
+            {
+                "series_id": 3196,
+                "series_name": "长安CS75 PLUS",
+                "car_id": 40115,
+                "car_name": "2020款 1.5T 自动精英型",
+                "eval_id": 1937,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，长安CS75 PLUS的优点在于车内细节做工以及用料还不错，车身钢材用料也很厚道。但防护能力基本可忽略的后防撞梁，车身内部结构件出现的锈迹，不太合理的底盘设计以及没有隔热处理的车玻璃让长安CS75 PLUS失分严重，希望厂商能够针对这几个细节做一下优化，提升综合产品力。",
+                "data": "2.9/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c2b93hshadipmdcp2t7g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/57dc0cb7081346eb9789f5b0e1efca5f~tplv-resize:640:0.png?x-expires=1660804508&x-signature=R0AODXQLXpMeeaIsiOlu0Onstjc%3D",
+                    "duration": 612.245,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824814009728&video_id=%!s(*string=0xc006def060)&cover_url=tos-cn-i-0000%2F57dc0cb7081346eb9789f5b0e1efca5f",
+                    "group_id": 6960369578182509069
+                }
+            },
+            {
+                "series_id": 542,
+                "series_name": "卡罗拉",
+                "car_id": 38830,
+                "car_name": "2019款 1.2T S-CVT GL先锋版",
+                "eval_id": 2007,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，卡罗拉整体表现比较常规，除了前铝合金防撞梁之外，全车用料方面都没什么惊喜，还是比较抠的。但不可否认的是，作为大厂产品，卡罗拉在不少方面优势还是很明显的。比如说底盘，平整度没问题，底盘防护做的也很全面，这一代车型还升级了后独立悬架。发动机虽然动力不强，但技术水准并不低。全车核心零部件都来自大厂，其中大部分来自丰田“自家”的电装，在影响整车品质的方面，丰田还是比较舍得下本的。",
+                "data": "3.7/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000capcqcrc77u1ftl19f10",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-p-0030/da424dc3b896b50d086c1cf1b712224c~tplv-resize:640:0.png?x-expires=1660804508&x-signature=IWw4Mxu3065E81oxelXs8XGRUQ8%3D",
+                    "duration": 408.68,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824810232112&video_id=%!s(*string=0xc00cff2b10)&cover_url=tos-cn-p-0030%2Fda424dc3b896b50d086c1cf1b712224c",
+                    "group_id": 7111973258295001637
+                }
+            },
+            {
+                "series_id": 546,
+                "series_name": "RAV4荣放",
+                "car_id": 53267,
+                "car_name": "2021款 2.0L CVT两驱都市版",
+                "eval_id": 2578,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，丰田荣放的产品成熟度表现不错，符合大厂该有的技术水准。比如防撞梁有着非常优秀的防护表现，乘员舱的钢材用料也十分厚道，发动机的技术水准不低，并且核心供应商还大都采用来自日本的国际一线品牌。但作为成本控制非常严格的丰田，我们还是能在细节部分看到荣放降低成本、提升利润率的选择。比如非常基础的悬架用料，低成本的隔音止振材料以及少的可怜的车内科技配置等。另外在拆解过程中，我们发现荣放的B柱出现了过早生锈的迹象，希望荣放在后续的车型中重视改进基础防锈工艺。",
+                "data": "4.1/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5r6ghbc77u7cuok542g",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/882e1fd3446a4c5ca9f0e7015fd6d6f7~tplv-resize:640:0.png?x-expires=1660804508&x-signature=1hagYYtuQnsaWicF2lPZvbQr0p4%3D",
+                    "duration": 603.051,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824814626272&video_id=%!s(*string=0xc00d16f540)&cover_url=tos-cn-i-0000%2F882e1fd3446a4c5ca9f0e7015fd6d6f7",
+                    "group_id": 7022916474444448263
+                }
+            },
+            {
+                "series_id": 649,
+                "series_name": "哈弗H6",
+                "car_id": 47836,
+                "car_name": "2021款 第三代 1.5GDIT 自动Pro版",
+                "eval_id": 1938,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，哈弗H6整体给人的感觉很不错，无论是整体设计还是用料都符合这个价位自主品牌车型应该有的水准，甚至在材料强度以及发动机技术方面还能带给我们一些惊喜。至于问题，底盘的防护以及平整度还有提升空间。另外，如今很多消费者比较在意的后排座椅钢板也有缺失，希望这些小问题能在后期改款的车型中做一下改进。",
+                "data": "3.9/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c2b7et2808f45injos3g",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-i-0000/9f5f7ddd163e47db803b4fc70c969818~tplv-resize:640:0.png?x-expires=1660804508&x-signature=OM4nr3KcI9OdSq%2FNWCCdEu3kooU%3D",
+                    "duration": 568.597,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824807490608&video_id=%!s(*string=0xc00b921780)&cover_url=tos-cn-i-0000%2F9f5f7ddd163e47db803b4fc70c969818",
+                    "group_id": 6960370232812651016
+                }
+            },
+            {
+                "series_id": 888,
+                "series_name": "雷克萨斯ES",
+                "car_id": 40271,
+                "car_name": "2020款 200 豪华版 国VI",
+                "eval_id": 1929,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "雷克萨斯ES这款车从拆解的维度来看表现一般，整车用料比较一般。全车隔音棉基本都是回收棉材质，底盘结构也非常常规，主要部件均为钢和铸铁，无论是对比同级对手还是参考其价格很难符合预期。不过，作为进口车，整车做工以及漆面喷涂质量是可以给好评的。",
+                "data": "4.0/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c2b5nn6l3qogrpid7hdg",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/7142338a19bc535ae1e0f25cbe129ef3~tplv-resize:640:0.png?x-expires=1660804508&x-signature=IG1uKx5zKp2xKp2K1m4iTTOTIQY%3D",
+                    "duration": 629.248,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824794466112&video_id=%!s(*string=0xc00b4e2ff0)&cover_url=tos-cn-p-0030%2F7142338a19bc535ae1e0f25cbe129ef3",
+                    "group_id": 6959999591605338654
+                }
+            },
+            {
+                "series_id": 1622,
+                "series_name": "领克01",
+                "car_id": 50201,
+                "car_name": "2021款 2.0TD 两驱型Pro",
+                "eval_id": 2227,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，领克01全车用料非常厚道，尤其是在隔音止振材料方面，可以说超越了我们对这个价位车型的认知。领克01采用CMA架构，底盘设计很平整，布局也合理，没什么问题。发动机采用沃尔沃同款，技术先进性也有不错的保证。整体来看，除了漆面均匀程度一般，后防撞梁覆盖铝以及边梁部分的材料强度略之外，领克01的综合表现非常不错，对标同价位合资对手，有非常强的竞争力。",
+                "data": "3.7/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c3huu0rc77u3d009g8i0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/2fb6b1d8929c48da9304d12050a4ef87~tplv-resize:640:0.png?x-expires=1660804508&x-signature=gAjC7sdL9M4zmssD2QyOiIT1FFY%3D",
+                    "duration": 593.643,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824808932304&video_id=%!s(*string=0xc00d149030)&cover_url=tos-cn-i-0000%2F2fb6b1d8929c48da9304d12050a4ef87",
+                    "group_id": 6984119598840857124
+                }
+            },
+            {
+                "series_id": 577,
+                "series_name": "福克斯",
+                "car_id": 38627,
+                "car_name": "2020款 两厢 EcoBoost 180 自动ST Line",
+                "eval_id": 2009,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆车的维度的来看，福克斯整车用料还是很不错的，虽然有着浓浓的德国血统，但依然符合我们对美国车用料厚道的认知，也完全对得起售价。我们拆解的这台1.5T三缸发动机虽然不太受待见，但从硬件维度来看，先进程度是没有问题的，常规技术该有的基本都有，还多了可变缸技术。至于待优化的点，由于全车底盘件均为钢或铸铁，簧下质量的占比比较大，如果用一些铝制部件，应当会有比较大的改观。",
+                "data": "4.0/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c2b92ve0dsib783q307g",
+                    "cover": "https://p3-dcd-sign.byteimg.com/tos-cn-p-0030/9604a122efd0d15e7fcc8c330b2fb12a~tplv-resize:640:0.png?x-expires=1660804508&x-signature=h%2FOZdmDE3No5ZQZhcusORwbZl6E%3D",
+                    "duration": 400.28,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824809415472&video_id=%!s(*string=0xc007122ef0)&cover_url=tos-cn-p-0030%2F9604a122efd0d15e7fcc8c330b2fb12a",
+                    "group_id": 6960370196980711966
+                }
+            },
+            {
+                "series_id": 4563,
+                "series_name": "哈弗大狗",
+                "car_id": 48006,
+                "car_name": "2021款 2.0T 中华田园犬版",
+                "eval_id": 2581,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，哈弗大狗的整体表现还是不错的，结构设计以及乘员舱用料表现都不逊于竞争对手，在隔音止振用料以及发动机技术先进性上的表现也不错，此外四驱结构中的后差速锁也能让车辆拥有更强的脱困能力。除此之外，大狗也存在部分问题，比如在底盘护板方面，大狗的整体覆盖面积比较小，许多消费者关心的后排座椅钢板在大狗上也没有配备等，希望在后续版本上，大狗能够针对此类问题进行优化改进。",
+                "data": "3.9/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0301eg10000c5r8p8bc77u2cfi93be0",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/a8e299d9e6fd4f6485b4c8d0614e219c~tplv-resize:640:0.png?x-expires=1660804508&x-signature=wCXricExJ8cIk63sjY%2FkaM6ezwo%3D",
+                    "duration": 566.827,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824811339488&video_id=%!s(*string=0xc00cd050c0)&cover_url=tos-cn-i-0000%2Fa8e299d9e6fd4f6485b4c8d0614e219c",
+                    "group_id": 7022955789685916197
+                }
+            },
+            {
+                "series_id": 1355,
+                "series_name": "迈锐宝XL",
+                "car_id": 47985,
+                "car_name": "2021款 535T 自动锐动版",
+                "eval_id": 1933,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，迈锐宝XL在用料还是可以的。同价位车型少见的铝合金防撞梁、全框式的副车架迈锐宝XL都有，底盘也是标准的前后独立悬架。车身材料强度测试之后，也没有什么问题，整体强度还不错。主要失分点在于底盘防护非常欠缺，发动机整体技术水准并不算太高。综合来看，参考迈锐宝XL的售价以及级别，整体表现还是符合预期的。",
+                "data": "3.6/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0201eg10000c2b5o5u0a2ft3lbbr1og",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-p-0030/39ce4fc1ed56f759b4ccb19359329ff0~tplv-resize:640:0.png?x-expires=1660804508&x-signature=0lX81NJrGb20aCLGXfgirJXehac%3D",
+                    "duration": 609.728,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824810551520&video_id=%!s(*string=0xc00d781010)&cover_url=tos-cn-p-0030%2F39ce4fc1ed56f759b4ccb19359329ff0",
+                    "group_id": 6959998966234645000
+                }
+            },
+            {
+                "series_id": 405,
+                "series_name": "途昂",
+                "car_id": 46988,
+                "car_name": "2020款 改款 330TSI 两驱舒适版",
+                "eval_id": 1935,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，途昂给人的感觉就是整车成熟度很高，底盘布置的很合理，车身工艺很成熟，发动机技术也非常先进，确实有大厂范儿。但在用料层面比较一般，比如说底盘部件，除了后轴承座都是钢和铸铁，轻量化表现比较差。车内细节上，车门内部没有隔音棉，底盘隔音棉也均为回收棉材质。不过，实测乘员舱的车身材料强度数据还是不错的，在这部分应当没有明显的减配。",
+                "data": "3.9/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c2b7f27saj2v3hvgglcg",
+                    "cover": "https://p9-dcd-sign.byteimg.com/tos-cn-i-0000/047d3525057c4eeca761f13bd9e34acd~tplv-resize:640:0.png?x-expires=1660804508&x-signature=PEnMkbOnULvXgeXZ%2Ba3PJ6at6x4%3D",
+                    "duration": 564.84,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824805806000&video_id=%!s(*string=0xc006693740)&cover_url=tos-cn-i-0000%2F047d3525057c4eeca761f13bd9e34acd",
+                    "group_id": 6959999088293085733
+                }
+            },
+            {
+                "series_id": 4079,
+                "series_name": "皓影",
+                "car_id": 51875,
+                "car_name": "2021款 240TURBO CVT两驱智享版",
+                "eval_id": 2479,
+                "eval_type": 4,
+                "outter_eval_type": 6,
+                "description": "从拆解的维度来看，本田皓影在许多方面的表现都比较平庸，没有特别突出的亮点，甚至在本田引以为傲的发动机部分，皓影也没有用上规格更高、技术更先进的机型。此外，在拆解测试后，我们发现皓影的车身结构用料非常差，钢材强度非常低，甚至还没有自家小弟飞度的用料更好，参考海外本田CR-V的车身材料强度图，皓影在这部分的减配嫌疑非常大，这也直接决定了皓影在实际碰撞中很难有出色的表现，不利于保护车内乘员。",
+                "data": "3.6/5",
+                "data_more": "",
+                "video": {
+                    "vid": "v0d01eg10000c5210nbc77ub38adtmig",
+                    "cover": "https://p6-dcd-sign.byteimg.com/tos-cn-i-0000/6a47e60bed7142129ea14145264adf99~tplv-resize:640:0.png?x-expires=1660804508&x-signature=0PTdfaetyYLR97POW6N71koKQMs%3D",
+                    "duration": 579.904,
+                    "open_url": "sslocal://car_eval_video_detail?group_id=824859431424&video_id=%!s(*string=0xc00c5587e0)&cover_url=tos-cn-i-0000%2F6a47e60bed7142129ea14145264adf99",
+                    "group_id": 7008745159881982472
+                }
+            }
+        ]
+    }
+}
