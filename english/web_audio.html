@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>微信公众号英文发声</title>
+    <style>
+        .pronounce-word {
+            color: blue;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>点击下面的英文单词发声</h1>
+    <p>点击这个 <span class="pronounce-word" data-word="example">example</span> 单词试试看。</p>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            let words = document.querySelectorAll('.pronounce-word');
+            words.forEach(function(word) {
+                word.addEventListener('click', function() {
+                    let text = word.getAttribute('data-word');
+                    if (text) {
+                        let utterance = new SpeechSynthesisUtterance(text);
+                        utterance.lang = 'en-US';
+                        window.speechSynthesis.speak(utterance);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
