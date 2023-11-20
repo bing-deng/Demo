@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="zh-CN" style="height: 100%">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style type="text/css">
+    .container {
+      box-sizing: border-box;
+      width: 100%;
+      height: 100%;
+      background-color: black;
+    }
+
+    .container-one {
+      box-sizing: border-box;
+      width: 100%;
+      height: 50%;
+      padding: 24px;
+    }
+
+    .container-title {
+      width: 100%;
+      height: 60px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .container-title-left {
+      font-size: 18px;
+      color: #fff;
+    }
+
+    .selectStyle {
+      font-size: 18px;
+      border: none;
+      background-color: transparent;
+      color: #fff;
+    }
+
+    .select-layout-show {
+      color: #fff;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      position: relative;
+    }
+
+    .select-layout-show img {
+      width: 18px;
+      height: 18px;
+      margin-left: 12px;
+    }
+
+    .container-title-right {
+      display: flex;
+      align-items: center;
+      color: #fff;
+    }
+
+    .realTime {
+      color: rgb(53, 53, 52);
+      font-size: 16px;
+      margin-right: 20px;
+      cursor: pointer;
+    }
+
+    .realTime-active {
+      color: #fff;
+      margin-right: 20px;
+    }
+
+    .container-two {
+      box-sizing: border-box;
+      width: 100%;
+      height: 50%;
+      padding: 24px;
+    }
+
+    .container-1-layout {
+      box-sizing: border-box;
+      width: 100%;
+      height: calc(100% - 60px);
+      border: 1px solid rgb(42, 43, 45);
+      border-radius: 16px;
+      padding: 12px;
+      background-color: rgb(15, 16, 18);
+    }
+
+    .explain-one,
+    .explain-two {
+      display: none;
+    }
+
+    .explain {
+      min-width: 120px;
+      border: 1px solid #042c43;
+      position: absolute;
+      border-radius: 5px;
+      /* background-color: #002540; */
+      background-color: rgb(15, 16, 18);
+      /* opacity: .7; */
+      display: none;
+      z-index: 11;
+      top: 30px;
+      right: 0;
+    }
+
+    .prompt {
+      width: 200px;
+      height: 75px;
+      border: 1px solid #042c43;
+      position: absolute;
+      border-radius: 5px;
+      background-color: #002540;
+      opacity: .9;
+      display: none;
+      z-index: 11;
+    }
+
+    .explain:before,
+    .prompt:before {
+      content: '';
+      width: 0;
+      height: 0;
+      border: 6px solid transparent;
+      position: absolute;
+      top: 12px;
+      border-right-color: #002540;
+      right: 30px;
+    }
+
+    .explain:before,
+    .prompt:after {
+      content: '';
+      width: 0;
+      height: 0;
+      border: 6px solid transparent;
+      position: absolute;
+      top: -12px;
+      border-bottom-color: #002540;
+      right: 30px;
+    }
+
+    .prompt>div {
+      width: 100%;
+      height: 25px;
+    }
+
+    .explain>div {
+      box-sizing: border-box;
+      width: 100%;
+      height: 30px;
+      padding: 0 10px;
+    }
+
+    .explain>div>span {
+      float: left;
+      height: 100%;
+      text-align: left;
+      font: normal 14px/30px "microsoft yahei";
+      /* color: #a0eafb; */
+      color: #fff;
+    }
+
+    .explain-one-show,
+    .explain-two-show {
+      display: block;
+    }
+  </style>
+</head>
+
+<body style="height: 100%; margin: 0">
+
+  <div class="container">
+    <div class="container-one">
+      <div class="container-title">
+        <div class="container-title-left">图谱分析</div>
+        <div class="container-title-right">
+          <div class="select-layout">
+            <div class="select-layout-show container-one-select">
+              <label>时域波形</label>
+              <img src="https://raw.githubusercontent.com/bing-deng/Demo/master/icon-down.png" alt="" />
+              <div class="explain explain-one">
+                <div data-id="1" data-name="时域波形" class="explain-one-item">
+                  <span>时域波形</span>
+                </div>
+                <div data-id="2" data-name="FFT" class="explain-one-item">
+                  <span>FFT</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="container" style="height: calc(100% - 40px)">
+      </div>
+    </div>
+
+    <div class="container-two">
+      <div class="container-title">
+        <div class="container-title-left">趋势分析</div>
+        <div class="container-title-right">
+          <div class="realTime">实时</div>
+          <div class="select-layout">
+            <div class="select-layout-show container-two-select">
+              <label></label>
+              <img src="https://raw.githubusercontent.com/bing-deng/Demo/master/icon-down.png" alt="" />
+              <div class="explain explain-two"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-1-layout">
+        <div id="container—1" style="height: 100%">
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <script type="text/javascript">
+      window.onload = function () {
+
+        // 获取url参数
+        const getQueryVariable = (variable) => {
+          let query = window.location.search.substring(1)
+          let vars = query.split('&')
+          for (let i = 0; i < vars.length; i++) {
+            let pair = vars[i].split('=')
+            if (pair[0] == variable) {
+              return pair[1]
+            }
+          }
+          return false
+        }
+
+        const baseUrl = 'http://59.46.139.10:9033';
+        const token = getQueryVariable('token') || 'eyJ0eXBlIjoiNCIsInRva2VuIjoiZjQ4MmZjYWEtY2Y2MS00Yjk0LTgzZmItNjhlYzAyMWE2ZmU4In0';
+        const deviceId = getQueryVariable('deviceId') || '284d7f80-d2ae-4079-8fef-86d5e0bebfb6';
+        const channelId = getQueryVariable('channelId') || '63fcfe4b-3ef6-4d1c-b025-96bc5635a95b';
+
+        const iconUp = 'https://raw.githubusercontent.com/bing-deng/Demo/master/icon-up.png'
+        const iconDown = 'https://raw.githubusercontent.com/bing-deng/Demo/master/icon-down.png'
+
+        const headers = {
+          'content-type': 'application/json',
+          'Access-Sll-Token': token,
+          'Access-Sll-Lang': 'zhcn'
+        }
+
+        const dom = document.getElementById('container');
+        const mainDom = document.getElementById('container—1');
+        const myChart = echarts.init(dom, null, { renderer: 'canvas', useDirtyRect: false });
+        const mainChart = echarts.init(mainDom, null, { renderer: 'canvas', useDirtyRect: false });
+
+        // 记录typeId
+        let _mdbTypeId = ''
+        // 记录sampleId
+        let _sampleId = ''
+        // 记录sampleTime
+        let _sampleTime = ''
+        // 记录时域波形/FFT
+        let atlasFlag = '1'
+
+        // 初始化
+        const handleInit = function () {
+          $.ajax({
+            url: `${baseUrl}/api/getMachineMdbTypeList/v1`,
+            cache: true,
+            async: true,
+            contentType: 'application/json',
+            headers,
+            dataType: "json",
+            data: { id: deviceId },
+            success: function (res) {
+              if (res) {
+                const { code, data } = res
+                if (code === 200) {
+                  formatType(data)
+                }
+              }
+            },
+            error: function () {
+              console.log('获取趋势类型失败');
+            }
+          });
+        }
+
+        // type渲染
+        const formatType = function (data) {
+          let str = ''
+          if (data && data.length > 0) {
+            for (let i = 0, j = data.length - 1; i < j; i++) {
+              str += `<div 
+                  data-id=${data[i].id} 
+                  data-name=${data[i].name} 
+                  class="explain-two-item"
+                >
+                  <span>${data[i].name}</span>
+                </div>`
+            }
+          }
+          $('.container-two-select > label').html(data[0].name)
+          $('.explain-two').html(str)
+          _mdbTypeId = data[0].id
+          handleIsRealTime(data[0].id)
+          handleGetChannelTrend(data[0].id)
+
+          $('.explain-two-item').click(function () {
+            const _this = $(this)
+            const _id = _this.data('id')
+            const _name = _this.data('name')
+            $('.container-two-select > label').html(_name)
+            $('.explain-two').addClass('explain-two-show')
+            _mdbTypeId = _id
+            handleIsRealTime(_id)
+            handleGetChannelTrend(_id)
+          })
+        }
+
+        // 判断是否实时
+        const handleIsRealTime = function (id) {
+          if (Number(id) === 0) {
+            $('.realTime').addClass('realTime-active')
+          } else {
+            $('.realTime').removeClass('realTime-active')
+          }
+        }
+
+        // 获取趋势数据
+        const handleGetChannelTrend = function (id) {
+          $.ajax({
+            url: `${baseUrl}/api/getChannelTrend0/v1`,
+            type: 'POST',
+            cache: true,
+            async: true,
+            'content-type': 'application/json',
+            headers,
+            dataType: "json",
+            data: JSON.stringify({
+              channelList: [
+                {
+                  channelId,
+                  sampleId: '',
+                },
+              ],
+              isRegRev: true,
+              mdbTypeId: Number(id),
+              count: 10,
+            }),
+            success: function (s) {
+              console.log('s', s)
+              const res = {
+                "code": 200,
+                "msg": "ok",
+                "data": {
+                  "channelList": [
+                    {
+                      "channelId": "c09d46f2-7905-4a30-9976-f7215dbeb48d",
+                      "revChannelId": "",
+                      "channelIndex": 1,
+                      "channelTag": "XI5246",
+                      "channelName": "增压机大齿轮键相位",
+                      "sampleWay": "om",
+                      "channelSortCode": "",
+                      "channeSortName": "",
+                      "channelTypeCode": "",
+                      "channelTypeName": "",
+                      "valueType": "",
+                      "decimalDigits": 0,
+                      "units": "RPM",
+                      "isWaveChannel": true,
+                      "isAlarmChannel": true,
+                      "alarmValueH": 1900.000000, // 高报 可能无该字段返回 黄色
+                      "alarmValueHH": 2000.000000, // 高高报 可能无该字段返回 红色
+                      "alarmValueL": 11.0, // 低报 可能无该字段返回 黄色
+                      "alarmValueLL": 22.0, // 低低报 可能无该字段返回 红色
+                      "minValue": 0.000000,
+                      "maxValue": 0.000000,
+                      "trendData": [
+                        {
+                          "sampleId": "9908",
+                          "sampleTime": 1700206732522,
+                          "sampleValue": 17.000000
+                        },
+                        {
+                          "sampleId": "9909",
+                          "sampleTime": 1700206733466,
+                          "sampleValue": 1786.000000
+                        }
+                      ]
+                    }
+                  ],
+                  "revChannelList": []
+                }
+              }
+              if (res) {
+                const { code, data } = res
+                if (code === 200) {
+                  const { channelList } = data
+                  const { alarmValueH, alarmValueHH, alarmValueL, alarmValueLL, units, trendData } = channelList[0] || {}
+                  let options = {
+                    alarmValueH,
+                    alarmValueHH,
+                    alarmValueL,
+                    alarmValueLL,
+                    units,
+                  }
+                  let _valueList = []
+                  let _dateList = []
+                  for (let i = 0; i < (trendData || []).length; i++) {
+                    if (i === ((trendData || []).length - 1)) {
+                      _sampleId = trendData[i].sampleId
+                      _sampleTime = trendData[i].sampleTime
+                    }
+                    _valueList.push(trendData[i].sampleValue)
+                    _dateList.push(trendData[i].sampleTime)
+                  }
+                  for (let i = 0; i < 30000; i++) {
+                    _valueList.push(Math.random() * 30)
+                    _dateList.push(Math.random() * (15 - 10) + 100)
+                  }
+                  options.valueList = _valueList
+                  options.dateList = _dateList
+                  handleChannelTrendRender(options)
+                }
+              }
+            },
+            error: function () {
+              console.log('获取趋势图数据失败');
+            }
+          });
+        }
+
+        // 趋势图渲染
+        const handleChannelTrendRender = function (options) {
+          console.log('options', options)
+          const { alarmValueH, alarmValueHH, alarmValueL, alarmValueLL, units, valueList, dateList } = options
+          const option = {
+            textStyle: {
+              fontSize: 14,
+              color: '#fff'
+            },
+            // 启用数据区域缩放
+            dataZoom: [{
+              // 支持滑动和缩放
+              type: 'inside',
+              start: 0,
+              // 显示数据的初始区域百分比
+              end: 10
+            }],
+            tooltip: { trigger: 'axis' },
+            grid: {
+              top: 30,
+              left: 40,
+              right: 40,
+              bottom: 30,
+            },
+
+            xAxis: {
+              type: 'category',
+              name: '',
+              offset: 0,
+              data: dateList,
+            },
+            yAxis: {
+              type: 'value',
+              name: units,
+              position: 'left',
+              offset: 0,
+
+            },
+            series: [{
+              type: 'line',
+              showSymbol: false,
+              data: valueList,
+              symbol: 'none',
+              markLine: {
+                data: [
+                  {
+                    symbol: ['none', 'none'],
+                    yAxis: alarmValueHH,
+                    lineStyle: {
+                      type: 'solid',
+                      width: 2,
+                      color: 'rgb(98, 34, 35)'
+                    },
+                    label: {
+                      position: 'insideEndBottom',
+                      color: 'rgb(98, 34, 35)',
+                      formatter: `高高报: ${alarmValueHH} `
+                    }
+                  },
+                  {
+                    symbol: ['none', 'none'],
+                    yAxis: alarmValueH,
+                    lineStyle: {
+                      width: 2,
+                      position: 'insideEndBottom',
+                    },
+                    label: {
+                      position: 'insideEndBottom',
+                      color: 'rgb(183, 171, 77)',
+                      formatter: `高报: ${alarmValueH} `
+                    }
+                  },
+                  {
+                    symbol: ['none', 'none'],
+                    symbolSize: 0,
+                    yAxis: alarmValueL,
+                    lineStyle: {
+                      width: 2,
+                      color: '#3CB371'
+                    },
+                    label: {
+                      color: '#3CB371',
+                      position: 'insideEndBottom',
+                      formatter: `低报: ${alarmValueL} `
+                    }
+                  },
+                  {
+                    symbol: ['none', 'none'],
+                    symbolSize: 0,
+                    yAxis: alarmValueLL,
+                    lineStyle: {
+                      type: 'solid',
+                      width: 2,
+                      color: '#8B4513',
+                    },
+                    label: {
+                      color: '#8B4513',
+                      position: 'insideEndBottom',
+                      formatter: `低低报: ${alarmValueLL} `
+                    }
+                  },
+                ]
+              }
+            }]
+          };
+          mainChart.setOption(option);
+          handleTransferAtlas();
+        }
+
+        // 获取图谱或FFT数据
+        const handleTransferAtlas = function () {
+          // 图谱Url
+          const atlasUrl = `${baseUrl}/api/getFun0101TimeDomain/v1`
+          // FFTUrl
+          const fftUrl = `${baseUrl}/api/getFun0201FFT/v1`
+          const params = {
+            channelList: [
+              {
+                channelId,
+                sampleId: _sampleId,
+                sampleTime: _sampleTime
+              }
+            ],
+            mdbSortId: 0,
+            mdbPositionId: '',
+            mdbTypeId: _mdbTypeId,
+          }
+
+          $.ajax({
+            url: Number(atlasFlag) === 1 ? atlasUrl : fftUrl,
+            type: 'POST',
+            cache: true,
+            async: true,
+            'content-type': 'application/json',
+            headers,
+            dataType: "json",
+            data: JSON.stringify(params),
+            success: function (res) {
+              if (res) {
+                const { code, data } = res
+                if (code === 200) {
+                  formatAtlas((data || [])[0])
+                }
+              }
+            },
+            error: function () {
+              console.log('获取图谱/FFT数据失败');
+            }
+          });
+        }
+
+        // 格式化图片/FFT数据
+        const formatAtlas = function (data) {
+          if (data) {
+            let _dateList = []
+            let _valueList = []
+            const { xStep, xUnits, yData, yUnits } = data
+            for (let i = 0; i < (yData || []).length - 1; i++) {
+              _dateList.push((i * xStep).toFixed(3))
+              _valueList.push(yData[i].toFixed(2))
+            }
+            const params = {
+              xUnits,
+              yUnits,
+              valueList: _valueList,
+              dateList: _dateList
+            }
+            handleAtlasRender(params)
+          }
+        }
+
+        // 图谱渲染
+        const handleAtlasRender = function (params) {
+          const { xUnits, yUnits, valueList, dateList } = params
+          const option = {
+            textStyle: {
+              fontSize: 14,
+              color: '#fff'
+            },
+            // 启用数据区域缩放
+            dataZoom: [{
+              // 支持滑动和缩放
+              type: 'inside',
+              start: 0,
+              // 显示数据的初始区域百分比
+              end: 10
+            }],
+            tooltip: { trigger: 'axis' },
+            grid: {
+              top: 40,
+              left: 40,
+              right: 40,
+              bottom: 40,
+            },
+            xAxis: {
+              name: xUnits,
+              offset: 0,
+              data: dateList,
+            },
+            yAxis: {
+              name: yUnits,
+              position: 'left',
+              offset: 0,
+            },
+            series: [{
+              type: 'line',
+              showSymbol: false,
+              data: valueList
+            }]
+          };
+          myChart.setOption(option);
+        }
+
+        handleInit()
+        window.addEventListener('resize', myChart.resize);
+        window.addEventListener('resize', mainChart.resize);
+
+        // 图谱下拉
+        $('.container-one-select').click(function () {
+          if ($('.explain-one-show').length !== 0) {
+            $('.container-one-select > img').attr('src', iconDown)
+            $('.explain-one').removeClass('explain-one-show')
+          } else {
+            $('.container-one-select > img').attr('src', iconUp)
+            $('.explain-one').addClass('explain-one-show')
+          }
+        })
+
+        // 图谱选择
+        $('.explain-one-item').click(function () {
+          const _this = $(this)
+          const _id = _this.data('id')
+          const _name = _this.data('name')
+          $('.container-one-select > label').html(_name)
+          $('.explain-one').addClass('explain-one-show')
+          atlasFlag = _id
+          handleTransferAtlas();
+        })
+
+        $('.realTime').click(function () {
+          if (_mdbTypeId === 0) {
+            return false
+          } else {
+            _mdbTypeId = 0
+            handleIsRealTime(0)
+            handleGetChannelTrend()
+            $('.container-two-select > label').html('实时库')
+          }
+        })
+
+        // 趋势下拉
+        $('.container-two-select').click(function () {
+          if ($('.explain-two-show').length !== 0) {
+            $('.container-two-select > img').attr('src', iconDown)
+            $('.explain-two').removeClass('explain-two-show')
+          } else {
+            $('.explain-two').addClass('explain-two-show')
+            $('.container-two-select > img').attr('src', iconUp)
+          }
+        })
+
+      }
+    </script>
+</body>
+
+</html>
