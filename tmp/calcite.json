@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "CUSTOMERCODE": "00000001",
+      "EMAIL": "uiiiiqad@qq.com",
+      "DOWNLOADFLAG": true
+    },
+    {
+      "CUSTOMERCODE": "00090011",
+      "EMAIL": "111123@123.com",
+      "DOWNLOADFLAG": true
+    }
+  ]
+}
