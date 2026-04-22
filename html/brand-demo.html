@@ -1,0 +1,1696 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>网站品牌化 · 完整演示</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Noto+Sans+SC:wght@300;400;500&family=Space+Mono&display=swap" rel="stylesheet">
+<style>
+  /* ─── CSS变量系统 · 品牌令牌 ─── */
+  :root {
+    --ink:       #0d0d0d;
+    --paper:     #f5f0e8;
+    --gold:      #c8a96e;
+    --rust:      #b84c2f;
+    --moss:      #3a5c3e;
+    --smoke:     #8a8880;
+    --accent:    #e8d5b0;
+    --gap-xs:    0.4rem;
+    --gap-sm:    0.8rem;
+    --gap-md:    1.6rem;
+    --gap-lg:    3.2rem;
+    --gap-xl:    6.4rem;
+    --radius:    2px;
+    --serif:     'Noto Serif SC', serif;
+    --sans:      'Noto Sans SC', sans-serif;
+    --mono:      'Space Mono', monospace;
+    --ease-out:  cubic-bezier(0.16, 1, 0.3, 1);
+    --ease-in:   cubic-bezier(0.7, 0, 0.84, 0);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-weight: 300;
+    line-height: 1.7;
+    cursor: none;
+    overflow-x: hidden;
+  }
+
+  /* ─── 自定义光标 ─── */
+  .cursor {
+    position: fixed;
+    width: 8px; height: 8px;
+    background: var(--rust);
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+    transition: transform 0.1s, width 0.3s var(--ease-out), height 0.3s var(--ease-out);
+    mix-blend-mode: multiply;
+  }
+  .cursor-ring {
+    position: fixed;
+    width: 32px; height: 32px;
+    border: 1px solid var(--gold);
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 9998;
+    transform: translate(-50%, -50%);
+    transition: transform 0.25s var(--ease-out), width 0.4s var(--ease-out), height 0.4s var(--ease-out), opacity 0.3s;
+    opacity: 0.6;
+  }
+  .cursor.hover { width: 16px; height: 16px; background: var(--gold); }
+  .cursor-ring.hover { width: 48px; height: 48px; opacity: 0.3; }
+
+  /* ─── SECTION 基础 ─── */
+  section {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+  }
+
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 var(--gap-lg);
+    width: 100%;
+  }
+
+  /* ═══════════════════════════════════════
+     导航 · 品牌标识
+  ═══════════════════════════════════════ */
+  nav {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    padding: var(--gap-md) var(--gap-lg);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    mix-blend-mode: multiply;
+  }
+
+  .logo {
+    font-family: var(--serif);
+    font-weight: 900;
+    font-size: 1.4rem;
+    letter-spacing: 0.12em;
+    color: var(--ink);
+    display: flex;
+    align-items: baseline;
+    gap: 0.3em;
+    text-decoration: none;
+  }
+  .logo-mark {
+    width: 28px; height: 28px;
+    background: var(--rust);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--paper);
+    font-size: 0.85rem;
+    font-weight: 900;
+    letter-spacing: 0;
+    flex-shrink: 0;
+    position: relative;
+    top: 3px;
+  }
+  .logo-mark::after {
+    content: '';
+    position: absolute;
+    inset: -3px;
+    border: 1px solid var(--rust);
+    opacity: 0.4;
+  }
+
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: var(--gap-lg);
+  }
+  nav a {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--smoke);
+    text-decoration: none;
+    transition: color 0.3s;
+    position: relative;
+  }
+  nav a::after {
+    content: '';
+    position: absolute;
+    bottom: -2px; left: 0;
+    width: 0; height: 1px;
+    background: var(--rust);
+    transition: width 0.4s var(--ease-out);
+  }
+  nav a:hover { color: var(--ink); }
+  nav a:hover::after { width: 100%; }
+
+  /* ═══════════════════════════════════════
+     S1 · 入场 · 品牌第一印象
+  ═══════════════════════════════════════ */
+  #hero {
+    background: var(--paper);
+    overflow: hidden;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+  .hero-bg-circle {
+    position: absolute;
+    border-radius: 50%;
+    opacity: 0.08;
+  }
+  .hbc1 {
+    width: 600px; height: 600px;
+    background: var(--rust);
+    top: -200px; right: -100px;
+    animation: breathe 8s ease-in-out infinite;
+  }
+  .hbc2 {
+    width: 400px; height: 400px;
+    background: var(--gold);
+    bottom: -100px; left: -100px;
+    animation: breathe 10s ease-in-out infinite reverse;
+  }
+  @keyframes breathe {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.08); }
+  }
+
+  /* 纸张纹理叠加 */
+  .hero-bg::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    opacity: 0.4;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    padding: var(--gap-xl) 0;
+  }
+
+  .hero-label {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--rust);
+    margin-bottom: var(--gap-md);
+    opacity: 0;
+    animation: fadeUp 0.8s var(--ease-out) 0.2s forwards;
+  }
+  .hero-label::before {
+    content: '—— ';
+    color: var(--gold);
+  }
+
+  h1 {
+    font-family: var(--serif);
+    font-weight: 900;
+    font-size: clamp(3.5rem, 8vw, 7rem);
+    line-height: 1.0;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    margin-bottom: var(--gap-md);
+  }
+  h1 em {
+    font-style: normal;
+    color: var(--rust);
+    position: relative;
+    display: inline-block;
+  }
+  h1 em::after {
+    content: '';
+    position: absolute;
+    bottom: 0.06em; left: 0; right: 0;
+    height: 0.06em;
+    background: var(--gold);
+    transform: scaleX(0);
+    transform-origin: left;
+    animation: lineReveal 0.8s var(--ease-out) 1s forwards;
+  }
+  @keyframes lineReveal { to { transform: scaleX(1); } }
+
+  .hero-sub {
+    font-family: var(--sans);
+    font-weight: 300;
+    font-size: 1.15rem;
+    color: var(--smoke);
+    max-width: 520px;
+    line-height: 1.9;
+    opacity: 0;
+    animation: fadeUp 0.8s var(--ease-out) 0.6s forwards;
+  }
+
+  .hero-cta {
+    margin-top: var(--gap-lg);
+    display: flex;
+    gap: var(--gap-md);
+    align-items: center;
+    opacity: 0;
+    animation: fadeUp 0.8s var(--ease-out) 0.9s forwards;
+  }
+
+  .btn-primary {
+    background: var(--ink);
+    color: var(--paper);
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 1em 2.4em;
+    border: none;
+    cursor: none;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    transition: color 0.4s;
+  }
+  .btn-primary::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--rust);
+    transform: translateX(-100%);
+    transition: transform 0.5s var(--ease-out);
+  }
+  .btn-primary:hover::before { transform: translateX(0); }
+  .btn-primary span { position: relative; z-index: 1; }
+
+  .btn-ghost {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    color: var(--smoke);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.6em;
+    transition: color 0.3s, gap 0.4s var(--ease-out);
+  }
+  .btn-ghost:hover { color: var(--ink); gap: 1.2em; }
+  .btn-ghost svg { width: 18px; height: 18px; }
+
+  /* 右侧大字装饰 */
+  .hero-deco {
+    position: absolute;
+    right: var(--gap-lg);
+    top: 50%;
+    transform: translateY(-50%) rotate(90deg);
+    transform-origin: center;
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.4em;
+    color: var(--accent);
+    text-transform: uppercase;
+    writing-mode: vertical-rl;
+    user-select: none;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ═══════════════════════════════════════
+     S2 · 品牌维度解析
+  ═══════════════════════════════════════ */
+  #dimensions {
+    background: var(--ink);
+    color: var(--paper);
+    padding: var(--gap-xl) 0;
+    min-height: auto;
+  }
+
+  .section-label {
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    margin-bottom: var(--gap-lg);
+    color: var(--gold);
+    display: flex;
+    align-items: center;
+    gap: var(--gap-sm);
+  }
+  .section-label::before {
+    content: '';
+    display: block;
+    width: 32px; height: 1px;
+    background: var(--gold);
+  }
+
+  .dim-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: #2a2a2a;
+    border: 1px solid #2a2a2a;
+  }
+
+  .dim-card {
+    background: var(--ink);
+    padding: var(--gap-lg);
+    position: relative;
+    overflow: hidden;
+    transition: background 0.4s;
+    cursor: none;
+  }
+  .dim-card:hover { background: #161616; }
+  .dim-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--gold);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.5s var(--ease-out);
+  }
+  .dim-card:hover::before { transform: scaleX(1); }
+
+  .dim-num {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    color: var(--smoke);
+    letter-spacing: 0.2em;
+    margin-bottom: var(--gap-sm);
+  }
+  .dim-icon {
+    font-size: 2rem;
+    margin-bottom: var(--gap-sm);
+    display: block;
+  }
+  .dim-title {
+    font-family: var(--serif);
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: var(--gap-sm);
+    color: var(--paper);
+  }
+  .dim-desc {
+    font-size: 0.88rem;
+    color: var(--smoke);
+    line-height: 1.8;
+  }
+  .dim-tags {
+    margin-top: var(--gap-md);
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gap-xs);
+  }
+  .tag {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.12em;
+    color: var(--gold);
+    border: 1px solid #2a2a2a;
+    padding: 0.3em 0.8em;
+  }
+
+  /* ═══════════════════════════════════════
+     S3 · 颜色系统演示
+  ═══════════════════════════════════════ */
+  #color-system {
+    padding: var(--gap-xl) 0;
+    min-height: auto;
+    background: var(--paper);
+  }
+
+  .color-demo-title {
+    font-family: var(--serif);
+    font-size: clamp(2rem, 4vw, 3.5rem);
+    font-weight: 900;
+    margin-bottom: var(--gap-lg);
+    line-height: 1.1;
+  }
+  .color-demo-title span {
+    -webkit-text-stroke: 2px var(--ink);
+    color: transparent;
+  }
+
+  .palette {
+    display: flex;
+    gap: 0;
+    height: 140px;
+    overflow: hidden;
+  }
+  .swatch {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: var(--gap-sm);
+    cursor: none;
+    transition: flex 0.6s var(--ease-out);
+    position: relative;
+    overflow: hidden;
+  }
+  .swatch:hover { flex: 3; }
+  .swatch-name {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.15em;
+    opacity: 0;
+    transition: opacity 0.3s;
+    mix-blend-mode: difference;
+    color: white;
+  }
+  .swatch:hover .swatch-name { opacity: 1; }
+  .swatch-hex {
+    font-family: var(--mono);
+    font-size: 0.55rem;
+    opacity: 0;
+    transition: opacity 0.3s 0.1s;
+    mix-blend-mode: difference;
+    color: white;
+  }
+  .swatch:hover .swatch-hex { opacity: 0.7; }
+
+  /* ═══════════════════════════════════════
+     S4 · 字体系统演示
+  ═══════════════════════════════════════ */
+  #type-system {
+    background: #f8f4ed;
+    padding: var(--gap-xl) 0;
+    min-height: auto;
+  }
+
+  .type-showcase {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--gap-xl);
+    align-items: start;
+  }
+  .type-specimen {
+    position: relative;
+  }
+  .type-meta {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    color: var(--smoke);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: var(--gap-sm);
+    padding-bottom: var(--gap-sm);
+    border-bottom: 1px solid var(--accent);
+  }
+  .type-large {
+    font-family: var(--serif);
+    font-size: clamp(4rem, 10vw, 9rem);
+    font-weight: 900;
+    line-height: 0.9;
+    letter-spacing: -0.03em;
+    color: var(--ink);
+  }
+  .type-body-demo {
+    font-family: var(--sans);
+    font-size: 1rem;
+    line-height: 1.9;
+    color: var(--smoke);
+    margin-top: var(--gap-md);
+  }
+
+  .spacing-demo {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .spacing-row {
+    display: flex;
+    align-items: center;
+    gap: var(--gap-md);
+    padding: var(--gap-sm) 0;
+    border-bottom: 1px solid var(--accent);
+  }
+  .spacing-bar {
+    background: var(--rust);
+    height: 4px;
+    transition: width 0.6s var(--ease-out);
+  }
+  .spacing-label {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    color: var(--smoke);
+    white-space: nowrap;
+    min-width: 60px;
+  }
+
+  /* ═══════════════════════════════════════
+     S5 · 动画 & 交互演示
+  ═══════════════════════════════════════ */
+  #animation-demo {
+    background: var(--ink);
+    padding: var(--gap-xl) 0;
+    min-height: auto;
+    color: var(--paper);
+    overflow: hidden;
+  }
+
+  .anim-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--gap-md);
+    margin-top: var(--gap-lg);
+  }
+  .anim-card {
+    background: #161616;
+    padding: var(--gap-lg) var(--gap-md);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--gap-md);
+    cursor: none;
+    position: relative;
+    overflow: hidden;
+  }
+  .anim-preview {
+    width: 64px; height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .anim-label {
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.15em;
+    color: var(--smoke);
+    text-align: center;
+  }
+
+  /* 动画1: 旋转 */
+  .spin-box {
+    width: 36px; height: 36px;
+    border: 2px solid var(--gold);
+    animation: spinAnim 3s linear infinite;
+  }
+  @keyframes spinAnim { to { transform: rotate(360deg); } }
+
+  /* 动画2: 脉冲 */
+  .pulse-dot {
+    width: 20px; height: 20px;
+    background: var(--rust);
+    border-radius: 50%;
+    animation: pulseAnim 2s ease-in-out infinite;
+  }
+  @keyframes pulseAnim {
+    0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(184,76,47,0.4); }
+    50% { transform: scale(1.15); box-shadow: 0 0 0 12px rgba(184,76,47,0); }
+  }
+
+  /* 动画3: 弹跳 */
+  .bounce-bar {
+    display: flex;
+    gap: 4px;
+    align-items: flex-end;
+    height: 36px;
+  }
+  .bounce-bar span {
+    width: 6px;
+    background: var(--gold);
+    animation: bounceBar 1.2s ease-in-out infinite;
+  }
+  .bounce-bar span:nth-child(1) { animation-delay: 0s; }
+  .bounce-bar span:nth-child(2) { animation-delay: 0.15s; }
+  .bounce-bar span:nth-child(3) { animation-delay: 0.3s; }
+  .bounce-bar span:nth-child(4) { animation-delay: 0.45s; }
+  @keyframes bounceBar {
+    0%, 100% { height: 8px; }
+    50% { height: 36px; }
+  }
+
+  /* 动画4: 打字 */
+  .type-cursor {
+    font-family: var(--mono);
+    font-size: 1.4rem;
+    color: var(--paper);
+    display: flex;
+    align-items: center;
+  }
+  .type-cursor::after {
+    content: '|';
+    color: var(--rust);
+    animation: blinkCursor 1s step-end infinite;
+  }
+  @keyframes blinkCursor { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+  /* ═══════════════════════════════════════
+     S6 · 声音品牌说明
+  ═══════════════════════════════════════ */
+  #sound-brand {
+    padding: var(--gap-xl) 0;
+    min-height: auto;
+    background: var(--paper);
+  }
+
+  .sound-visual {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    height: 80px;
+    margin: var(--gap-lg) 0;
+  }
+  .wave-bar {
+    width: 4px;
+    background: var(--rust);
+    border-radius: 2px;
+    transform-origin: bottom;
+    animation: waveAnim 1.5s ease-in-out infinite;
+  }
+  @keyframes waveAnim {
+    0%, 100% { transform: scaleY(0.2); opacity: 0.3; }
+    50% { transform: scaleY(1); opacity: 1; }
+  }
+
+  .sound-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--gap-sm);
+    background: none;
+    border: 1px solid var(--ink);
+    color: var(--ink);
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 0.8em 1.8em;
+    cursor: none;
+    transition: all 0.3s;
+  }
+  .sound-btn:hover {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .sound-btn.playing {
+    background: var(--rust);
+    border-color: var(--rust);
+    color: var(--paper);
+  }
+
+  .sound-types {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--gap-md);
+    margin-top: var(--gap-lg);
+  }
+  .sound-type {
+    padding: var(--gap-md);
+    border: 1px solid var(--accent);
+    cursor: none;
+    transition: border-color 0.3s, background 0.3s;
+  }
+  .sound-type:hover {
+    border-color: var(--rust);
+    background: rgba(200,169,110,0.05);
+  }
+  .sound-type-icon { font-size: 1.5rem; margin-bottom: var(--gap-sm); }
+  .sound-type-name {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 0.95rem;
+    margin-bottom: var(--gap-xs);
+  }
+  .sound-type-desc { font-size: 0.8rem; color: var(--smoke); }
+
+  /* ═══════════════════════════════════════
+     S7 · Before / After 对比
+  ═══════════════════════════════════════ */
+  #before-after {
+    background: #f0ebe1;
+    padding: var(--gap-xl) 0;
+    min-height: auto;
+  }
+
+  .compare-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--gap-lg);
+    margin-top: var(--gap-lg);
+  }
+  .compare-panel {
+    position: relative;
+    overflow: hidden;
+  }
+  .compare-panel-label {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    padding: var(--gap-sm) var(--gap-md);
+    margin-bottom: 0;
+  }
+  .label-before { background: #e0e0e0; color: #888; }
+  .label-after  { background: var(--rust); color: var(--paper); }
+
+  .mock-site {
+    padding: var(--gap-md);
+  }
+
+  /* Before mock */
+  .before-mock {
+    background: white;
+    font-family: Arial, sans-serif;
+  }
+  .before-nav {
+    background: #003399;
+    color: white;
+    padding: 10px 15px;
+    font-size: 13px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .before-hero {
+    background: #f5f5f5;
+    padding: 30px 20px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+  .before-hero h2 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  .before-hero p { font-size: 13px; color: #666; }
+  .before-btn {
+    background: #003399;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    font-size: 12px;
+    margin-top: 12px;
+    display: inline-block;
+    cursor: default;
+  }
+  .before-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 15px;
+    background: white;
+  }
+  .before-card {
+    border: 1px solid #ddd;
+    padding: 12px;
+  }
+  .before-card h3 { font-size: 12px; color: #333; margin-bottom: 4px; }
+  .before-card p { font-size: 11px; color: #999; }
+
+  /* After mock */
+  .after-mock {
+    background: var(--paper);
+    font-family: var(--sans);
+  }
+  .after-nav {
+    background: var(--paper);
+    padding: 12px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--accent);
+  }
+  .after-logo-mini {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--serif);
+    font-weight: 900;
+    font-size: 0.85rem;
+    color: var(--ink);
+  }
+  .after-logo-mini-mark {
+    width: 18px; height: 18px;
+    background: var(--rust);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--paper);
+    font-size: 0.5rem;
+    font-weight: 900;
+  }
+  .after-nav-links {
+    display: flex;
+    gap: 16px;
+  }
+  .after-nav-links span {
+    font-family: var(--mono);
+    font-size: 0.5rem;
+    letter-spacing: 0.15em;
+    color: var(--smoke);
+    text-transform: uppercase;
+  }
+  .after-hero {
+    padding: 24px 16px 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  .after-hero::before {
+    content: '';
+    position: absolute;
+    top: -30px; right: -30px;
+    width: 120px; height: 120px;
+    background: var(--rust);
+    border-radius: 50%;
+    opacity: 0.06;
+  }
+  .after-hero-tag {
+    font-family: var(--mono);
+    font-size: 0.5rem;
+    letter-spacing: 0.25em;
+    color: var(--rust);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .after-hero h2 {
+    font-family: var(--serif);
+    font-size: 1.5rem;
+    font-weight: 900;
+    line-height: 1.1;
+    color: var(--ink);
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+  }
+  .after-hero h2 em {
+    font-style: normal;
+    color: var(--rust);
+  }
+  .after-hero p {
+    font-size: 0.72rem;
+    color: var(--smoke);
+    line-height: 1.8;
+    max-width: 260px;
+  }
+  .after-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--ink);
+    color: var(--paper);
+    font-family: var(--mono);
+    font-size: 0.5rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    padding: 7px 16px;
+    margin-top: 12px;
+    cursor: default;
+  }
+  .after-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--accent);
+    margin: 1px 16px 16px;
+  }
+  .after-card {
+    background: var(--paper);
+    padding: 10px;
+    position: relative;
+  }
+  .after-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--gold);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s;
+  }
+  .after-card:hover::before { transform: scaleX(1); }
+  .after-card-num {
+    font-family: var(--mono);
+    font-size: 0.5rem;
+    color: var(--gold);
+    letter-spacing: 0.1em;
+    margin-bottom: 4px;
+  }
+  .after-card h3 {
+    font-family: var(--serif);
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 3px;
+  }
+  .after-card p { font-size: 0.6rem; color: var(--smoke); line-height: 1.6; }
+
+  /* ═══════════════════════════════════════
+     S8 · 原则总结
+  ═══════════════════════════════════════ */
+  #principles {
+    background: var(--ink);
+    color: var(--paper);
+    padding: var(--gap-xl) 0;
+    min-height: auto;
+  }
+
+  .principle-list {
+    counter-reset: principle;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--gap-lg) var(--gap-xl);
+    margin-top: var(--gap-lg);
+  }
+  .principle-item {
+    counter-increment: principle;
+    position: relative;
+    padding-left: 3.5rem;
+  }
+  .principle-item::before {
+    content: counter(principle, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    color: var(--gold);
+    letter-spacing: 0.1em;
+  }
+  .principle-title {
+    font-family: var(--serif);
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: var(--gap-xs);
+    color: var(--paper);
+  }
+  .principle-desc {
+    font-size: 0.85rem;
+    color: var(--smoke);
+    line-height: 1.8;
+  }
+
+  /* ═══════════════════════════════════════
+     FOOTER
+  ═══════════════════════════════════════ */
+  footer {
+    background: var(--ink);
+    border-top: 1px solid #2a2a2a;
+    padding: var(--gap-lg);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  footer p {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    color: var(--smoke);
+    letter-spacing: 0.15em;
+  }
+  footer .footer-mark {
+    width: 24px; height: 24px;
+    background: var(--rust);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--paper);
+    font-family: var(--serif);
+    font-weight: 900;
+    font-size: 0.7rem;
+  }
+
+  /* ═══════════════════════════════════════
+     滚动入场动画
+  ═══════════════════════════════════════ */
+  .reveal {
+    opacity: 0;
+    transform: translateY(32px);
+    transition: opacity 0.8s var(--ease-out), transform 0.8s var(--ease-out);
+  }
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .reveal-delay-1 { transition-delay: 0.1s; }
+  .reveal-delay-2 { transition-delay: 0.2s; }
+  .reveal-delay-3 { transition-delay: 0.3s; }
+  .reveal-delay-4 { transition-delay: 0.4s; }
+
+  /* ═══════════════════════════════════════
+     进度条
+  ═══════════════════════════════════════ */
+  .scroll-progress {
+    position: fixed;
+    top: 0; left: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--rust), var(--gold));
+    z-index: 200;
+    transform-origin: left;
+    transform: scaleX(0);
+    transition: transform 0.1s;
+  }
+
+  /* ═══════════════════════════════════════
+     响应式
+  ═══════════════════════════════════════ */
+  @media (max-width: 768px) {
+    .dim-grid { grid-template-columns: 1fr; }
+    .anim-grid { grid-template-columns: repeat(2, 1fr); }
+    .sound-types { grid-template-columns: repeat(2, 1fr); }
+    .compare-grid { grid-template-columns: 1fr; }
+    .principle-list { grid-template-columns: 1fr; }
+    .type-showcase { grid-template-columns: 1fr; }
+    h1 { font-size: 3rem; }
+    nav ul { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- 自定义光标 -->
+<div class="cursor" id="cursor"></div>
+<div class="cursor-ring" id="cursorRing"></div>
+
+<!-- 滚动进度 -->
+<div class="scroll-progress" id="scrollProgress"></div>
+
+<!-- 导航 -->
+<nav>
+  <a href="#hero" class="logo">
+    <span class="logo-mark">品</span>
+    BrandOS
+  </a>
+  <ul>
+    <li><a href="#dimensions">维度</a></li>
+    <li><a href="#color-system">色彩</a></li>
+    <li><a href="#type-system">字体</a></li>
+    <li><a href="#animation-demo">动效</a></li>
+    <li><a href="#sound-brand">声音</a></li>
+    <li><a href="#before-after">对比</a></li>
+  </ul>
+</nav>
+
+<!-- ─── S1 HERO ─── -->
+<section id="hero">
+  <div class="hero-bg">
+    <div class="hero-bg-circle hbc1"></div>
+    <div class="hero-bg-circle hbc2"></div>
+  </div>
+  <div class="container">
+    <div class="hero-content">
+      <p class="hero-label">品牌化完整指南</p>
+      <h1>让网站<br>拥有<em>灵魂</em></h1>
+      <p class="hero-sub">颜色、字体、间距、Logo、内容、动画、声音——七个维度协同作用，从"普通网页"到"有记忆点的品牌体验"。</p>
+      <div class="hero-cta">
+        <a href="#dimensions" class="btn-primary"><span>开始探索</span></a>
+        <a href="#before-after" class="btn-ghost">
+          查看对比
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-deco">Brand Identity System · 2024</div>
+</section>
+
+<!-- ─── S2 七大维度 ─── -->
+<section id="dimensions">
+  <div class="container">
+    <p class="section-label reveal">七个品牌维度</p>
+    <div class="dim-grid">
+
+      <div class="dim-card reveal reveal-delay-1">
+        <div class="dim-num">01 / 07</div>
+        <span class="dim-icon">🎨</span>
+        <div class="dim-title">色彩系统</div>
+        <div class="dim-desc">主色定调性格，辅色扩展表达，强调色引导视线。颜色不是装饰，是品牌的第一语言。</div>
+        <div class="dim-tags">
+          <span class="tag">主色</span>
+          <span class="tag">辅色</span>
+          <span class="tag">强调色</span>
+          <span class="tag">CSS变量</span>
+        </div>
+      </div>
+
+      <div class="dim-card reveal reveal-delay-2">
+        <div class="dim-num">02 / 07</div>
+        <span class="dim-icon">Aa</span>
+        <div class="dim-title">字体排版</div>
+        <div class="dim-desc">标题字体塑造个性，正文字体保证可读性，等宽字体强化技术感。字体比内容先被感受到。</div>
+        <div class="dim-tags">
+          <span class="tag">Display字体</span>
+          <span class="tag">Body字体</span>
+          <span class="tag">字重</span>
+          <span class="tag">行高</span>
+        </div>
+      </div>
+
+      <div class="dim-card reveal reveal-delay-3">
+        <div class="dim-num">03 / 07</div>
+        <span class="dim-icon">⬜</span>
+        <div class="dim-title">空间节奏</div>
+        <div class="dim-desc">间距是无声的呼吸。8px网格系统让布局有韵律感，留白让内容有重量，密度传达信息层级。</div>
+        <div class="dim-tags">
+          <span class="tag">8px网格</span>
+          <span class="tag">留白</span>
+          <span class="tag">层级</span>
+          <span class="tag">节奏</span>
+        </div>
+      </div>
+
+      <div class="dim-card reveal reveal-delay-1">
+        <div class="dim-num">04 / 07</div>
+        <span class="dim-icon">◆</span>
+        <div class="dim-title">Logo标识</div>
+        <div class="dim-desc">Logo是品牌的脸。图形标记+文字标记的组合，在所有尺寸和背景下保持识别度和一致性。</div>
+        <div class="dim-tags">
+          <span class="tag">图形标记</span>
+          <span class="tag">文字标记</span>
+          <span class="tag">Favicon</span>
+          <span class="tag">响应式</span>
+        </div>
+      </div>
+
+      <div class="dim-card reveal reveal-delay-2">
+        <div class="dim-num">05 / 07</div>
+        <span class="dim-icon">✦</span>
+        <div class="dim-title">内容语调</div>
+        <div class="dim-desc">文字的语气、措辞风格、标点习惯——这些构成品牌的"声线"。专业≠冷漠，亲切≠随意。</div>
+        <div class="dim-tags">
+          <span class="tag">语调</span>
+          <span class="tag">措辞</span>
+          <span class="tag">Microcopy</span>
+          <span class="tag">一致性</span>
+        </div>
+      </div>
+
+      <div class="dim-card reveal reveal-delay-3">
+        <div class="dim-num">06 / 07</div>
+        <span class="dim-icon">◎</span>
+        <div class="dim-title">动效系统</div>
+        <div class="dim-desc">入场动画建立期待，过渡动效传递流畅，微交互反馈确认。运动曲线是品牌的"肢体语言"。</div>
+        <div class="dim-tags">
+          <span class="tag">缓动曲线</span>
+          <span class="tag">入场动画</span>
+          <span class="tag">微交互</span>
+          <span class="tag">Loading</span>
+        </div>
+      </div>
+
+      <div class="dim-card reveal reveal-delay-1" style="grid-column: span 1; background: #0d0d0d;">
+        <div class="dim-num">07 / 07</div>
+        <span class="dim-icon">🔊</span>
+        <div class="dim-title">声音品牌</div>
+        <div class="dim-desc">点击音效、通知音、品牌旋律——声音在无意识中强化记忆。最被忽视的品牌维度。</div>
+        <div class="dim-tags">
+          <span class="tag">UI音效</span>
+          <span class="tag">品牌旋律</span>
+          <span class="tag">通知音</span>
+          <span class="tag">沉浸感</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ─── S3 色彩系统 ─── -->
+<section id="color-system">
+  <div class="container">
+    <p class="section-label reveal">色彩系统 · Color Tokens</p>
+    <div class="color-demo-title reveal">
+      颜色是<span>情绪</span>的<br>第一载体
+    </div>
+
+    <div class="palette reveal">
+      <div class="swatch" style="background:#0d0d0d">
+        <div class="swatch-name">INK</div>
+        <div class="swatch-hex">#0d0d0d</div>
+      </div>
+      <div class="swatch" style="background:#b84c2f">
+        <div class="swatch-name">RUST</div>
+        <div class="swatch-hex">#b84c2f</div>
+      </div>
+      <div class="swatch" style="background:#c8a96e">
+        <div class="swatch-name">GOLD</div>
+        <div class="swatch-hex">#c8a96e</div>
+      </div>
+      <div class="swatch" style="background:#3a5c3e">
+        <div class="swatch-name">MOSS</div>
+        <div class="swatch-hex">#3a5c3e</div>
+      </div>
+      <div class="swatch" style="background:#f5f0e8">
+        <div class="swatch-name">PAPER</div>
+        <div class="swatch-hex">#f5f0e8</div>
+      </div>
+      <div class="swatch" style="background:#8a8880">
+        <div class="swatch-name">SMOKE</div>
+        <div class="swatch-hex">#8a8880</div>
+      </div>
+      <div class="swatch" style="background:#e8d5b0">
+        <div class="swatch-name">ACCENT</div>
+        <div class="swatch-hex">#e8d5b0</div>
+      </div>
+    </div>
+
+    <div style="margin-top: var(--gap-lg); display:grid; grid-template-columns:1fr 1fr 1fr; gap:var(--gap-md);">
+      <div class="reveal reveal-delay-1" style="padding:var(--gap-md); background:var(--ink); color:var(--paper);">
+        <div style="font-family:var(--mono);font-size:0.6rem;letter-spacing:0.2em;color:var(--gold);margin-bottom:var(--gap-sm);">DOMINANT · 60%</div>
+        <div style="font-family:var(--serif);font-size:1.1rem;font-weight:700;">主色调</div>
+        <div style="font-size:0.8rem;color:var(--smoke);margin-top:var(--gap-xs);">背景、大面积区域，定下整体基调</div>
+      </div>
+      <div class="reveal reveal-delay-2" style="padding:var(--gap-md); background:var(--gold); color:var(--ink);">
+        <div style="font-family:var(--mono);font-size:0.6rem;letter-spacing:0.2em;margin-bottom:var(--gap-sm);opacity:0.6;">SECONDARY · 30%</div>
+        <div style="font-family:var(--serif);font-size:1.1rem;font-weight:700;">辅助色</div>
+        <div style="font-size:0.8rem;opacity:0.7;margin-top:var(--gap-xs);">卡片、分隔、次级元素</div>
+      </div>
+      <div class="reveal reveal-delay-3" style="padding:var(--gap-md); background:var(--rust); color:var(--paper);">
+        <div style="font-family:var(--mono);font-size:0.6rem;letter-spacing:0.2em;margin-bottom:var(--gap-sm);opacity:0.7;">ACCENT · 10%</div>
+        <div style="font-family:var(--serif);font-size:1.1rem;font-weight:700;">强调色</div>
+        <div style="font-size:0.8rem;opacity:0.8;margin-top:var(--gap-xs);">CTA按钮、重点、视线引导</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── S4 字体系统 ─── -->
+<section id="type-system">
+  <div class="container">
+    <p class="section-label reveal">字体系统 · Type Scale</p>
+    <div class="type-showcase">
+      <div class="type-specimen reveal">
+        <div class="type-meta">DISPLAY · Noto Serif SC · 900</div>
+        <div class="type-large">Aa<br>品牌</div>
+        <div class="type-body-demo">
+          正文字体承担大量阅读任务，需要在300px的手机屏幕和4K显示器上都保持舒适。字重300，行高1.9，这是阅读的节奏。
+        </div>
+      </div>
+      <div class="reveal reveal-delay-2">
+        <div class="type-meta" style="margin-bottom:var(--gap-md);">SPACING SCALE · 8px Grid</div>
+        <div class="spacing-demo">
+          <div class="spacing-row">
+            <span class="spacing-label">XS · 4px</span>
+            <div class="spacing-bar" style="width:4px;"></div>
+          </div>
+          <div class="spacing-row">
+            <span class="spacing-label">SM · 8px</span>
+            <div class="spacing-bar" style="width:8px;"></div>
+          </div>
+          <div class="spacing-row">
+            <span class="spacing-label">MD · 16px</span>
+            <div class="spacing-bar" style="width:16px;"></div>
+          </div>
+          <div class="spacing-row">
+            <span class="spacing-label">LG · 32px</span>
+            <div class="spacing-bar" style="width:32px;"></div>
+          </div>
+          <div class="spacing-row">
+            <span class="spacing-label">XL · 64px</span>
+            <div class="spacing-bar" style="width:64px;"></div>
+          </div>
+          <div class="spacing-row">
+            <span class="spacing-label">2XL · 128px</span>
+            <div class="spacing-bar" style="width:128px;"></div>
+          </div>
+        </div>
+
+        <div style="margin-top:var(--gap-lg);">
+          <div class="type-meta">LETTER SPACING</div>
+          <div style="margin-top:var(--gap-md);display:flex;flex-direction:column;gap:var(--gap-sm);">
+            <div style="font-family:var(--serif);font-size:1.4rem;letter-spacing:-0.03em;color:var(--ink);">标题紧排 −0.03em</div>
+            <div style="font-family:var(--sans);font-size:1rem;letter-spacing:0;color:var(--ink);">正文默认 0em</div>
+            <div style="font-family:var(--mono);font-size:0.75rem;letter-spacing:0.2em;color:var(--smoke);text-transform:uppercase;">标签宽松 +0.20EM</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── S5 动效系统 ─── -->
+<section id="animation-demo">
+  <div class="container">
+    <p class="section-label reveal" style="color:var(--gold);">动效系统 · Motion Design</p>
+    <div style="max-width:600px;" class="reveal">
+      <div style="font-family:var(--serif);font-size:clamp(1.8rem,3vw,2.8rem);font-weight:900;line-height:1.1;margin-bottom:var(--gap-md);">运动曲线是<br>品牌的肢体语言</div>
+      <div style="font-size:0.9rem;color:var(--smoke);line-height:1.9;">快进慢出传递力量感；慢进快出传递轻盈；弹性曲线传递活力。不同的缓动函数会让同一个品牌感觉完全不同。</div>
+    </div>
+
+    <div class="anim-grid">
+      <div class="anim-card reveal reveal-delay-1">
+        <div class="anim-preview">
+          <div class="spin-box"></div>
+        </div>
+        <div class="anim-label">ROTATE<br>线性旋转</div>
+      </div>
+      <div class="anim-card reveal reveal-delay-2">
+        <div class="anim-preview">
+          <div class="pulse-dot"></div>
+        </div>
+        <div class="anim-label">PULSE<br>心跳脉冲</div>
+      </div>
+      <div class="anim-card reveal reveal-delay-3">
+        <div class="anim-preview">
+          <div class="bounce-bar">
+            <span></span><span></span><span></span><span></span>
+          </div>
+        </div>
+        <div class="anim-label">WAVE<br>音频波形</div>
+      </div>
+      <div class="anim-card reveal reveal-delay-4">
+        <div class="anim-preview">
+          <div class="type-cursor">品牌</div>
+        </div>
+        <div class="anim-label">CURSOR<br>打字光标</div>
+      </div>
+    </div>
+
+    <!-- 缓动曲线说明 -->
+    <div style="margin-top:var(--gap-lg);display:grid;grid-template-columns:repeat(3,1fr);gap:var(--gap-md);" class="reveal">
+      <div style="padding:var(--gap-md);border:1px solid #2a2a2a;">
+        <div style="font-family:var(--mono);font-size:0.6rem;color:var(--gold);letter-spacing:0.15em;margin-bottom:var(--gap-sm);">EASE-OUT</div>
+        <div style="font-family:var(--serif);font-weight:700;margin-bottom:var(--gap-xs);">快入慢出</div>
+        <div style="font-size:0.8rem;color:var(--smoke);">入场动画首选。快速响应后缓缓落定，传递确定感。</div>
+        <div style="font-family:var(--mono);font-size:0.6rem;color:#3a3a3a;margin-top:var(--gap-sm);">cubic-bezier(0.16,1,0.3,1)</div>
+      </div>
+      <div style="padding:var(--gap-md);border:1px solid #2a2a2a;">
+        <div style="font-family:var(--mono);font-size:0.6rem;color:var(--gold);letter-spacing:0.15em;margin-bottom:var(--gap-sm);">EASE-IN</div>
+        <div style="font-family:var(--serif);font-weight:700;margin-bottom:var(--gap-xs);">慢入快出</div>
+        <div style="font-size:0.8rem;color:var(--smoke);">退场动画首选。优雅离场，不拖泥带水。</div>
+        <div style="font-family:var(--mono);font-size:0.6rem;color:#3a3a3a;margin-top:var(--gap-sm);">cubic-bezier(0.7,0,0.84,0)</div>
+      </div>
+      <div style="padding:var(--gap-md);border:1px solid #2a2a2a;">
+        <div style="font-family:var(--mono);font-size:0.6rem;color:var(--gold);letter-spacing:0.15em;margin-bottom:var(--gap-sm);">SPRING</div>
+        <div style="font-family:var(--serif);font-weight:700;margin-bottom:var(--gap-xs);">弹性曲线</div>
+        <div style="font-size:0.8rem;color:var(--smoke);">微交互神器。超出目标再回弹，充满生命力。</div>
+        <div style="font-family:var(--mono);font-size:0.6rem;color:#3a3a3a;margin-top:var(--gap-sm);">spring(1, 80, 10, 0)</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── S6 声音品牌 ─── -->
+<section id="sound-brand">
+  <div class="container">
+    <p class="section-label reveal">声音品牌 · Audio Identity</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:var(--gap-xl);align-items:start;">
+      <div class="reveal">
+        <div style="font-family:var(--serif);font-size:clamp(1.8rem,3vw,2.8rem);font-weight:900;line-height:1.1;margin-bottom:var(--gap-md);">听觉是<br>最被忽视的<br><em style="font-style:normal;color:var(--rust);">品牌维度</em></div>
+        <p style="color:var(--smoke);line-height:1.9;font-size:0.95rem;">Netflix的"咚"，微信的消息提示音，Apple开机声——声音在0.3秒内完成品牌识别。UI音效设计不是加效果，是建立听觉记忆。</p>
+
+        <div class="sound-visual">
+          <!-- 波形可视化 -->
+          <script>
+            // 生成40根波形条
+            const bars = Array.from({length:40}, (_,i) => {
+              const delay = (i * 0.04).toFixed(2);
+              const height = (30 + Math.sin(i * 0.5) * 25).toFixed(0);
+              return `<div class="wave-bar" style="height:${height}px;animation-delay:${delay}s;"></div>`;
+            }).join('');
+            document.currentScript.insertAdjacentHTML('afterend', bars);
+          </script>
+        </div>
+
+        <button class="sound-btn" id="soundBtn" onclick="playBrandSound()">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+          试听示例音效
+        </button>
+      </div>
+
+      <div class="reveal reveal-delay-2">
+        <div class="sound-types">
+          <div class="sound-type">
+            <div class="sound-type-icon">👆</div>
+            <div class="sound-type-name">点击音</div>
+            <div class="sound-type-desc">按钮反馈，确认操作。清脆、短促。</div>
+          </div>
+          <div class="sound-type">
+            <div class="sound-type-icon">✅</div>
+            <div class="sound-type-name">成功音</div>
+            <div class="sound-type-desc">任务完成，积极上扬的音调。</div>
+          </div>
+          <div class="sound-type">
+            <div class="sound-type-icon">⚠️</div>
+            <div class="sound-type-name">提示音</div>
+            <div class="sound-type-desc">温和提醒，不引发焦虑。</div>
+          </div>
+          <div class="sound-type">
+            <div class="sound-type-icon">🎵</div>
+            <div class="sound-type-name">品牌音</div>
+            <div class="sound-type-desc">开屏旋律，5秒内的记忆锚点。</div>
+          </div>
+        </div>
+
+        <div style="margin-top:var(--gap-lg);padding:var(--gap-md);border:1px solid var(--accent);background:rgba(200,169,110,0.05);">
+          <div style="font-family:var(--mono);font-size:0.6rem;letter-spacing:0.2em;color:var(--rust);margin-bottom:var(--gap-sm);">DESIGN PRINCIPLE</div>
+          <div style="font-family:var(--serif);font-weight:700;margin-bottom:var(--gap-xs);">声音应该可以关闭</div>
+          <div style="font-size:0.82rem;color:var(--smoke);line-height:1.8;">尊重用户的听觉环境。提供开关，默认遵循系统静音设置。强制播放声音会破坏而非建立品牌好感。</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── S7 BEFORE / AFTER ─── -->
+<section id="before-after">
+  <div class="container">
+    <p class="section-label reveal">对比演示 · Before vs After</p>
+    <div style="font-family:var(--serif);font-size:clamp(1.8rem,3vw,2.8rem);font-weight:900;margin-bottom:var(--gap-md);" class="reveal">
+      同样的内容<br>完全不同的感受
+    </div>
+
+    <div class="compare-grid">
+      <div class="compare-panel reveal reveal-delay-1">
+        <div class="compare-panel-label label-before">❌ 品牌化之前</div>
+        <div class="mock-site before-mock">
+          <div class="before-nav">
+            <span>🌐 我的公司</span>
+            <span>首页 | 产品 | 关于 | 联系</span>
+          </div>
+          <div class="before-hero">
+            <h2>欢迎来到我们的网站</h2>
+            <p>我们提供优质的产品和服务，致力于客户满意。</p>
+            <div class="before-btn">立即了解</div>
+          </div>
+          <div class="before-cards">
+            <div class="before-card">
+              <h3>产品一</h3>
+              <p>这是我们的核心产品，功能强大。</p>
+            </div>
+            <div class="before-card">
+              <h3>产品二</h3>
+              <p>满足您的多样化需求。</p>
+            </div>
+            <div class="before-card">
+              <h3>产品三</h3>
+              <p>持续创新，不断进步。</p>
+            </div>
+          </div>
+        </div>
+        <div style="padding:var(--gap-md);background:white;border-top:1px solid #eee;">
+          <div style="font-family:Arial;font-size:12px;color:#999;line-height:1.6;">
+            ✗ 通用蓝色，无品牌感<br>
+            ✗ Arial字体，无个性<br>
+            ✗ 无间距节奏<br>
+            ✗ "欢迎来到我们"式无效文案<br>
+            ✗ 无动效，无音效<br>
+            ✗ 可以是任何一家公司
+          </div>
+        </div>
+      </div>
+
+      <div class="compare-panel reveal reveal-delay-2">
+        <div class="compare-panel-label label-after">✓ 品牌化之后</div>
+        <div class="mock-site after-mock">
+          <div class="after-nav">
+            <div class="after-logo-mini">
+              <div class="after-logo-mini-mark">品</div>
+              BrandOS
+            </div>
+            <div class="after-nav-links">
+              <span>产品</span>
+              <span>故事</span>
+              <span>联系</span>
+            </div>
+          </div>
+          <div class="after-hero">
+            <div class="after-hero-tag">—— 品牌化解决方案</div>
+            <h2>让你的网站<br><em>被记住</em></h2>
+            <p>七个维度协同——从色彩到声音，建立有灵魂的品牌体验。</p>
+            <div class="after-btn">
+              开始探索
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </div>
+          </div>
+          <div class="after-cards">
+            <div class="after-card">
+              <div class="after-card-num">01</div>
+              <h3>色彩系统</h3>
+              <p>有温度的调色板</p>
+            </div>
+            <div class="after-card">
+              <div class="after-card-num">02</div>
+              <h3>字体排版</h3>
+              <p>有性格的文字</p>
+            </div>
+            <div class="after-card">
+              <div class="after-card-num">03</div>
+              <h3>动效语言</h3>
+              <p>有生命的界面</p>
+            </div>
+          </div>
+        </div>
+        <div style="padding:var(--gap-md);background:rgba(245,240,232,0.5);border-top:1px solid var(--accent);">
+          <div style="font-family:var(--sans);font-size:0.78rem;color:var(--smoke);line-height:1.8;">
+            ✓ 定制色彩系统，有记忆点<br>
+            ✓ Serif+Sans双字体，有层次<br>
+            ✓ 8px网格，间距有节奏<br>
+            ✓ 具体、有主张的文案<br>
+            ✓ 滚动动效、微交互<br>
+            ✓ 认得出是这家品牌
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── S8 原则 ─── -->
+<section id="principles">
+  <div class="container">
+    <p class="section-label reveal" style="color:var(--gold);">品牌化原则 · Core Principles</p>
+    <div class="principle-list">
+      <div class="principle-item reveal reveal-delay-1">
+        <div class="principle-title">一致性高于创意</div>
+        <div class="principle-desc">品牌的力量来自重复。同一个色值、同一个字体、同一种语调——在所有页面、所有设备上保持一致，才能建立认知。</div>
+      </div>
+      <div class="principle-item reveal reveal-delay-2">
+        <div class="principle-title">CSS变量是基础设施</div>
+        <div class="principle-desc">把所有品牌决策写成CSS变量。改一个变量，全站生效。这是品牌维护的工程化保障，而非细节。</div>
+      </div>
+      <div class="principle-item reveal reveal-delay-3">
+        <div class="principle-title">第一屏决定一切</div>
+        <div class="principle-desc">用户在3秒内判断品牌档次。入场动画、标题字体、主色调——第一屏的每一个决定都在无声地传递品牌定位。</div>
+      </div>
+      <div class="principle-item reveal reveal-delay-4">
+        <div class="principle-title">动效要有意义</div>
+        <div class="principle-desc">每一个动画都应该服务于目标：引导注意力、确认反馈、建立空间感。为了动而动只会让用户感到疲惫。</div>
+      </div>
+      <div class="principle-item reveal reveal-delay-1">
+        <div class="principle-title">留白是设计语言</div>
+        <div class="principle-desc">高端品牌的秘密不是"放了什么"，而是"没放什么"。充足的留白传递自信，拥挤的布局传递焦虑。</div>
+      </div>
+      <div class="principle-item reveal reveal-delay-2">
+        <div class="principle-title">声音是可选增强</div>
+        <div class="principle-desc">声音品牌是加分项，永远不是必须项。遵循系统静音，提供开关，在用户主动打开的场景中才释放声音的品牌力量。</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>BRAND OS · 品牌化完整演示 · 2024</p>
+  <div class="footer-mark">品</div>
+</footer>
+
+<script>
+// ── 自定义光标 ──
+const cursor = document.getElementById('cursor');
+const ring = document.getElementById('cursorRing');
+let mx = 0, my = 0, rx = 0, ry = 0;
+
+document.addEventListener('mousemove', e => {
+  mx = e.clientX; my = e.clientY;
+  cursor.style.left = mx + 'px';
+  cursor.style.top = my + 'px';
+});
+
+function animateRing() {
+  rx += (mx - rx) * 0.12;
+  ry += (my - ry) * 0.12;
+  ring.style.left = rx + 'px';
+  ring.style.top = ry + 'px';
+  requestAnimationFrame(animateRing);
+}
+animateRing();
+
+document.querySelectorAll('a, button, .dim-card, .swatch, .anim-card, .sound-type').forEach(el => {
+  el.addEventListener('mouseenter', () => { cursor.classList.add('hover'); ring.classList.add('hover'); });
+  el.addEventListener('mouseleave', () => { cursor.classList.remove('hover'); ring.classList.remove('hover'); });
+});
+
+// ── 滚动进度 ──
+const progress = document.getElementById('scrollProgress');
+window.addEventListener('scroll', () => {
+  const pct = window.scrollY / (document.body.scrollHeight - window.innerHeight);
+  progress.style.transform = `scaleX(${pct})`;
+});
+
+// ── 滚动入场动画 ──
+const revealEls = document.querySelectorAll('.reveal');
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+}, { threshold: 0.12 });
+revealEls.forEach(el => observer.observe(el));
+
+// ── Web Audio · 声音演示 ──
+let audioCtx;
+function playBrandSound() {
+  if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  const btn = document.getElementById('soundBtn');
+  btn.classList.add('playing');
+  btn.textContent = '▶ 正在播放…';
+
+  // 品牌音调: C-E-G 三和弦上行
+  const notes = [261.63, 329.63, 392.00, 523.25];
+  notes.forEach((freq, i) => {
+    const osc = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    osc.connect(gain);
+    gain.connect(audioCtx.destination);
+    osc.type = 'sine';
+    osc.frequency.value = freq;
+    const t = audioCtx.currentTime + i * 0.18;
+    gain.gain.setValueAtTime(0, t);
+    gain.gain.linearRampToValueAtTime(0.18, t + 0.05);
+    gain.gain.exponentialRampToValueAtTime(0.001, t + 0.55);
+    osc.start(t);
+    osc.stop(t + 0.6);
+  });
+
+  setTimeout(() => {
+    btn.classList.remove('playing');
+    btn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg> 试听示例音效';
+  }, 1000);
+}
+
+// ── 点击音效 ──
+document.querySelectorAll('.btn-primary, .sound-type, .dim-card').forEach(el => {
+  el.addEventListener('click', () => {
+    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    const osc = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    osc.connect(gain);
+    gain.connect(audioCtx.destination);
+    osc.frequency.value = 800;
+    osc.type = 'sine';
+    gain.gain.setValueAtTime(0.08, audioCtx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.1);
+    osc.start(audioCtx.currentTime);
+    osc.stop(audioCtx.currentTime + 0.1);
+  });
+});
+</script>
+</body>
+</html>
